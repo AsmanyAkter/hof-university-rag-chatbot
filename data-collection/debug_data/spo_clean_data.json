@@ -1,0 +1,2647 @@
+{
+  "Operational Excellence (M.B.A. and Eng.)": {
+    "program_name": "Operational Excellence (M.B.A. and Eng.)",
+    "sections": {
+      "Specific Admission Requirements": "(1) 1Specific admission requirements are a degree in an engineering science degree program that has led to\nthe acquisition of at least 180 credit points, with an overall examination grade in accordance with Para. 2 and\npractical professional experience in accordance with Para. 3. 2The examination board decides whether these\nrequirements are met.\n- 2 -\n(2) 1The degree program in accordance with Para. 1 Sentence 1 must have been completed with an overall\ngrade of at least 2.5 or an equivalent grade. 2A grade shall also be regarded as equivalent if this grade or a\nbetter grade was achieved by no more than 50% of those who completed the relevant degree program in the\nsame year as the applicant.\n(3) 1Prior to taking up the studies, a specialist or management activity based on the professional qualification\npursuant to Para. 1 Sentence 1 No. 1 must have been carried out, which led to experience in the field of\nsupply chain management or production management. 2This activity must have lasted at least one year and\nmust have comprised 1500 time hours.",
+      "Internship": "(1) The prerequisites for carrying out the internship and admission to the examination in the module\n\"Internship\" are that at least 50 credit points have been acquired through the completion of modules of the\ndegree program.\n(2) 1Students who wish to complete this module at a company location in a German-speaking environment\nmust also provide the examination board with evidence of at least B1-level German language skills before\nstarting the internship. 2Such proof is not required if the university entrance qualification or a university or\nequivalent degree was obtained in German at an institution in a German-speaking environment. 3The same\napplies if the respective company declares to the examination board that internal and external communication\nwith the student during the internship does not have to be in German or only to a minor extent.\n- 3 -",
+      "Master Thesis": "(1) 1The master’s thesis in principle serves to deal with a concrete operational problem or a research task and\nis therefore prepared within the framework of a special related internship. 2Upon request, the examination\nboard may permit the Master's thesis to be written outside of an internship if the application relevance of the\nthesis is nevertheless ensured and the topic is suitable for a special theoretical in-depth study..\n(2) 1The first examiner is appointed until the start of the internship or the approval of an application according\nto Paragraph 1 Sentence 2. 2The first examiner shall immediately determine the topic of the thesis and inform\nthe examination board, the examination office and the student about it. 3The announcement to the student\naffairs office is considered to be the registration for the examination. 4In the cases of Paragraph 1 Sentence\n1, this shall take place no later than one month after the start of the internship. 5The processing period is five\nmonths and begins as soon as the student has been informed of the topic in accordance with sentence 2.\n(3) § 25 para. 2 and 3 APO shall not apply with the exception of § 25 para. 2 sentence 3 and 5."
+    },
+    "modules": [
+      {
+        "module_number": "1",
+        "module_name": "Applied Economics and Intercultural Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "2",
+        "module_name": "Strategic and Financial Framework",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "3",
+        "module_name": "German A2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "4",
+        "module_name": "German B1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "5",
+        "module_name": "German B2.1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "6",
+        "module_name": "German B2.2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "7",
+        "module_name": "German C1.1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "8",
+        "module_name": "German C1.2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "9",
+        "module_name": "Elective 2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "10",
+        "module_name": "Elective 3",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "11",
+        "module_name": "Industry 4.0 / Data Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "12",
+        "module_name": "Smart Factory Planning and Engineering",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "13",
+        "module_name": "Business Process Excellence",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "14",
+        "module_name": "Supply Chain Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "15",
+        "module_name": "Production Planning and Control",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "16",
+        "module_name": "Quality Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "17",
+        "module_name": "Innovation Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "18",
+        "module_name": "Elective 1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "19",
+        "module_name": "Internship",
+        "module_group": "II. Core Modules",
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "PrB"
+      },
+      {
+        "module_number": "20",
+        "module_name": "Master Thesis",
+        "module_group": "II. Core Modules",
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "AA"
+      }
+    ]
+  },
+  "Artificial Intelligence and Robotics (M.Sc.)": {
+    "program_name": "Artificial Intelligence and Robotics (M.Sc.)",
+    "sections": {
+      "Admission requirements für the Master's Program": "(1) Admission requirements are\n1. a successfully completed first professional degree at a German or foreign university with at least 210\ncredits (credit points according to the European Credit Transfer and Accumulation System - ECTS) or\nan equivalent degree\na) in a computer science degree program or\nb) in an engineering or natural science degree program that has provided a basic knowledge of\ncomputer science sufficient for studying in the master's degree program in Artificial Intelli-\ngence and Robotics, as well as\n2. proof of suitability for the specific course of study in accordance with § 3.\n(2) 1A sufficient basic knowledge of computer science in the sense of paragraph 1 number 1 exists if the cor-\nresponding competences have been the subject of study and examination at least in the same breadth and\ndepth as is the case if having successfully completed in the Bachelor's degree program in Computer Science\n(Informatik) the modules \"Fundamentals of Programming/ Grundlagen der Programmierung\", \"Algorithms\nand Data Structures/ Algorithmen und Datenstrukturen\" and \"Statistics/ Statistik\" or in the Bachelor's degree\nprogram in Engineering Sciences (Ingenieurwissenschaften) the modules \"Programming for Engineers/ Pro-\ngrammieren für Ingenieure\", \"Measurement Technology/ Messtechnik\" and \"Statistics/ Statistik\" at Hof Uni-\nversity of Applied Sciences. 2The examination board decides whether this requirement is fulfilled; in doing so,\nit is guided by the standard of Art. 63 Para. 1 Clause 1 BayHSchG (no significant differences). 3The application\n- 2 -\ndocuments must include descriptions of the modules relevant to the above decision from the relevant module\ncatalogues and program curricula.\n(3) The fulfillment of the admission requirement according to Paragraph 2 shall be deemed equivalent if one\nof the modules mentioned therein is successfully completed in accordance with the relevant study and exam-\nination regulations prior to taking up studies in the Master's program.\n(4) 1 The minimum number of 210 credits pursuant to paragraph 1, sentence 1, number 1 shall be deemed to\nhave been achieved if the course of study referred to therein was 180 credits in length, did not include an in-\nternship semester or similar practical study phases, and the following module is successfully completed by\nthe end of the second semester in the master's program:\nModule title Credits Examination Admission requirement\nInternship 30 Practice Report (10 to 15 pages) Internship certificate\n2The internship serves to build up experience in professional everyday life. 3It must be conducted in a com-\npany, a public institution or a research institution. It must correspond to the degree pursuant to paragraph 1,\nsentence 1, number 1 in terms of subject orientation, significance and difficulty, and must be devoted to an\nactivity related to artificial intelligence and robotics for a total of 900 hours. 4Compliance with these require-\nments shall be evidenced by a certificate issued by the institution referred to in sentence 3, describing the\nsubject of the practical experience in the required manner. 5The practice report shall not be graded, but shall\nbe awarded the marks \"passed with success\" or \"passed without success\". 6The examination board shall de-\ncide whether the requirements of sentence 1 have been met.",
+      "Master's Thesis": "(1) In the Master's thesis, students will demonstrate their ability to apply the knowledge acquired during their\nstudies in an independent, application-oriented scientific work to solve a holistic problem.\n(2) 1The assignment of the topic requires the acquisition of at least 30 credits in the modules of the Master's\ndegree program. 2The time from the assignment of the topic to the submission is five months."
+    },
+    "modules": [
+      {
+        "module_number": "1.1",
+        "module_name": "Applied Deep Learning",
+        "module_group": "1 Core Modules",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "1.2",
+        "module_name": "Generative AI",
+        "module_group": "1 Core Modules",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "1.3",
+        "module_name": "Intelligent Robotics",
+        "module_group": "1 Core Modules",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "1.4",
+        "module_name": "Advanced Architectures in AI",
+        "module_group": "1 Core Modules",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "2.1",
+        "module_name": "New Technologies in Computer Science",
+        "module_group": "1 Core Modules",
+        "credits": 3,
+        "sws": 2,
+        "course_type": "S",
+        "examination_type": "SA, Ref"
+      },
+      {
+        "module_number": "2.2",
+        "module_name": "New Technologies in AI and Ro- botics",
+        "module_group": "1 Core Modules",
+        "credits": 3,
+        "sws": 2,
+        "course_type": "S",
+        "examination_type": "SA, Ref"
+      },
+      {
+        "module_number": "2.3",
+        "module_name": "AI Project",
+        "module_group": "1 Core Modules",
+        "credits": 7,
+        "sws": 4,
+        "course_type": "Pr",
+        "examination_type": "StA, Ref"
+      },
+      {
+        "module_number": "3.1",
+        "module_name": "Predictive Maintenance and Con- dition Monitoring",
+        "module_group": "1 Core Modules",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "3.2",
+        "module_name": "Industry 4.0 and Data Manage- ment",
+        "module_group": "1 Core Modules",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "3.3",
+        "module_name": "Fachbezogenes Wahlpflicht- modul1 / Subject-related elective module1",
+        "module_group": "1 Core Modules",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU",
+        "examination_type": "P2"
+      },
+      {
+        "module_number": "4.1",
+        "module_name": "Deutsch als Fremdsprache A2.1",
+        "module_group": "1 Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "4.2",
+        "module_name": "Deutsch als Fremdsprache A2.2",
+        "module_group": "1 Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "4.3",
+        "module_name": "Deutsch als Fremdsprache B1.1",
+        "module_group": "1 Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "4.4",
+        "module_name": "Deutsch als Fremdsprache B1.2",
+        "module_group": "1 Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "4.5",
+        "module_name": "Deutsch als Fremdsprache B2.1",
+        "module_group": "1 Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "KI90"
+      },
+      {
+        "module_number": "4.6",
+        "module_name": "Deutsch als Fremdsprache B2.2",
+        "module_group": "1 Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "KI90"
+      },
+      {
+        "module_number": "4.7",
+        "module_name": "Deutsch als Fremdsprache C1.1",
+        "module_group": "1 Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "KI90"
+      },
+      {
+        "module_number": "4.8",
+        "module_name": "Deutsch als Fremdsprache C1.2",
+        "module_group": "1 Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "KI90"
+      },
+      {
+        "module_number": "4.9",
+        "module_name": "Intercultural Competence",
+        "module_group": "1 Core Modules",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA, Ref4"
+      },
+      {
+        "module_number": "5",
+        "module_name": "Master Thesis",
+        "module_group": "1 Core Modules",
+        "credits": 30,
+        "sws": null,
+        "course_type": null,
+        "examination_type": "AA"
+      }
+    ]
+  },
+  "Innovative Textilien (B.Sc.)": {
+    "program_name": "Innovative Textilien (B.Sc.)",
+    "sections": {
+      "Compulsory Elective Modules": "(1) 1Subject-related compulsory elective modules (FWPM/Electives) serve to broaden and\ndeepen competencies in selected sub-areas of textile engineering of relevance. 2The FWPM offered\nby the Engineering Department in the respective semester are announced and regulated in detail in\nthe module handbook.\n(2) Instead of one of the two FWPMs, depending on the availability of appropriate courses\nand in accordance with the “Study and Examination Regulations for Courses of the Center for\nLanguages and Intercultural Competence” or the “Study and Examination Regulations for the Study-\nrelated Training for the Acquisition of the Foreign Language Certificate UNIcert®” modules can be\ncompleted, which comprise a total of at least five credit points.",
+      "Practical Semester with Practical Research Project and Bachelor Thesis": "(1) 1The practical semester comprises two practical modules which are both combined in\none internship. 2During the internship, students work on specific operational problems or research\ntasks and thus prepare a practical research project and the bachelor thesis. 3The processing period\nfor the completion of the bachelor thesis is three months.\n(2) 1The internship covers a continuous period of time of at least 20 weeks with the usual\nworking hours of full-time employees. 2The completion of the internship must be proven by a record\nof participation from the company, which meets the requirements of the university.\n(3) For students in the dual study program, the practical semester is carried out in close\ncooperation with the practical partner.\n(4) 1In substantiated exceptional cases, the examination committee may allow the bachelor\nthesis to be written unrelated to the internship or the internship to be completed in a non-consistent\nmanner if the achievement of the learning objectives of the practical semester is nevertheless\nensured. 2It may provide its decision with appropriate provisions on the organization of the\ninternship or on the subject of the bachelor thesis.\n(5) More details are provided in the module handbook.",
+      "Admission Requirements for Modules": "(1) Students who have not yet acquired at least 45 credit points in the modules of the\norientation phase are not permitted to participate in courses and examinations of modules in the\nfollowing study phases until they have fulfilled this admission requirement.\n(2) Participation in the internship and the examinations of the modules of the practical phase\nrequires the successful completion of all modules of the orientation phase and the acquisition of at\nleast 105 credit points in the modules of the core phase.",
+      "Third Re-examinations": "1In each module of the orientation phase and the core phase, students are entitled to a third\nre-examination, which is always carried out in the form of an oral examination with an examination\nduration of 30 minutes. 2Students choose the module in which they wish to make use of this\nregulation by registering for a third re-examination to complete the respective module. 3The third re-\nexamination must be taken within 12 months of the announcement of the results of the previous re-\nexamination."
+    },
+    "modules": [
+      {
+        "module_number": "0008D",
+        "module_name": "Mathematics for Engineers I (Ingenieurmathematik I)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0009D",
+        "module_name": "Chemistry and Environmental Technology (Chemie und Umwelttechnik)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 6,
+        "course_type": "SU,Pr",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "0299E",
+        "module_name": "Computational Science for Practitioners",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "1495D",
+        "module_name": "Basics of Textile Engineering (Grundlagen Textilmaschinenbau)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 6,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0010D",
+        "module_name": "Basics of Material Science (Ingenieurwerkstoffe)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0007D",
+        "module_name": "Statistics (Statistik)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0147D",
+        "module_name": "Basics Project Management (Grundlagen Projektmanagement)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, PrjA"
+      },
+      {
+        "module_number": "0011D",
+        "module_name": "Introduction to Business Administration (Einführung in die Betriebswirtschaftslehre)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0189D",
+        "module_name": "Textile Raw Materials (Textile Werkstoffkunde und Rohstoffe)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0191D",
+        "module_name": "Methods of Textile Production (Textile Produktionsverfahren)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 6,
+        "course_type": "SU",
+        "examination_type": "schrP120"
+      },
+      {
+        "module_number": "0263D",
+        "module_name": "Basic Principles of Textile Finishing (Grundlagen der Textilveredelung)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0190D",
+        "module_name": "Testing of Textiles (Prüfung textiler Materialien)",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0193E",
+        "module_name": "Knitting Technology",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0194E",
+        "module_name": "Spinning Technology",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0200E",
+        "module_name": "Weaving Technology",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0201E",
+        "module_name": "Technology of Nonwovens",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0199E",
+        "module_name": "Technical Studies for Knitted and Woven Structures",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP120"
+      },
+      {
+        "module_number": "0017E",
+        "module_name": "Chemistry II",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0195E",
+        "module_name": "Analytical Chemistry",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "0209E",
+        "module_name": "Textile Chemistry",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "0205E",
+        "module_name": "Technical Textiles – Knitted Fabrics",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0212E",
+        "module_name": "Technical Textiles – Woven Fabrics",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0211E",
+        "module_name": "Textile Composite Materials",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "0213E",
+        "module_name": "Textile Coating and Industrial Fibres",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "1496E",
+        "module_name": "Customized High- performance Textiles",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU",
+        "examination_type": "schrP90, StA"
+      },
+      {
+        "module_number": "0206E",
+        "module_name": "Advanced Coloration",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0208E",
+        "module_name": "Future in Textile Printing",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0214E",
+        "module_name": "Textile Finishing",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0074E",
+        "module_name": "Modern Methods of Material and Surface Characterization",
+        "module_group": "(2) 1The compulsory and compulsory elective modules, the language of instruction and",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "0015E",
+        "module_name": "Quality Management",
+        "module_group": "Specialization in",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "1370E",
+        "module_name": "Circular Economy and Sustainable Polymer Engineering",
+        "module_group": "Specialization in",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "1497E",
+        "module_name": "Product Development",
+        "module_group": "Specialization in",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "0181E",
+        "module_name": "Business-to-Business Marketing",
+        "module_group": "Specialization in",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU",
+        "examination_type": "StA, Präs"
+      },
+      {
+        "module_number": "0207E",
+        "module_name": "Project Textile",
+        "module_group": "Specialization in",
+        "credits": 5,
+        "sws": 2,
+        "course_type": "SU,Pr",
+        "examination_type": "StA, Präs"
+      },
+      {
+        "module_number": "0215E",
+        "module_name": "Elective I (FWPM)",
+        "module_group": "Specialization in",
+        "credits": 5,
+        "sws": null,
+        "course_type": null,
+        "examination_type": "P"
+      },
+      {
+        "module_number": "0512E",
+        "module_name": "Elective II (FWPM)",
+        "module_group": "Specialization in",
+        "credits": 5,
+        "sws": null,
+        "course_type": null,
+        "examination_type": "P"
+      },
+      {
+        "module_number": "1493E",
+        "module_name": "Practical Project with a Textile Technology Topic",
+        "module_group": "Specialization in",
+        "credits": 5,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "StA"
+      }
+    ]
+  },
+  "Software Engineering for Industrial Applications (M.Eng.)": {
+    "program_name": "Software Engineering for Industrial Applications (M.Eng.)",
+    "sections": {
+      "Admission Requirements for the Master's Degree Program": "(1) 1Admission requirements for the master’s degree program in Software Engineering for Industrial Applica-\ntions are\n1. a successfully completed bachelor’s degree or an equivalent degree with a minimum of 180 credits\n(according to the European Credit Transfer System – ECTS) from a German or foreign university in the field of\nInformation technology or equivalent,\n2. work experience in accordance with Article 2.\n2The Examination Board determines whether these requirements have been fulfilled or not.\n______________________________\n*as per the edition of the fourth amendment record\n(2) 1After having obtained the professional qualification in accordance with Article 1 Section 1 (1) the applicants\nmust have worked in a specialized professional or management position, in which they must have acquired\nexperience in the area of industrial software development. 2The work experience according to Section 1, must\nhave lasted at least one year and have included at least 1500 hours.",
+      "Master's Thesis": "(1) In the master's thesis, students shall demonstrate their ability to apply the knowledge acquired during their\nstudies in an independent application-oriented scientific work to solve a holistic technical problem.\n(2) 1In principle, the master’s thesis serves to deal with a concrete operational problem and is therefore pre-\npared within the framework of a special related internship. 2This consists of 900 hours (30 credits).\n(3) Upon request, the examination board may permit the master's thesis to be written independent of a concrete\noperational problem and therefore outside an internship, notwithstanding with Article 2, provided that the\npractical relevance of the thesis is nevertheless ensured and the topic is suitable for a particular theoretical\nspecialization.\n(4) The duration from the proposal of the topic of the master’s thesis to the submission is six months."
+    },
+    "modules": [
+      {
+        "module_number": "1",
+        "module_name": "Project Management",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P1"
+      },
+      {
+        "module_number": "2",
+        "module_name": "Software Engineering",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P1"
+      },
+      {
+        "module_number": "3",
+        "module_name": "Communication and Negotiation",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "4",
+        "module_name": "Internet of Things",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90, sta"
+      },
+      {
+        "module_number": "5",
+        "module_name": "Master Thesis",
+        "module_group": "Core Modules",
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "AA"
+      },
+      {
+        "module_number": "6",
+        "module_name": "Component Oriented Software",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P1"
+      },
+      {
+        "module_number": "7",
+        "module_name": "Advanced Programming",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "sta, P1"
+      },
+      {
+        "module_number": "8",
+        "module_name": "Concepts and Tools for Application",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "StA, Präs20"
+      },
+      {
+        "module_number": "9",
+        "module_name": "Practical Studies – Industry 4.0",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "StA, Präs20"
+      },
+      {
+        "module_number": "10",
+        "module_name": "Non-Relational Databases",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P1"
+      },
+      {
+        "module_number": "11",
+        "module_name": "Applied Cloud Computing",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P1"
+      },
+      {
+        "module_number": "12",
+        "module_name": "German A1",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "KI90"
+      },
+      {
+        "module_number": "13",
+        "module_name": "German A2",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP15, Kl90"
+      },
+      {
+        "module_number": "14",
+        "module_name": "German B1",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP15, Kl90"
+      },
+      {
+        "module_number": "15",
+        "module_name": "German B2.1",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP15, KI90"
+      },
+      {
+        "module_number": "16",
+        "module_name": "German B2.2",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP15, KI90"
+      },
+      {
+        "module_number": "17",
+        "module_name": "German C1.1",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP15, KI90"
+      },
+      {
+        "module_number": "18",
+        "module_name": "German C1.2",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP15, KI90"
+      },
+      {
+        "module_number": "19",
+        "module_name": "Analytical Information Systems",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P1"
+      },
+      {
+        "module_number": "20",
+        "module_name": "Mobile Computing",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P1"
+      },
+      {
+        "module_number": "21",
+        "module_name": "Recent Trends in Software",
+        "module_group": "Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P4"
+      },
+      {
+        "module_number": "22",
+        "module_name": "Project and Software Specification",
+        "module_group": "Core Modules",
+        "credits": 14,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "24",
+        "module_name": "Project Software Validation",
+        "module_group": "Core Modules",
+        "credits": 14,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "StA"
+      }
+    ]
+  },
+  "Applied Research in Computer Science (M.Sc.)": {
+    "program_name": "Applied Research in Computer Science (M.Sc.)",
+    "sections": {
+      "Admission requirements": "1Admission requirements are\n1. a successfully completed first professional degree at a German or foreign university with at least\n180 credits (credit points according to the European Credit Transfer and Accumulation System -\nECTS) in a computer science degree program or an equivalent degree and\n2. proof of suitability for the specific course of study in accordance with § 5.\n2A computer science degree program within the scope of sentence 1 no. 1 also exists if the study\nprogram was related to an interdisciplinary scientific field bordering on computer science in the strict\nsense, provided that competencies in the areas of object-oriented programming, software engineering,\ndatabases and computer networks were the subject of study and examination at least in the same\nbreadth and depth as is the case in the Bachelor's degree programs in media informatics\n(Medieninformatik) and business information systems (Wirtschaftsinformatik) at Hof University of Applied\nSciences. 3The examination board decides whether this requirement is fulfilled; in doing so, it is guided by\nthe standard of Art. 63 Para. 1 Clause 1 BayHSchG (no significant differences).",
+      "Master's thesis": "(1) 1The topic of the Master’s thesis is assigned at the beginning of the third semester of study. 2In the\nMaster's thesis, the students shall prove that they have achieved the study objective according to § 2.\n3The time from the issue of the topic of the Master's thesis to its submission is five months.\n(2) For Master's theses, only professors may be appointed as examiners who have several years of\nexperience in conducting research and development projects in the field of computer science or related\ninterdisciplinary scientific fields and whose reputation is proven by at least one peer-reviewed scientific\npublication in the last three years."
+    },
+    "modules": [
+      {
+        "module_number": "1.1",
+        "module_name": "Konstruktionswissenschaftliche For- schungsmethoden (Construction science research methods)",
+        "module_group": null,
+        "credits": 3,
+        "sws": 2,
+        "course_type": "SU",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "1.2",
+        "module_name": "Behavioristische Forschungsmethoden (Behaviouristic research methods)",
+        "module_group": null,
+        "credits": 3,
+        "sws": 2,
+        "course_type": "SU",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "2.1",
+        "module_name": "Projektseminar I (Project Seminar I)",
+        "module_group": null,
+        "credits": 6,
+        "sws": null,
+        "course_type": "S",
+        "examination_type": "Ref"
+      },
+      {
+        "module_number": "2.2",
+        "module_name": "Projektseminar II (Project Seminar II)",
+        "module_group": null,
+        "credits": 6,
+        "sws": null,
+        "course_type": "S",
+        "examination_type": "Ref"
+      },
+      {
+        "module_number": "2.3",
+        "module_name": "Forschungsprojekt I (Research project I)",
+        "module_group": null,
+        "credits": 12,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": null
+      },
+      {
+        "module_number": "2.4",
+        "module_name": "Forschungsprojekt II (Research project II)",
+        "module_group": null,
+        "credits": 12,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": null
+      },
+      {
+        "module_number": "3.1",
+        "module_name": "Neue Technologien in der Informatik (New technologies in computer science)",
+        "module_group": null,
+        "credits": 3,
+        "sws": 2,
+        "course_type": "S",
+        "examination_type": "SA, Ref"
+      },
+      {
+        "module_number": "3.2",
+        "module_name": "Geschäftsmodelle entwickeln und gestalten (Digitalisierung/ Gründung) (Developing and shaping business models (digitization/foundation))",
+        "module_group": null,
+        "credits": 3,
+        "sws": 2,
+        "course_type": "SU",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "4.2",
+        "module_name": "Fachbezogenes Wahlmodul gemäß der Studien- und Prüfungsordnung für den Masterstudiengang Informatik1 (Subject-related elective module according to the study and examination regulations for the :aster's degree program in computer science1)",
+        "module_group": "(Subject-related elective module according",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU",
+        "examination_type": "P2"
+      }
+    ]
+  },
+  "Digitalization and Innovation (M.B.A.)": {
+    "program_name": "Digitalization and Innovation (M.B.A.)",
+    "sections": {
+      "Specific Admission Requirements": "(1) 1Specific admission requirements are a degree in engineering, humanities, social sciences or economics\nthat has led to the acquisition of at least 180 credit points, with an overall examination grade in accordance\nwith Para. 2 and practical professional experience in accordance with Para. 3. 2The examination board\ndecides whether these requirements are met.\n- 2 -\n(2) 1The degree program in accordance with Para. 1 Sentence 1 must have been completed with an overall\ngrade of at least 2.5 or an equivalent grade. 2A grade shall also be regarded as equivalent if this grade or a\nbetter grade was achieved by no more than 50% of those who completed the relevant degree program in the\nsame year as the applicant.\n(3) 1Prior to taking up the studies, a specialist or management activity based on the professional qualification\npursuant to Para. 1 Sentence 1 No. 1 must have been carried out, which led to experience in the field of\ndigitalization, change management, production management or project management. 2This activity must have\nlasted at least one year and must have comprised 1500 time hours.",
+      "Internship": "(1) The prerequisites for carrying out the internship and admission to the examination in the module\n\"Internship\" are that at least 50 credit points have been acquired through the completion of modules of the\ndegree program.\n(2) 1Students who wish to complete this module at a company location in a German-speaking environment\nmust also provide the examination board with evidence of at least B1-level German language skills before\nstarting the internship. 2Such proof is not required if the university entrance qualification or a university or\nequivalent degree was obtained in German at an institution in a German-speaking environment. 3The same\n- 3 -\napplies if the respective company declares to the examination board that internal and external communication\nwith the student during the internship does not have to be in German or only to a minor extent.",
+      "Master Thesis": "(1) 1The master’s thesis in principle serves to deal with a concrete operational problem or a research task and\nis therefore prepared within the framework of a special related internship. 2Upon request, the examination\nboard may permit the Master's thesis to be written outside of an internship if the application relevance of the\nthesis is nevertheless ensured and the topic is suitable for a special theoretical in-depth study..\n(2) 1The first examiner is appointed until the start of the internship or the approval of an application according\nto Paragraph 1 Sentence 2. 2The first examiner shall immediately determine the topic of the thesis and inform\nthe examination board, the examination office and the student about it. 3The announcement to the student\naffairs office is considered to be the registration for the examination. 4In the cases of Paragraph 1 Sentence\n1, this shall take place no later than one month after the start of the internship. 5The processing period is five\nmonths and begins as soon as the student has been informed of the topic in accordance with sentence 2.\n(3) § 25 para. 2 and 3 APO shall not apply with the exception of § 25 para. 2 sentence 3 and 5."
+    },
+    "modules": [
+      {
+        "module_number": "1",
+        "module_name": "Applied Economics and Intercultural Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "2",
+        "module_name": "Strategic and Financial Framework",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "3",
+        "module_name": "German A2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "4",
+        "module_name": "German B1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "5",
+        "module_name": "German B2.1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "6",
+        "module_name": "German B2.2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "7",
+        "module_name": "German C1.1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "8",
+        "module_name": "German C1.2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "9",
+        "module_name": "Elective 2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "10",
+        "module_name": "Elective 3",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "11",
+        "module_name": "Innovation Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "12",
+        "module_name": "Data Analytics, Artificial Intelligence, and Internet of Things",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "13",
+        "module_name": "Digital Business Models",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "14",
+        "module_name": "IT-Security",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "15",
+        "module_name": "Ideation Techniques and Digital Innovation",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "16",
+        "module_name": "Project Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "17",
+        "module_name": "Leadership and Change Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Präs"
+      },
+      {
+        "module_number": "18",
+        "module_name": "Elective 1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "19",
+        "module_name": "Internship",
+        "module_group": "II. Core Modules",
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "PrB"
+      },
+      {
+        "module_number": "20",
+        "module_name": "Master Thesis",
+        "module_group": "II. Core Modules",
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "AA"
+      }
+    ]
+  },
+  "Sustainability Management (M.B.A. and Eng.)": {
+    "program_name": "Sustainability Management (M.B.A. and Eng.)",
+    "sections": {
+      "Admission requirements for the Master's degree program": "(1) 1 Admission requirements for the Full-time Master's degree program Sustainability Management are\n1. a successfully completed first professional degree at a German or foreign university with at least\n180 credits (credit points according to the European Credit Transfer System - ECTS) in an\nengineering degree program or an equivalent degree,\n2. practical professional experience in accordance with paragraph 2.\n2The Examination board shall decide whether these requirements are met.\n-2-\n(2) 1The study program shall require a professional or managerial experience based on the professional\nqualification pursuant to paragraph 1, sentence 1, no. 1, in which experience has been acquired in the field\nof supply chain management, production management or marketing management. 2The activity in\naccordance with sentence 1 must have lasted at least one year and have comprised 1500 working hours.\n3Positions that typically meet the requirements according to sentence 1 are in particular:\n• Junior Environmental Manager,\n• Junior Environmental Controller,\n• Junior Sustainability Reporting Manager,\n• Junior Lean Manager,\n• Junior Project Manager,\n• Junior Developer,\n• Junior Manager Quality,\n• Junior Technical Advisor,\n• Junior Business Manager,\n• Junior Operations Controller,\n• Junior Product Manager,\n• Junior Process Manager.",
+      "Master's thesis": "(1) In the Master’s thesis, students shall demonstrate their ability to apply their knowledge acquired in the\ncourse of study in an independently prepared application-related scientific work to solve holistic\ntechnological problems.\n(2) 1In principle, the Master's thesis serves to work on a concrete operational problem and is therefore\nprepared within the framework of a special internship related to it. 2This lasts 900 hours (30 credits).\n(3) Upon request, the examination board may allow the Master’s thesis to be written independently of a\nconcrete operational problem and therefore outside of an internship, if the application relevance of the\nthesis is nevertheless ensured and the topic is suitable for a special theoretical in-depth study.\n(4) The time from issuing of the topic of the Master’s thesis to its submission is six months."
+    },
+    "modules": [
+      {
+        "module_number": "1",
+        "module_name": "Traditional and Agile Project Management",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "2",
+        "module_name": "Case Studies",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "StA mit Präs, StA, Präs20"
+      },
+      {
+        "module_number": "3",
+        "module_name": "Legal Framework and Public Administration",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "4",
+        "module_name": "Logistics and Emissions",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "5",
+        "module_name": "Principles of Operations Management and Environmental Economics",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "6",
+        "module_name": "German A1 or Core elective module (see § 5 paragraph 3)",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP151, Kl90"
+      },
+      {
+        "module_number": "7",
+        "module_name": "Applied Economics and Research on the German Market",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "8",
+        "module_name": "Communication and Negotiation Skills",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "9",
+        "module_name": "Leadership and Change Management",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Präs20"
+      },
+      {
+        "module_number": "10",
+        "module_name": "Strategic and Financial Framework",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Koll25"
+      },
+      {
+        "module_number": "11",
+        "module_name": "Master Thesis",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "AA"
+      },
+      {
+        "module_number": "12",
+        "module_name": "Quality Management",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "13",
+        "module_name": "Clean Production Technologies",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "14",
+        "module_name": "Water and Waste Water Management",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Präs20"
+      },
+      {
+        "module_number": "15",
+        "module_name": "Environmental Controlling",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "16",
+        "module_name": "Procurement Management and Risk Management",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "17",
+        "module_name": "Sustainability in Product Development, Recycling and Disposal",
+        "module_group": "Core elective module (see § 5 paragraph 3)",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "18",
+        "module_name": "Entrepreneurship in Germany",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Präs20"
+      },
+      {
+        "module_number": "19",
+        "module_name": "Supply Chain Management",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP20"
+      },
+      {
+        "module_number": "20",
+        "module_name": "Information and Process Management",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "21",
+        "module_name": "Industrial Marketing and Sales Strategies",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Kl90"
+      },
+      {
+        "module_number": "22",
+        "module_name": "Trends and Challenges in Green Tech",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Präs20"
+      },
+      {
+        "module_number": "23",
+        "module_name": "German A2",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP151, Kl90"
+      },
+      {
+        "module_number": "24",
+        "module_name": "German B1",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP151, Kl90"
+      },
+      {
+        "module_number": "25",
+        "module_name": "German B2.1",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP151, Kl90"
+      },
+      {
+        "module_number": "26",
+        "module_name": "German B2.2",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP151, Kl90"
+      },
+      {
+        "module_number": "27",
+        "module_name": "German C1.1",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP151, Kl90"
+      },
+      {
+        "module_number": "28",
+        "module_name": "German C1.2",
+        "module_group": "3. Core elective modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP151, Kl90"
+      }
+    ]
+  },
+  "Cross Cultural Nursing Practice (M.Sc.)": {
+    "program_name": "Cross Cultural Nursing Practice (M.Sc.)",
+    "sections": {
+      "Specific Admission Requirement Specific admission requirement is the completion of a university degree in a nursing science": "degree program that has led to the acquisition of at least 180 credit points.",
+      "German, Compulsory Elective Modules": "(1) 1 Students who have obtained their university entrance qualification or a university or\nequivalent degree at an institution in a German-speaking environment in German, instead of\ncompleting the modules “Deutsch B1” (German B1), “Deutsch B2.1 mit Berufssprache” (German\nB2.1. with professional language) and “Deutsch B2.2” (German B2.2), have to take elective\ncompulsory modules pursuant to subsection 2. 2Furthermore, such elective modules will replace the\nmodules referred to in sentence 1 if students already have knowledge of German which forms the\nlearning objective of one or more of these modules.\n(2) 1By completing compulsory elective modules, a total of at least as many credit points\nmust be acquired as would have been acquired in the modules replaced. 2In accordance with the\nmodule handbook, students can choose from certain modules from the Master’s program “Smart\nSociety”. 3In addition, the Examination Board can determine compulsory elective modules that are\ncompleted by recognition of competences achieved and proven by examination at Virtuelle\nHochschule Bayern (VHB) (VHB elective modules). 4The learning objectives of these modules\ncorrespond to those of the courses of VHB having the same course title.\n(4) Students must prove to the Examination Board either that the conditions set out in the\nfirst sentence of subsection 1 are met or they must prove their individual knowledge of German.\n(5) 1Admission to the examinations of modules “Deutsch B1”, “Deutsch B2.1 mit\nBerufssprache” and “Deutsch B2.2” requires attendance of at least 75 % of the classes of the\nrespective module. 2Access to the classes of the module “German B2.1 mit Berufssprache” is only\ngranted to those who were present at 75% of the classes of the module \"Deutsch B1\". 3Access to the\nclasses of the module “Deutsch B2.1” is only granted to those who have attended 75 % of the classes\nof the module “Deutsch B2.1 mit Berufssprache”.",
+      "Internships and Master's Thesis": "(1) Starting the internship as well as admission to the examination in the module “Praktikum\n1” (Internship 1) presuppose that at least 48 credit points have been earned by completing modules\nof the degree program. 2Access to the module “Praktikum 2” (Internship 2) presupposes module\n“Praktikum 1” having been completed.\n(2) Students can only begin with the Master’s thesis after they have earned at least 60 credit\npoints by completing modules of the degree program. 2The topic refers to a question of nursing care\nand evidence that is relevant to the institution in which the internships were completed. 3The\nprocessing period is five months."
+    },
+    "modules": [
+      {
+        "module_number": "1.1",
+        "module_name": "Deutsch B1 (German B1)",
+        "module_group": "(Core modules)",
+        "credits": 6,
+        "sws": 8,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP"
+      },
+      {
+        "module_number": "1.2",
+        "module_name": "Deutsch B2.1 mit Berufssprache (German B2.1 with professional language)",
+        "module_group": "(Core modules)",
+        "credits": 6,
+        "sws": 8,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP"
+      },
+      {
+        "module_number": "1.3",
+        "module_name": "Deutsch B2.2 (German B2.2)",
+        "module_group": "(Core modules)",
+        "credits": 3,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP"
+      },
+      {
+        "module_number": "2.1",
+        "module_name": "Interkulturelle Trainings (Intercultural",
+        "module_group": "(Core modules)",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA mit Präs, StA, Präs"
+      },
+      {
+        "module_number": "2.2",
+        "module_name": "Kultursensible Pflege (Culturally",
+        "module_group": "(Core modules)",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "Präs"
+      },
+      {
+        "module_number": "2.3",
+        "module_name": "Sektorenspezifische Assessments,",
+        "module_group": "(Core modules)",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "Präs"
+      },
+      {
+        "module_number": "2.4",
+        "module_name": "Evidence Based Nursing:",
+        "module_group": "(Core modules)",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "PrjA"
+      },
+      {
+        "module_number": "2.5",
+        "module_name": "Heilkundliche Kompetenzen Grundlagen",
+        "module_group": "(Core modules)",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "mdlP"
+      },
+      {
+        "module_number": "2.6",
+        "module_name": "Heilkundliche Kompetenzen I (Healing",
+        "module_group": "(Core modules)",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "2.7",
+        "module_name": "Heilkundliche Kompetenzen II (Healing",
+        "module_group": "(Core modules)",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "2.8",
+        "module_name": "Clinical leadership",
+        "module_group": "(Core modules)",
+        "credits": 3,
+        "sws": 2,
+        "course_type": "SU",
+        "examination_type": null
+      },
+      {
+        "module_number": "3.1",
+        "module_name": "Praktikum 1 (Internship 1)",
+        "module_group": "(Core modules)",
+        "credits": 18,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "PrB"
+      },
+      {
+        "module_number": "3.2",
+        "module_name": "Praktikum 2 (Internship 2)",
+        "module_group": "(Core modules)",
+        "credits": 12,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "PrB"
+      },
+      {
+        "module_number": "3.3",
+        "module_name": "Master’s Thesis",
+        "module_group": "(Core modules)",
+        "credits": 30,
+        "sws": null,
+        "course_type": null,
+        "examination_type": "MA"
+      }
+    ]
+  },
+  "General Management (M.B.A.)": {
+    "program_name": "General Management (M.B.A.)",
+    "sections": {
+      "Specific Admission Requirements": "(1) 1Specific admission requirements are a degree in engineering, humanities, social sciences or economics\nthat has led to the acquisition of at least 180 credit points, with an overall examination grade in accordance\nwith Para. 2 and practical professional experience in accordance with Para. 3. 2The examination board\ndecides whether these requirements are met.\n- 2 -\n(2) 1The degree program in accordance with Para. 1 Sentence 1 must have been completed with an overall\ngrade of at least 2.5 or an equivalent grade. 2A grade shall also be regarded as equivalent if this grade or a\nbetter grade was achieved by no more than 50% of those who completed the relevant degree program in the\nsame year as the applicant.\n(3) 1Prior to taking up the studies, a specialist or management activity based on the professional qualification\npursuant to Para. 1 Sentence 1 No. 1 must have been carried out, which led to experience in the field of\nsupply chain management, production management or marketing management. 2This activity must have\nlasted at least one year and must have comprised 1500 time hours.",
+      "Internship": "(1) The prerequisites for carrying out the internship and admission to the examination in the module\n\"Internship\" are that at least 50 credit points have been acquired through the completion of modules of the\ndegree program.\n(2) 1Students who wish to complete this module at a company location in a German-speaking environment\nmust also provide the examination board with evidence of at least B1-level German language skills before\nstarting the internship. 2Such proof is not required if the university entrance qualification or a university or\nequivalent degree was obtained in German at an institution in a German-speaking environment. 3The same\napplies if the respective company declares to the examination board that internal and external communication\nwith the student during the internship does not have to be in German or only to a minor extent.\n- 3 -",
+      "Master Thesis": "(1) 1The master’s thesis in principle serves to deal with a concrete operational problem or a research task and\nis therefore prepared within the framework of a special related internship. 2Upon request, the examination\nboard may permit the Master's thesis to be written outside of an internship if the application relevance of the\nthesis is nevertheless ensured and the topic is suitable for a special theoretical in-depth study..\n(2) 1The first examiner is appointed until the start of the internship or the approval of an application according\nto Paragraph 1 Sentence 2. 2The first examiner shall immediately determine the topic of the thesis and inform\nthe examination board, the examination office and the student about it. 3The announcement to the student\naffairs office is considered to be the registration for the examination. 4In the cases of Paragraph 1 Sentence\n1, this shall take place no later than one month after the start of the internship. 5The processing period is five\nmonths and begins as soon as the student has been informed of the topic in accordance with sentence 2.\n(3) § 25 para. 2 and 3 APO shall not apply with the exception of § 25 para. 2 sentence 3 and 5."
+    },
+    "modules": [
+      {
+        "module_number": "1",
+        "module_name": "Applied Economics and Intercultural Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "2",
+        "module_name": "Strategic and Financial Framework",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "3",
+        "module_name": "German A2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "4",
+        "module_name": "German B1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "5",
+        "module_name": "German B2.1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "6",
+        "module_name": "German B2.2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "7",
+        "module_name": "German C1.1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "8",
+        "module_name": "German C1.2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "9",
+        "module_name": "Elective 2",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "10",
+        "module_name": "Elective 3",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "11",
+        "module_name": "Corporate Strategy and Controlling",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "12",
+        "module_name": "Business Management Systems with SAP",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "13",
+        "module_name": "Procurement and Risk Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "14",
+        "module_name": "Leadership and Change Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "Präs"
+      },
+      {
+        "module_number": "15",
+        "module_name": "Communication and Negotiation Skills",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "16",
+        "module_name": "Marketing and Sales",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "17",
+        "module_name": "Supply Chain Management",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "18",
+        "module_name": "Elective 1",
+        "module_group": "II. Core Modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "19",
+        "module_name": "Internship",
+        "module_group": "II. Core Modules",
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "PrB"
+      },
+      {
+        "module_number": "20",
+        "module_name": "Master Thesis",
+        "module_group": "II. Core Modules",
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "AA"
+      }
+    ]
+  },
+  "Sustainable Water Management and Engineering (M.Eng.)": {
+    "program_name": "Sustainable Water Management and Engineering (M.Eng.)",
+    "sections": {
+      "Specific Admission Requirements": "(1) The specific admission requirement is the completion of a university degree with a total\nexamination grade in accordance with paragraph 2 in an engineering or natural sciences degree\nprogram, which has led to the acquisition of at least 210 credit points and has provided sufficient\nwater engineering and chemical basic knowledge for studying in the master’s program.\n(2) The university degree referred to in paragraph 1 must have been completed at least with\nthe total examination grade 2.5 or an equivalent grade. 2A grade shall be considered equivalent if\nthis or a better grade has been awarded to not more than 50 % of those who completed the relevant\ndegree program in the same year as the applicant.\n(3) A sufficient basic knowledge within the meaning of subsection (1) exists if at least\nessentially those competences have been acquired which form the learning objectives of Modules\n32443 (Water and Wastewater Treatment) and 32444 (Principles of Chemistry). 2The application\ndocuments must be accompanied by the descriptions of the modules completed in this respect.\n3The requirement is deemed to be fulfilled if the lacking competences are acquired not later than\none year after the commencement of the studies by completing the corresponding modules in\naccordance with the study and examination regulations for the Bachelor’s degree program in\nEngineering Sciences (Ingenieurwissenschaften).\n(4) The minimum number of 210 credit points referred to in subsection (1) sentence 1 is\ndeemed to have been achieved if the degree program referred to therein had an amount of 180 credit\npoints and the students concerned acquire an additional 30 credit points within one year after the\ncommencement of their studies at the latest. 2For this purpose, they must complete six compulsory\nmodules from the Bachelor’s degree program in Engineering Sciences specified by the Examination\nBoard, which may include, if necessary, the modules required pursuant to paragraph 3, sentence 3.\n3The Examination Board will ensure that these modules appropriately extend the individual\nentrance qualifications with regard to the study objective of the Master’s degree program.\n(5) 1For applicants who have not completed a practical semester or similar practical study\nphases within the scope of their studies serving to meet the admission requirement pursuant to\nparagraph 1, the minimum number of 210 credit points referred to in paragraph 1 is also deemed to\nhave been achieved if they complete the module regulated in the following table and the following\nsentences no later than one year after the commencement of their studies.\nExamination\nModule Type of Course Examination Credit points\nprerequisite\nInternship Internship Internship report Proof of participation 30\n2The internship serves to achieve experiences in professional daily business. 3It shall take place in a\ncompany, a public institution or a research institution, it shall correspond to the degree referred to\nin paragraph 1 in terms of subject focus, significance and difficulty and in the amount of 900 hours it\nshall be devoted to an activity related to the study objective of the Master’s program. 4Compliance\nwith these requirements shall be substantiated by proof of participation of the institution referred\nto in sentence 3, which describes the subject of the practical activity in the manner necessary for this\n— 3 —\npurpose. 5The internship report is not graded, but is rated with the predicates “passed with success”\nor “not passed”. 6The Examination Board decides whether the conditions set out in sentence 1 are\nmet. 7If students concerned already have to complete modules on the basis of paragraph 3, the\nduration of the internship and the number of credit points to be earned with the internship will be\nreduced to the extent of the credit points to be obtained pursuant to the third sentence of paragraph\n3.\n(6) 1Modules pursuant to subsection (3) sentence 3 and subsection (4) sentence 2 may only\nbe completed by recognition of competences, insofar as they have not been acquired in a module\nthat was necessary for the completion of the degree program serving to meet the admission\nrequirement pursuant to subsection (1); the general recognition requirements remain unaffected.\n2If examinations for completing the modules referred to in sentence 1 are not passed they may be\nrepeated up to twice, without prejudice to the period referred to in subsection (3) sentence 3 and\nsubsection (4) sentence 2; second repetitions in such modules are not counted towards the\nmaximum number of possible second re-examinations in the Master’s program. 3Final grades of the\nmodules referred to in sentence 1 are not counted in the total examination grade of the master\nexamination.",
+      "Master's Thesis": "(1) Students may not begin processing the Master's thesis before having acquired at least 48\ncredit points by completing modules of the degree program. 2The Master’s Thesis basically serves\nthe scientific processing of a specific operational problem or a research task and is therefore to be\nprepared within the framework of a special related internship. 3On request, the Examination Board\nmay allow the Master’s Thesis to be prepared outside of an internship, if the practical relevance of\nthe thesis is nevertheless assured and the topic is suitable for a special theoretical deepening.\n(2) 1 Only full-time professors of Hof University of Applied Sciences who are teaching in the\nMaster’s program Sustainable Water Management and Engineering or have done so in the last two\nyears prior to their appointment may be appointed as examiners. 2The Examination Board decides\non exceptions based on subject-specific criteria.\n(3) The processing period is five months.\n— 5 —"
+    },
+    "modules": [
+      {
+        "module_number": "6014",
+        "module_name": "Applied Sustainability",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "6015",
+        "module_name": "Risk Management in the Water Sector",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "SchrP90, StA mit Präs, StA, Präs"
+      },
+      {
+        "module_number": "6016",
+        "module_name": "Water, Climate and Society",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 3,
+        "sws": 2,
+        "course_type": "S",
+        "examination_type": "STA"
+      },
+      {
+        "module_number": "6004",
+        "module_name": "Advanced water treatment",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "6017",
+        "module_name": "Urban Waste Water Cycle",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "6018",
+        "module_name": "Integrated Water Resources Management",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, StA\nmit Präs, StA, Präs"
+      },
+      {
+        "module_number": "6007",
+        "module_name": "Water Quality and Water Cycle",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "SchrP90"
+      },
+      {
+        "module_number": "6008",
+        "module_name": "Smart water",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "6019",
+        "module_name": "Sustainability-oriented Innovation and Project Management",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "6010",
+        "module_name": "New Technologies in the Water Sector",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 3,
+        "sws": 2,
+        "course_type": "S",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "6020",
+        "module_name": "Elective",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 6,
+        "sws": 4,
+        "course_type": null,
+        "examination_type": "SchrP90, StA mit Präs, StA, PfP, Präs"
+      },
+      {
+        "module_number": "5601",
+        "module_name": "Master Thesis",
+        "module_group": "6020 Elective module 4 6",
+        "credits": 30,
+        "sws": null,
+        "course_type": "PR",
+        "examination_type": "AA"
+      }
+    ]
+  },
+  "Sustainable Engineering and Project Management (M.B.A. and Eng.)": {
+    "program_name": "Sustainable Engineering and Project Management (M.B.A. and Eng.)",
+    "sections": {
+      "Specific Admission Requirements": "(1) 1Specific admission requirements are the completion of a university degree in an\nengineering degree program that has led to the acquisition of at least 180 credit points, with a total\nexamination grade pursuant to subsection 2 and in addition a practical professional experience\npursuant to subsection 3. 2The Examination Board decides whether these conditions are met.\n(2) 1The studies in accordance with subsection 1 sentence 1 must have been completed at\nleast with the total examination grade 2.5 or an equivalent grade. 2A grade shall be deemed to be\nequivalent if this or a better grade has been awarded to not more than 50 % of those who completed\nthe respective degree program in the same year as the applicant.\n(3) 1Before commencing the studies, a professional activity based on the qualification\nreferred to in subsection (1) sentence 1 must have been carried out, which has corresponded to this\nqualification according to professional orientation as well as significance and difficulty. 2This activity\nmust have lasted at least one year and must have comprised 1500 hours of time.",
+      "Compulsory elective modules, German": "(1) 1In accordance with the module handbook, certain modules from other Master degree\nprograms of the Graduate School may be chosen as compulsory elective modules (electives). 2These\nmodules must be completed in accordance with the relevant study and examination regulations.\n(2) 1Students who have obtained their university entrance qualification or a university or\nequivalent degree at an institution in a German-speaking environment in German, complete two\nadditional compulsory elective modules in accordance with subsection 1 instead of the modules\n“German A2” and “German B1”. 2All other students must complete the modules “German A2” and\n— 3 —\n“German B1” unless they have at least a knowledge of German at level A2. 3Students having\nknowledge of German at this level, have to complete the modules “German B1” and “German B2.1”,\nif they have knowledge of German at level B1 the modules “German B2.1” and “German B2.2” must\nbe completed. 4If students have knowledge of German at level B2, they must complete two\nadditional elective modules, whereby the modules “German C1.1” and “German C1.2” can also be\nselected.\n(3) Students must prove to the Examination Board that they meet the requirements specified\nin subsection 2 sentence 1 or their individual German language skills.\n(4) Admission to the examinations of the modules “German...” requires attendance of at\nleast 75 % of the courses of the respective module.",
+      "Internship": "(1) In order to complete the internship and be admitted to the examination in the module\n\"Internship\", at least 50 credit points must have been achieved by completing modules of the degree\nprogram. 2The internship is dedicated to a clearly professional activity in the field of sustainable\nengineering or technical project management.\n(2) 1Students who wish to complete this module at a company location in a German-speaking\nenvironment must prove to the Examination Board at least German proficiency in level B1 before\nstarting the internship. 2Such proof is not required if the higher education entrance qualification or\na university or equivalent degree has been obtained in German at an institution in a German-\nspeaking environment. 3The same applies if the company in question declares to the Examination\nBoard that the internal and external communication with the student during the course of the\ninternship does not have to take place or only to a minor extent in German.",
+      "Master Thesis": "(1) The topic of the Master thesis is to be set in the field of sustainable engineering or\ntechnical project management. 2In principle, the thesis deals with a specific operational problem or\na research task and is therefore carried out within the framework of a special internship related\nthereto. 3On request, the Examination Board may allow the Master thesis to be written outside of an\ninternship, if the application relevance of the thesis is nevertheless assured and the topic is suitable\nfor a special theoretical deepening.\n(2) 1The first examiner will be appointed until the start of the internship or the approval of an\napplication pursuant to subsection 1 sentence 2. 2The examiner immediately determines the topic\nof the work and informs the Examination Board, the Examination Office and the student. 3The\nnotification to the Examination Office is deemed to be the examination application. 4In the cases\nreferred to in subsection 1, sentence 1 this shall take place no later than one month after the start of\nthe internship. 5The processing period is five months and starts as soon as the student has been\n— 4 —\nnotified of the topic in accordance with sentence 2.\n(3) § 25 (2) and (3) APO shall not apply with the exception of § 25 (2) sentences 3 and 5."
+    },
+    "modules": [
+      {
+        "module_number": "1",
+        "module_name": "Applied Economics and Intercultural Management",
+        "module_group": null,
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "2",
+        "module_name": "Project management",
+        "module_group": null,
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "3",
+        "module_name": "German A2",
+        "module_group": null,
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "4",
+        "module_name": "German B1",
+        "module_group": null,
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "5",
+        "module_name": "German B2.1",
+        "module_group": null,
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "6",
+        "module_name": "German B2.2",
+        "module_group": null,
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "7",
+        "module_name": "German C1.1",
+        "module_group": null,
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "8",
+        "module_name": "German C1.2",
+        "module_group": null,
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP15"
+      },
+      {
+        "module_number": "9",
+        "module_name": "Elective 2",
+        "module_group": null,
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "10",
+        "module_name": "Elective 3",
+        "module_group": null,
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "11",
+        "module_name": "Sustainability: Theoretical Background, Framework and Management",
+        "module_group": "II. Core modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "12",
+        "module_name": "Life Cycle Sustainability Assessment",
+        "module_group": "II. Core modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "13",
+        "module_name": "Sustainable Engineering",
+        "module_group": "II. Core modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "14",
+        "module_name": "Project Planning, Controlling and Financing",
+        "module_group": "II. Core modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "15",
+        "module_name": "Green Technologies and Innovations",
+        "module_group": "II. Core modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "PfP"
+      },
+      {
+        "module_number": "16",
+        "module_name": "Sustainability and Ecological Interrelationship",
+        "module_group": "II. Core modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "17",
+        "module_name": "Stakeholder Management, Project Marketing and Change Management",
+        "module_group": "II. Core modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "StA, Präs"
+      },
+      {
+        "module_number": "18",
+        "module_name": "Elective 1",
+        "module_group": "II. Core modules",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "according to relevant SPO/module handbook"
+      },
+      {
+        "module_number": "19",
+        "module_name": "Internship",
+        "module_group": "II. Core modules",
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "PrB"
+      },
+      {
+        "module_number": "20",
+        "module_name": "Master thesis",
+        "module_group": "II. Core modules",
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "MA"
+      }
+    ]
+  },
+  "Computer Science (B.Sc.)": {
+    "program_name": "Computer Science (B.Sc.)",
+    "sections": {
+      "Admission requirements for individual modules": "(1) 1Students who have not yet earned at least 75 credits in the modules of the introductory stage are\nexcluded from participating in the courses and examinations of the modules of the following study sections\nuntil they fulfill this admission requirement. 2This does not apply to general science core elective modules.\n(2) Participation in the courses and examinations of the modules of the practical semester requires that the\nstudent has successfully completed all modules of the introductory stage and has acquired at least 110\ncredits in the modules of the core and specialization stage."
+    },
+    "modules": [
+      {
+        "module_number": "1.1",
+        "module_name": "Fundamentals of Information Technology (E)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "1.2",
+        "module_name": "Algorithmen und Datenstrukturen (Algorithms and data structures)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "1.3",
+        "module_name": "Operating Systems (E)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "1.4",
+        "module_name": "Rechnernetze (Computer networks)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "2.1",
+        "module_name": "Fundamentals of Programming (E)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 7,
+        "sws": 6,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, sta"
+      },
+      {
+        "module_number": "2.2",
+        "module_name": "Grundlagen Web Development (Fundamentals of Web Development)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, sta"
+      },
+      {
+        "module_number": "2.3",
+        "module_name": "Software Engineering",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "3.1",
+        "module_name": "Mathematics (E)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "3.2",
+        "module_name": "Statistik (Statistics)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "4.1",
+        "module_name": "Gestaltung, Kommunikation und Präsentation (Design, communication and presentation)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "Präs30"
+      },
+      {
+        "module_number": "4.2",
+        "module_name": "Studying with Success (E)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 3,
+        "sws": 2,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP60"
+      },
+      {
+        "module_number": "4.3",
+        "module_name": "Intercultural Competence (E)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA, Ref202"
+      },
+      {
+        "module_number": "4.4",
+        "module_name": "Deutsch als Fremdsprache I (German as a foreign language I)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 15,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, mdlP152"
+      },
+      {
+        "module_number": "4.5",
+        "module_name": "Deutsch als Fremdsprache II (German as a foreign language II)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 15,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90, Ref152"
+      },
+      {
+        "module_number": "5.1",
+        "module_name": "Effizientes Programmieren mit C/C++ (Efficient programming with C/C++)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "5.2",
+        "module_name": "Full Stack Web Development",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "5.3",
+        "module_name": "Fortgeschrittene Programmiertechniken (Advanced Programming Techniques)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "5.4",
+        "module_name": "Software-System-Entwicklung (Software system development)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "5.5",
+        "module_name": "Software-Architektur (Software Architecture)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "5.6",
+        "module_name": "Interdisziplinäres Softwareentwicklungsprojekt (Interdisciplinary Software Development Project)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "Pr",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "6.1",
+        "module_name": "Angewandte KI (Applied AI)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "6.2",
+        "module_name": "Fortgeschrittene Konzepte der KI (Advanced concepts of AI)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "6.3",
+        "module_name": "Datenbanken (Databases)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "6.4",
+        "module_name": "Data Science",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "6.5",
+        "module_name": "IT-Sicherheit (IT security)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "6.6",
+        "module_name": "Cloud Computing",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "7.1",
+        "module_name": "Mathematik für Informatiker (Mathematics for computer scientists)",
+        "module_group": "Core and specialization stage 4. to 7. curricular semester",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "8.1",
+        "module_name": "Digitalethik (Ethics in Digitalization)",
+        "module_group": "III. Specialization Stage",
+        "credits": 5,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "9.2",
+        "module_name": "Allgemeinwissenschaftliche(s) Wahlpflichtmodul(e) (General Science core elective module(s))",
+        "module_group": "III. Specialization Stage",
+        "credits": 5,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P1"
+      },
+      {
+        "module_number": "10.1",
+        "module_name": "Praxisarbeit (Practical work)",
+        "module_group": "III. Specialization Stage",
+        "credits": 18,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "10.2",
+        "module_name": "Bachelorarbeit (Bachelor thesis)",
+        "module_group": "III. Specialization Stage",
+        "credits": 12,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": null
+      }
+    ]
+  },
+  "Global Management (M.A.)": {
+    "program_name": "Global Management (M.A.)",
+    "sections": {
+      "Admission Requirements for the Master's Degree Program": "(1) 1Admission requirements for the master’s degree program in Global Management are\n1. a successfully completed professional Bachelor’s degree from a German or foreign university\nwith a minimum of 180 credits (credit points according to the European Credit Transfer and\nAccumulation System - ECTS) or an equivalent degree in an economics-oriented degree\nprogram.\n2. the proof of eligibility for this specific degree program in accordance with § 3.\n2An economics-oriented degree program according to Article 1 Section 1 ist given if modules in\neconomics had to be completed to the extent of at least 110 credits or to an equivalent extent in\norder to successfully complete the degree program. 3The examination board shall decide whether\nthis is the case; it shall be guided by the standard of Article 63 Paragraph 1 Sentence 1 BayHSchG\n(no significant differences).\n(2) 1The admission requirement of Article 1 Sentence 1 Section 1 \"in an economics-oriented degree\nprogram\" shall be deemed to have been met by students who have completed economics modules\nto a lesser extent than that specified in Article 1, Section 2, if they additionally acquire the missing\ncredits in modules of their choice by the end of the second semester in the Master's program in\n2\naccordance with the course and examination regulations for the Bachelor's programs in Business\nAdministration, International Management and Business Law at Hof University of Applied Sciences,\nwith the exception of those modules from the basic area and the practical semester. 2Article 63\nBayHSchG applies accordingly.",
+      "Master's Thesis": "(1) 1The topic of the master's thesis is assigned at the beginning of the third semester of study,\nconditional to the admission requirement stated in sentence 2. 2The prerequisite for assigning the\ntopic for the Master’s thesis is that the student has achieved at least 48 credits in this degree\nprogram. 3Only professors who perform teaching duties in the Master's program in Global\nManagement may be appointed as examiners.\n(2) 1The preparation of the Master's thesis includes a practical phase in a company (internship). 2The\ninternship is to be completed at an internationally operating company in a country or region whose\nnational or typical regional language is different from the language in which the higher education\nentrance qualification or a higher education degree or equivalent degree was acquired; further\ndetails are specified in the module catalogue. 3Students for whom it is permanently impossible to\ncomplete the internship in a country or region pursuant to sentence 2 for reasons for which they are\nnot responsible and which arise after commencing their studies, or for whom the arrangement made\nthere is disproportionate for other reasons, may also complete the internship in another country; the\nexamination board shall decide whether the aforementioned requirements are met. 4The internship\nshall last 500 hours. 5The time from assigning the topic of the Master's thesis to its submission is\nfive months."
+    },
+    "modules": [
+      {
+        "module_number": "1",
+        "module_name": "Global Business Strategy",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA50, Präs20"
+      },
+      {
+        "module_number": "2",
+        "module_name": "Global Sales & Key Account Management",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "3",
+        "module_name": "Legal Framework for Global Management",
+        "module_group": null,
+        "credits": 3,
+        "sws": 2,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP60"
+      },
+      {
+        "module_number": "4",
+        "module_name": "International Value Chain Management",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA10"
+      },
+      {
+        "module_number": "5",
+        "module_name": "Finance & Accounting in a Multinational Business",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "6",
+        "module_name": "Operational Excellence & Innovation Management",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA10"
+      },
+      {
+        "module_number": "7",
+        "module_name": "Digital Economics",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "P1"
+      },
+      {
+        "module_number": "8",
+        "module_name": "Market Research",
+        "module_group": null,
+        "credits": 3,
+        "sws": 2,
+        "course_type": "SU,Ü",
+        "examination_type": "P1"
+      },
+      {
+        "module_number": "9",
+        "module_name": "International Human Resources Management",
+        "module_group": null,
+        "credits": 6,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P3"
+      },
+      {
+        "module_number": "10",
+        "module_name": "Business Process Management",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA50, Präs20"
+      },
+      {
+        "module_number": "11",
+        "module_name": "Advanced Issues of Global Management",
+        "module_group": null,
+        "credits": 6,
+        "sws": null,
+        "course_type": "SU,Ü",
+        "examination_type": "P3"
+      },
+      {
+        "module_number": "12",
+        "module_name": "Masterarbeit & Praktikum",
+        "module_group": null,
+        "credits": 30,
+        "sws": null,
+        "course_type": "Internship",
+        "examination_type": "AA"
+      }
+    ]
+  },
+  "Sustainable Textiles (M.Eng.)": {
+    "program_name": "Sustainable Textiles (M.Eng.)",
+    "sections": {
+      "Admission Requirements for the Master's Degree Program": "(1) 1Admission requirements are\n1. a successfully completed Bachelor’s degree at a German or foreign university with a minimum of 180\ncredits (credit points according to the European Credit Transfer and Accumulation System - ECTS) or\nan equivalent degree in an engineering or natural science degree program that has provided sufficient\nfundamental knowledge in textile technology and textile chemistry for the Master’s degree program\nSustainable Textiles,\n2. the proof of eligibility for this specific degree program according to § 3.\n2A sufficient fundamental knowledge of textile technology and textile chemistry in accordance with Article 1, No.\n1 has been achieved, if at least 60 credits or equivalent modules from the field of textile technology and 20\ncredits or equivalent modules from the fields of textile chemistry or chemistry had to be completed to success-\nfully complete the degree program. 3The examination board shall decide whether this is the case; in doing so,\nit shall be guided by the standard of Article 63 Paragraph 1 Sentence 1 BayHSchG (no significant differences).\n______________________________\n* As amended by the first amendment statute.\n2\n(2) The admission requirement according to Article 1, Section 1 (1) is considered to be met for applicants who\nhave completed modules of the type mentioned in Article 1, Section 2 to a lesser extent than specified there, if\nthey by the end of the second semester in the Master’s degree program in accordance with the study and\nexamination regulations for the Bachelor's degree program in Innovative Textilien at Hof University of Applied\nSciences additionally acquire the missing credits in modules of their choice in the field of textile technology or\nthe field of textile chemistry, with the exception of the foundation modules and the practical semester.",
+      "Master Thesis": "(1) 1The topic of the Master thesis is assigned at the beginning of the third semester of study, subject to the\nadmission requirement stated in Section 2. 2The assignment requires that the student has acquired at least 48\ncredits in this degree program. 3The time from issuing the topic of the Master thesis to its submission is five\nmonths.\n(2) 1In the Master thesis, students shall demonstrate their ability to apply the knowledge acquired during study\nin an independent application-related scientific work to solve holistic technical problems. 2The Master thesis\nshall in principle serve to work on a concrete operational problem and shall therefore be prepared within the\nframework of a special internship (§ 5, Section 2). 3Upon request, the examination board may allow the Master\nthesis to be written independently of a concrete operational problem and therefore outside of an internship, if\nthe practical relevance of the thesis is nevertheless ensured and the topic is suitable for a special theoretical\nspecialization.",
+      "Language of Instruction and Examination": "1The courses and examinations are given in English. 2In the case of compulsory elective modules that can be\nselected from the range of other degree programs, the language of instruction and examination is determined\nby the regulations of the corresponding study and examination regulations."
+    },
+    "modules": [
+      {
+        "module_number": "1",
+        "module_name": "Advanced Textile Production",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "2",
+        "module_name": "Advanced Textile Chemistry",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "3",
+        "module_name": "Sustainable Project Management",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "P"
+      },
+      {
+        "module_number": "4",
+        "module_name": "Legal Framework and Digitaliza- tion of the Textile Value Chain",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "5",
+        "module_name": "Circular Economy/ Certificates and Eco Labels",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "6",
+        "module_name": "Effect and Process Auxiliaries",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "7",
+        "module_name": "Renewable Products for the Tex- tile Industry (Fibers, Auxiliaries, Dye-stuffs)",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "8",
+        "module_name": "Sustainable Functionalization and Surface Modification of Textiles",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "schrP90"
+      },
+      {
+        "module_number": "9",
+        "module_name": "Resource Efficient Application Technologies",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "10",
+        "module_name": "Simulation and Optimization",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Ü",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "11",
+        "module_name": "Project Simulation",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "Pr",
+        "examination_type": "StA"
+      },
+      {
+        "module_number": "12",
+        "module_name": "Sustainable Products for Medical or Hygienic End-Use",
+        "module_group": null,
+        "credits": 6,
+        "sws": 4,
+        "course_type": "SU,Pr",
+        "examination_type": "P"
+      },
+      {
+        "module_number": "13",
+        "module_name": "Master Thesis",
+        "module_group": null,
+        "credits": 30,
+        "sws": null,
+        "course_type": "Pr",
+        "examination_type": "AA"
+      }
+    ]
+  }
+}

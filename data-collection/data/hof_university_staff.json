@@ -1,0 +1,5153 @@
+[
+  {
+    "professor_id": "jens_kirchner",
+    "full_name": "Prof. Dr. Jens Kirchner",
+    "first_name": "Jens",
+    "last_name": "Kirchner",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Jens Kirchner",
+      "Kirchner",
+      "Prof. Jens Kirchner",
+      "Professor Jens Kirchner",
+      "Professor Kirchner",
+      "Dr. Jens Kirchner",
+      "Doctor Jens Kirchner",
+      "Prof. Dr. Jens Kirchner"
+    ],
+    "position": "Dean Business Department | Head of Institute Institute for Economic and Organizational Research (iwo) | Business Department",
+    "contact": {
+      "email": "jens.kirchner@hof-university.de",
+      "phone_office": "+49 9281 409 - 4081",
+      "phone_mobile": "+49 171 2673372",
+      "phone_all": "+49 9281 409 - 4081 | +49 171 2673372"
+    },
+    "office": "Room number: B221 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B221"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business Management and International Marketing"
+  },
+  {
+    "professor_id": "christine_brautsch",
+    "full_name": "Prof. Dr. Christine Brautsch",
+    "first_name": "Christine",
+    "last_name": "Brautsch",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Christine Brautsch",
+      "Brautsch",
+      "Prof. Christine Brautsch",
+      "Professor Christine Brautsch",
+      "Professor Brautsch",
+      "Dr. Christine Brautsch",
+      "Doctor Christine Brautsch",
+      "Prof. Dr. Christine Brautsch"
+    ],
+    "position": "Assistant Dean Business Department",
+    "contact": {
+      "email": "christine.brautsch@hof-university.de",
+      "phone_office": "+49 9281 409 - 4190",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4190"
+    },
+    "office": "Room number: B222 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B222"
+    },
+    "department": "Business Department",
+    "teaching_areas": "E-Business, Digital Technologies & Processes"
+  },
+  {
+    "professor_id": "astrid_nofer",
+    "full_name": "Prof. Dr. Astrid Nöfer",
+    "first_name": "Astrid",
+    "last_name": "Nöfer",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Astrid Nöfer",
+      "Nöfer",
+      "Prof. Astrid Nöfer",
+      "Professor Astrid Nöfer",
+      "Professor Nöfer",
+      "Dr. Astrid Nöfer",
+      "Doctor Astrid Nöfer",
+      "Prof. Dr. Astrid Nöfer"
+    ],
+    "position": "Departmental Adviser Business Department",
+    "contact": {
+      "email": "astrid.noefer@hof-university.de",
+      "phone_office": "+49 9281 409 - 4092",
+      "phone_mobile": "+49 171 7744927",
+      "phone_all": "+49 9281 409 - 4092 | +49 171 7744927"
+    },
+    "office": "Room number: B211 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B211"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Accounting and Controlling in Health Care Sector"
+  },
+  {
+    "professor_id": "dunja_stadtmann",
+    "full_name": "Prof. Dr. Dunja Stadtmann",
+    "first_name": "Dunja",
+    "last_name": "Stadtmann",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Dunja Stadtmann",
+      "Stadtmann",
+      "Prof. Dunja Stadtmann",
+      "Professor Dunja Stadtmann",
+      "Professor Stadtmann",
+      "Dr. Dunja Stadtmann",
+      "Doctor Dunja Stadtmann",
+      "Prof. Dr. Dunja Stadtmann"
+    ],
+    "position": "Head Center for Languages and Intercultural Competence | Business Department",
+    "contact": {
+      "email": "dunja.stadtmann@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: A023 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A023"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business Law, particularly Trade and Corporate Law"
+  },
+  {
+    "professor_id": "viktoria_bachmann",
+    "full_name": "Prof. Dr. Viktoria Bachmann",
+    "first_name": "Viktoria",
+    "last_name": "Bachmann",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Viktoria Bachmann",
+      "Bachmann",
+      "Prof. Viktoria Bachmann",
+      "Professor Viktoria Bachmann",
+      "Professor Bachmann",
+      "Dr. Viktoria Bachmann",
+      "Doctor Viktoria Bachmann",
+      "Prof. Dr. Viktoria Bachmann"
+    ],
+    "position": "Womens Representative Business Department",
+    "contact": {
+      "email": "viktoria.bachmann.2@hof-university.de",
+      "phone_office": "+49 9281 409 - 4004",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4004"
+    },
+    "office": "Room number: B136 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B136"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business psychology with a focus on health, development and organizational psychology"
+  },
+  {
+    "professor_id": "thomas_meuche",
+    "full_name": "Prof. Dr. Thomas Meuche",
+    "first_name": "Thomas",
+    "last_name": "Meuche",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Thomas Meuche",
+      "Meuche",
+      "Prof. Thomas Meuche",
+      "Professor Thomas Meuche",
+      "Professor Meuche",
+      "Dr. Thomas Meuche",
+      "Doctor Thomas Meuche",
+      "Prof. Dr. Thomas Meuche"
+    ],
+    "position": "Institute for Economic and Organizational Research (iwo)\n                                    \n                                    \n                                        Research Group Leader Competence Center Digital Administration | Business Department",
+    "contact": {
+      "email": "thomas.meuche@hof-university.de",
+      "phone_office": "+49 9281 409 - 4650",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4650"
+    },
+    "office": "Room number: CE20 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "CE20"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business Management, particularly Finance"
+  },
+  {
+    "professor_id": "joachim_riedl",
+    "full_name": "Prof. Dr. Joachim Riedl",
+    "first_name": "Joachim",
+    "last_name": "Riedl",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Joachim Riedl",
+      "Riedl",
+      "Prof. Joachim Riedl",
+      "Professor Joachim Riedl",
+      "Professor Riedl",
+      "Dr. Joachim Riedl",
+      "Doctor Joachim Riedl",
+      "Prof. Dr. Joachim Riedl"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Empirical Research & User Experience | Business Department",
+    "contact": {
+      "email": "joachim.riedl@hof-university.de",
+      "phone_office": "+49 9281 409 - 4080",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4080"
+    },
+    "office": "Room number: A224 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A224"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Marketing, Market Research and Distribution"
+  },
+  {
+    "professor_id": "andreas_wagener",
+    "full_name": "Prof. Dr. Andreas Wagener",
+    "first_name": "Andreas",
+    "last_name": "Wagener",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Andreas Wagener",
+      "Wagener",
+      "Prof. Andreas Wagener",
+      "Professor Andreas Wagener",
+      "Professor Wagener",
+      "Dr. Andreas Wagener",
+      "Doctor Andreas Wagener",
+      "Prof. Dr. Andreas Wagener"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Digital transformation in business and society | Business Department | Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Pool of experts",
+    "contact": {
+      "email": "andreas.wagener@hof-university.de",
+      "phone_office": "+49 9281 409 - 4325",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4325"
+    },
+    "office": "Room number: B213 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B213"
+    },
+    "department": "Business Department",
+    "teaching_areas": "eCommerce and Social Media"
+  },
+  {
+    "professor_id": "beatrix_weber",
+    "full_name": "Prof. Dr. Beatrix Weber",
+    "first_name": "Beatrix",
+    "last_name": "Weber",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Beatrix Weber",
+      "Weber",
+      "Prof. Beatrix Weber",
+      "Professor Beatrix Weber",
+      "Professor Weber",
+      "Dr. Beatrix Weber",
+      "Doctor Beatrix Weber",
+      "Prof. Dr. Beatrix Weber"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Law in Sustainability, Compliance and IT | Business Department | Graduate School",
+    "contact": {
+      "email": "beatrix.weber@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: G117 , building: G , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "G",
+      "room": "G117"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business Law, Industrial Property Rights, IT Law"
+  },
+  {
+    "professor_id": "stefan_wengler",
+    "full_name": "Prof. Dr. Stefan Wengler",
+    "first_name": "Stefan",
+    "last_name": "Wengler",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Stefan Wengler",
+      "Wengler",
+      "Prof. Stefan Wengler",
+      "Professor Stefan Wengler",
+      "Professor Wengler",
+      "Dr. Stefan Wengler",
+      "Doctor Stefan Wengler",
+      "Prof. Dr. Stefan Wengler"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Empirical Research & User Experience | Business Department",
+    "contact": {
+      "email": "stefan.wengler@hof-university.de",
+      "phone_office": "+49 9281 409 - 4320",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4320"
+    },
+    "office": "Room number: B211 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B211"
+    },
+    "department": "Business Department",
+    "teaching_areas": "General Business Management, particularly Marketing"
+  },
+  {
+    "professor_id": "claudia_bilski",
+    "full_name": "Claudia Bilski",
+    "first_name": "Claudia",
+    "last_name": "Bilski",
+    "title": "",
+    "name_variations": [
+      "Claudia Bilski",
+      "Bilski"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "claudia.bilski@hof-university.de",
+      "phone_office": "+49 9281 409 - 4013",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4013"
+    },
+    "office": "Room number: B221 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B221"
+    },
+    "department": "Business Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "dietmar_boerner",
+    "full_name": "Prof. Dr. Dietmar Boerner",
+    "first_name": "Dietmar",
+    "last_name": "Boerner",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Dietmar Boerner",
+      "Boerner",
+      "Prof. Dietmar Boerner",
+      "Professor Dietmar Boerner",
+      "Professor Boerner",
+      "Dr. Dietmar Boerner",
+      "Doctor Dietmar Boerner",
+      "Prof. Dr. Dietmar Boerner"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "dietmar.boerner@hof-university.de",
+      "phone_office": "+49 9281 409 - 4380",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4380"
+    },
+    "office": "Room number: C045 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C045"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Public Law, Public Company Law and Social Law"
+  },
+  {
+    "professor_id": "ulrich_entrup",
+    "full_name": "Prof. Dr. Ulrich Entrup",
+    "first_name": "Ulrich",
+    "last_name": "Entrup",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Ulrich Entrup",
+      "Entrup",
+      "Prof. Ulrich Entrup",
+      "Professor Ulrich Entrup",
+      "Professor Entrup",
+      "Dr. Ulrich Entrup",
+      "Doctor Ulrich Entrup",
+      "Prof. Dr. Ulrich Entrup"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "ulrich.entrup@hof-university.de",
+      "phone_office": "+49 9281 409 - 4310",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4310"
+    },
+    "office": "Room number: B211 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B211"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Accounting in international companies"
+  },
+  {
+    "professor_id": "markus_finn",
+    "full_name": "Prof. Dr. Markus Finn",
+    "first_name": "Markus",
+    "last_name": "Finn",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Markus Finn",
+      "Finn",
+      "Prof. Markus Finn",
+      "Professor Markus Finn",
+      "Professor Finn",
+      "Dr. Markus Finn",
+      "Doctor Markus Finn",
+      "Prof. Dr. Markus Finn"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "markus.finn@hof-university.de",
+      "phone_office": "+49 9281 409 - 4160",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4160"
+    },
+    "office": "Room number: C145 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C145"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Law in the Health Care Sector"
+  },
+  {
+    "professor_id": "dring_roland_fischer",
+    "full_name": "Prof. Dr.-Ing. Roland Fischer",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Fischer",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Roland Fischer",
+      "Fischer",
+      "Prof. Dr.-Ing. Roland Fischer",
+      "Professor Dr.-Ing. Roland Fischer",
+      "Professor Fischer"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "roland.fischer.2@hof-university.de",
+      "phone_office": "+49 9281 409 - 4019",
+      "phone_mobile": "+49 151 27045259",
+      "phone_all": "+49 9281 409 - 4019 | +49 151 27045259"
+    },
+    "office": "Room number: B219 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B219"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Supply Chain Management"
+  },
+  {
+    "professor_id": "miriam_freyknoll",
+    "full_name": "Prof. Dr. Miriam Frey-Knoll",
+    "first_name": "Miriam",
+    "last_name": "Frey-Knoll",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Miriam Frey-Knoll",
+      "Frey-Knoll",
+      "Prof. Miriam Frey-Knoll",
+      "Professor Miriam Frey-Knoll",
+      "Professor Frey-Knoll",
+      "Dr. Miriam Frey-Knoll",
+      "Doctor Miriam Frey-Knoll",
+      "Prof. Dr. Miriam Frey-Knoll"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "miriam.frey-knoll@hof-university.de",
+      "phone_office": "+49 9281 409 - 4009",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4009"
+    },
+    "office": "Room number: B127 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B127"
+    },
+    "department": "Business Department",
+    "teaching_areas": "International Economics"
+  },
+  {
+    "professor_id": "michaela_gebele",
+    "full_name": "Prof. Dr. Michaela Gebele",
+    "first_name": "Michaela",
+    "last_name": "Gebele",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Michaela Gebele",
+      "Gebele",
+      "Prof. Michaela Gebele",
+      "Professor Michaela Gebele",
+      "Professor Gebele",
+      "Dr. Michaela Gebele",
+      "Doctor Michaela Gebele",
+      "Prof. Dr. Michaela Gebele"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "michaela.gebele@hof-university.de",
+      "phone_office": "+49 9281 409 - 4008",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4008"
+    },
+    "office": "Room number: B217 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B217"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Human Resource Management"
+  },
+  {
+    "professor_id": "heinz_gohring",
+    "full_name": "Prof. Dr. Heinz Göhring",
+    "first_name": "Heinz",
+    "last_name": "Göhring",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Heinz Göhring",
+      "Göhring",
+      "Prof. Heinz Göhring",
+      "Professor Heinz Göhring",
+      "Professor Göhring",
+      "Dr. Heinz Göhring",
+      "Doctor Heinz Göhring",
+      "Prof. Dr. Heinz Göhring"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "heinz.goehring@hof-university.de",
+      "phone_office": "+49 9281 409 - 4180",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4180"
+    },
+    "office": "Room number: C050 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C050"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business Management, particularly Accounting and Controlling"
+  },
+  {
+    "professor_id": "heiko_hegwein",
+    "full_name": "Prof. Dr. Heiko Hegwein",
+    "first_name": "Heiko",
+    "last_name": "Hegwein",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Heiko Hegwein",
+      "Hegwein",
+      "Prof. Heiko Hegwein",
+      "Professor Heiko Hegwein",
+      "Professor Hegwein",
+      "Dr. Heiko Hegwein",
+      "Doctor Heiko Hegwein",
+      "Prof. Dr. Heiko Hegwein"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "heiko.hegwein@hof-university.de",
+      "phone_office": "+49 9281 409 - 4001",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4001"
+    },
+    "office": "Room number: B213",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": "B213"
+    },
+    "department": "Business Department",
+    "teaching_areas": "E-Commerce & Digital Marketing"
+  },
+  {
+    "professor_id": "mirek_hempel",
+    "full_name": "Prof. Dr. Mirek Hempel",
+    "first_name": "Mirek",
+    "last_name": "Hempel",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Mirek Hempel",
+      "Hempel",
+      "Prof. Mirek Hempel",
+      "Professor Mirek Hempel",
+      "Professor Hempel",
+      "Dr. Mirek Hempel",
+      "Doctor Mirek Hempel",
+      "Prof. Dr. Mirek Hempel"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "mirek.hempel@hof-university.de",
+      "phone_office": "+49 9281 409 - 4003",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4003"
+    },
+    "office": "Room number: B212 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B212"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Labor law and related areas of private commercial law"
+  },
+  {
+    "professor_id": "gunter_hilmer",
+    "full_name": "Prof. Dr. Günter Hilmer",
+    "first_name": "Günter",
+    "last_name": "Hilmer",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Günter Hilmer",
+      "Hilmer",
+      "Prof. Günter Hilmer",
+      "Professor Günter Hilmer",
+      "Professor Hilmer",
+      "Dr. Günter Hilmer",
+      "Doctor Günter Hilmer",
+      "Prof. Dr. Günter Hilmer"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "guenter.hilmer@hof-university.de",
+      "phone_office": "+49 9281 409 - 4082",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4082"
+    },
+    "office": "Room number: B222 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B222"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business Management, particularly Digital Value Chains"
+  },
+  {
+    "professor_id": "stefan_huch",
+    "full_name": "Prof. Dr. Stefan Huch",
+    "first_name": "Stefan",
+    "last_name": "Huch",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Stefan Huch",
+      "Huch",
+      "Prof. Stefan Huch",
+      "Professor Stefan Huch",
+      "Professor Huch",
+      "Dr. Stefan Huch",
+      "Doctor Stefan Huch",
+      "Prof. Dr. Stefan Huch"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "stefan.huch@hof-university.de",
+      "phone_office": "+49 9281 409 - 4002",
+      "phone_mobile": "+49 151 50596774",
+      "phone_all": "+49 9281 409 - 4002 | +49 151 50596774"
+    },
+    "office": "Room number: B222 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B222"
+    },
+    "department": "Business Department",
+    "teaching_areas": "International Business Management, Business Process and Project Management"
+  },
+  {
+    "professor_id": "valentina_ignat",
+    "full_name": "Prof. Dr. Valentina Ignat",
+    "first_name": "Valentina",
+    "last_name": "Ignat",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Valentina Ignat",
+      "Ignat",
+      "Prof. Valentina Ignat",
+      "Professor Valentina Ignat",
+      "Professor Ignat",
+      "Dr. Valentina Ignat",
+      "Doctor Valentina Ignat",
+      "Prof. Dr. Valentina Ignat"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "valentina.ignat@hof-university.de",
+      "phone_office": "+49 9281 409 - 4385",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4385"
+    },
+    "office": "Room number: B215 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B215"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business Law related to Trademark and Patent Law"
+  },
+  {
+    "professor_id": "gerd_kammerer",
+    "full_name": "Dr. Gerd Kammerer",
+    "first_name": "Gerd",
+    "last_name": "Kammerer",
+    "title": "Dr.",
+    "name_variations": [
+      "Gerd Kammerer",
+      "Kammerer",
+      "Dr. Gerd Kammerer",
+      "Doctor Gerd Kammerer"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "gerd.kammerer@hof-university.de",
+      "phone_office": "+49 9281 409 - 4340",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4340"
+    },
+    "office": "Room number: B218 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B218"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Statistics, Mathematics, Environmental Economics"
+  },
+  {
+    "professor_id": "ulrike_kandler",
+    "full_name": "Ulrike Kandler",
+    "first_name": "Ulrike",
+    "last_name": "Kandler",
+    "title": "",
+    "name_variations": [
+      "Ulrike Kandler",
+      "Kandler"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "ulrike.kandler@hof-university.de",
+      "phone_office": "+49 9281 409 - 4016",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4016"
+    },
+    "office": "Room number: B216 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B216"
+    },
+    "department": "Business Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "michael_kozak",
+    "full_name": "Prof. Dr. Michael Kozak",
+    "first_name": "Michael",
+    "last_name": "Kozak",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Michael Kozak",
+      "Kozak",
+      "Prof. Michael Kozak",
+      "Professor Michael Kozak",
+      "Professor Kozak",
+      "Dr. Michael Kozak",
+      "Doctor Michael Kozak",
+      "Prof. Dr. Michael Kozak"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "michael.kozak@hof-university.de",
+      "phone_office": "+49 9281 409 - 4007",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4007"
+    },
+    "office": "Room number: C144 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C144"
+    },
+    "department": "Business Department",
+    "teaching_areas": "International personnel management and personnel psychology"
+  },
+  {
+    "professor_id": "fridtjof_langenhan",
+    "full_name": "Prof. Dr. Fridtjof Langenhan",
+    "first_name": "Fridtjof",
+    "last_name": "Langenhan",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Fridtjof Langenhan",
+      "Langenhan",
+      "Prof. Fridtjof Langenhan",
+      "Professor Fridtjof Langenhan",
+      "Professor Langenhan",
+      "Dr. Fridtjof Langenhan",
+      "Doctor Fridtjof Langenhan",
+      "Prof. Dr. Fridtjof Langenhan"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "fridtjof.langenhan@hof-university.de",
+      "phone_office": "+49 9281 409 - 4125",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4125"
+    },
+    "office": "Room number: B219 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B219"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business Management, particularly Logistics"
+  },
+  {
+    "professor_id": "oliver_mauroner",
+    "full_name": "Prof. Dr. Oliver Mauroner",
+    "first_name": "Oliver",
+    "last_name": "Mauroner",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Oliver Mauroner",
+      "Mauroner",
+      "Prof. Oliver Mauroner",
+      "Professor Oliver Mauroner",
+      "Professor Mauroner",
+      "Dr. Oliver Mauroner",
+      "Doctor Oliver Mauroner",
+      "Prof. Dr. Oliver Mauroner"
+    ],
+    "position": "Business Department | Graduate School",
+    "contact": {
+      "email": "oliver.mauroner@hof-university.de",
+      "phone_office": "+49 9281 409 - 4005",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4005"
+    },
+    "office": "Room number: C144 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C144"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Technology-oriented innovation and start-up management"
+  },
+  {
+    "professor_id": "robin_muller",
+    "full_name": "Prof. Dr. Robin Müller",
+    "first_name": "Robin",
+    "last_name": "Müller",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Robin Müller",
+      "Müller",
+      "Prof. Robin Müller",
+      "Professor Robin Müller",
+      "Professor Müller",
+      "Dr. Robin Müller",
+      "Doctor Robin Müller",
+      "Prof. Dr. Robin Müller"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "robin.mueller@hof-university.de",
+      "phone_office": "+49 9281 409 - 4075",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4075"
+    },
+    "office": "Room number: C041 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C041"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Occupational and organisational psychology"
+  },
+  {
+    "professor_id": "christian_purucker",
+    "full_name": "Prof. Dr. Christian Purucker",
+    "first_name": "Christian",
+    "last_name": "Purucker",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Christian Purucker",
+      "Purucker",
+      "Prof. Christian Purucker",
+      "Professor Christian Purucker",
+      "Professor Purucker",
+      "Dr. Christian Purucker",
+      "Doctor Christian Purucker",
+      "Prof. Dr. Christian Purucker"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "christian.purucker.2@hof-university.de",
+      "phone_office": "+49 9281 409 - 4006",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4006"
+    },
+    "office": "Room number: B136 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B136"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Applied psychology with a focus on cognitive psychology and human factors"
+  },
+  {
+    "professor_id": "peter_schafer",
+    "full_name": "Prof. Dr. Peter Schäfer",
+    "first_name": "Peter",
+    "last_name": "Schäfer",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Peter Schäfer",
+      "Schäfer",
+      "Prof. Peter Schäfer",
+      "Professor Peter Schäfer",
+      "Professor Schäfer",
+      "Dr. Peter Schäfer",
+      "Doctor Peter Schäfer",
+      "Prof. Dr. Peter Schäfer"
+    ],
+    "position": "Business Department | Commissioner for the Disabled",
+    "contact": {
+      "email": "peter.schaefer@hof-university.de",
+      "phone_office": "+49 9281 409 - 4270",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4270"
+    },
+    "office": "Room number: B217 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B217"
+    },
+    "department": "Business Department",
+    "teaching_areas": "European-, International- and German Business Law with focus on Middle and East Europe"
+  },
+  {
+    "professor_id": "christian_schmiech",
+    "full_name": "Prof. Dr. Christian Schmiech",
+    "first_name": "Christian",
+    "last_name": "Schmiech",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Christian Schmiech",
+      "Schmiech",
+      "Prof. Christian Schmiech",
+      "Professor Christian Schmiech",
+      "Professor Schmiech",
+      "Dr. Christian Schmiech",
+      "Doctor Christian Schmiech",
+      "Prof. Dr. Christian Schmiech"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "christian.schmiech@hof-university.de",
+      "phone_office": "+49 9281 409 - 4127",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4127"
+    },
+    "office": "Room number: B214 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B214"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Economics, esp. international procurement and production management"
+  },
+  {
+    "professor_id": "robert_schonau",
+    "full_name": "Prof. Dr. Robert Schönau",
+    "first_name": "Robert",
+    "last_name": "Schönau",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Robert Schönau",
+      "Schönau",
+      "Prof. Robert Schönau",
+      "Professor Robert Schönau",
+      "Professor Schönau",
+      "Dr. Robert Schönau",
+      "Doctor Robert Schönau",
+      "Prof. Dr. Robert Schönau"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "robert.schoenau@hof-university.de",
+      "phone_office": "+49 9281 409 - 4372",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4372"
+    },
+    "office": "Room number: C140 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C140"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business law particularly regulated markets and anti-trust law"
+  },
+  {
+    "professor_id": "henning_schroder",
+    "full_name": "Prof. Dr. Henning Schröder",
+    "first_name": "Henning",
+    "last_name": "Schröder",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Henning Schröder",
+      "Schröder",
+      "Prof. Henning Schröder",
+      "Professor Henning Schröder",
+      "Professor Schröder",
+      "Dr. Henning Schröder",
+      "Doctor Henning Schröder",
+      "Prof. Dr. Henning Schröder"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "henning.schroeder@hof-university.de",
+      "phone_office": "+49 9281 409 - 4060",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4060"
+    },
+    "office": "Room number: B218 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B218"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Quantitative methods in business sciences"
+  },
+  {
+    "professor_id": "michael_seidel",
+    "full_name": "Prof. Dr. Michael Seidel",
+    "first_name": "Michael",
+    "last_name": "Seidel",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Michael Seidel",
+      "Seidel",
+      "Prof. Michael Seidel",
+      "Professor Michael Seidel",
+      "Professor Seidel",
+      "Dr. Michael Seidel",
+      "Doctor Michael Seidel",
+      "Prof. Dr. Michael Seidel"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "michael.seidel@hof-university.de",
+      "phone_office": "+49 9281 409 - 4250",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4250"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business Management, particularly entrepreneurship and regional management"
+  },
+  {
+    "professor_id": "cynthia_sende",
+    "full_name": "Prof. Dr. Cynthia Sende",
+    "first_name": "Cynthia",
+    "last_name": "Sende",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Cynthia Sende",
+      "Sende",
+      "Prof. Cynthia Sende",
+      "Professor Cynthia Sende",
+      "Professor Sende",
+      "Dr. Cynthia Sende",
+      "Doctor Cynthia Sende",
+      "Prof. Dr. Cynthia Sende"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "cynthia.sende@hof-university.de",
+      "phone_office": "+49 9281 409 - 4155",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4155"
+    },
+    "office": "Room number: B136 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B136"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Economic Psychology, particularly Human Resources Development and Human Resources Psychology"
+  },
+  {
+    "professor_id": "michael_sporl",
+    "full_name": "Prof. Dr. Michael Spörl",
+    "first_name": "Michael",
+    "last_name": "Spörl",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Michael Spörl",
+      "Spörl",
+      "Prof. Michael Spörl",
+      "Professor Michael Spörl",
+      "Professor Spörl",
+      "Dr. Michael Spörl",
+      "Doctor Michael Spörl",
+      "Prof. Dr. Michael Spörl"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "michael.spoerl@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: B214 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B214"
+    },
+    "department": "Business Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "carsten_stark",
+    "full_name": "Prof. Dr. Carsten Stark",
+    "first_name": "Carsten",
+    "last_name": "Stark",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Carsten Stark",
+      "Stark",
+      "Prof. Carsten Stark",
+      "Professor Carsten Stark",
+      "Professor Stark",
+      "Dr. Carsten Stark",
+      "Doctor Carsten Stark",
+      "Prof. Dr. Carsten Stark"
+    ],
+    "position": "Business Department | Graduate School",
+    "contact": {
+      "email": "carsten.stark@hof-university.de",
+      "phone_office": "+49 9281 409 - 4275",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4275"
+    },
+    "office": "Room number: C040",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": "C040"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Human Resources Management and Organisation"
+  },
+  {
+    "professor_id": "katarina_steksov",
+    "full_name": "Katarina Steksov",
+    "first_name": "Katarina",
+    "last_name": "Steksov",
+    "title": "",
+    "name_variations": [
+      "Katarina Steksov",
+      "Steksov"
+    ],
+    "position": "Business Department | Commissioner for Equal Opportunities for Women in Science and the Arts",
+    "contact": {
+      "email": "katarina.steksov.2@hof-university.de",
+      "phone_office": "+49 9281 409 - 4017",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4017"
+    },
+    "office": "Room number: B220 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B220"
+    },
+    "department": "Business Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "martin_wachovius",
+    "full_name": "Prof. Dr. Martin Wachovius",
+    "first_name": "Martin",
+    "last_name": "Wachovius",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Martin Wachovius",
+      "Wachovius",
+      "Prof. Martin Wachovius",
+      "Professor Martin Wachovius",
+      "Professor Wachovius",
+      "Dr. Martin Wachovius",
+      "Doctor Martin Wachovius",
+      "Prof. Dr. Martin Wachovius"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "martin.wachovius@hof-university.de",
+      "phone_office": "+49 9281 409 - 4390",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4390"
+    },
+    "office": "Room number: B212 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B212"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Public Law, Energy Law, Environmental Law"
+  },
+  {
+    "professor_id": "juliane_wachovius",
+    "full_name": "Juliane Wachovius",
+    "first_name": "Juliane",
+    "last_name": "Wachovius",
+    "title": "",
+    "name_variations": [
+      "Juliane Wachovius",
+      "Wachovius"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "juliane.wachovius.2@hof-university.de",
+      "phone_office": "+49 9281 409 - 4376",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4376"
+    },
+    "office": "Room number: B216 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B216"
+    },
+    "department": "Business Department",
+    "teaching_areas": "Business Law"
+  },
+  {
+    "professor_id": "tina_wiegand",
+    "full_name": "Tina Wiegand",
+    "first_name": "Tina",
+    "last_name": "Wiegand",
+    "title": "",
+    "name_variations": [
+      "Tina Wiegand",
+      "Wiegand"
+    ],
+    "position": "Business Department",
+    "contact": {
+      "email": "tina.wiegand@hof-university.de",
+      "phone_office": "+49 9281 409 - 4010",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4010"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Business Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "dunja_stadtmann",
+    "full_name": "Prof. Dr. Dunja Stadtmann",
+    "first_name": "Dunja",
+    "last_name": "Stadtmann",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Dunja Stadtmann",
+      "Stadtmann",
+      "Prof. Dunja Stadtmann",
+      "Professor Dunja Stadtmann",
+      "Professor Stadtmann",
+      "Dr. Dunja Stadtmann",
+      "Doctor Dunja Stadtmann",
+      "Prof. Dr. Dunja Stadtmann"
+    ],
+    "position": "Head Center for Languages and Intercultural Competence | Business Department",
+    "contact": {
+      "email": "dunja.stadtmann@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: A023 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A023"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "Business Law, particularly Trade and Corporate Law"
+  },
+  {
+    "professor_id": "hansjorg_bittner",
+    "full_name": "Dr. Hansjörg Bittner",
+    "first_name": "Hansjörg",
+    "last_name": "Bittner",
+    "title": "Dr.",
+    "name_variations": [
+      "Hansjörg Bittner",
+      "Bittner",
+      "Dr. Hansjörg Bittner",
+      "Doctor Hansjörg Bittner"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "hansjoerg.bittner@hof-university.de",
+      "phone_office": "+49 9281 409 - 4290",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4290"
+    },
+    "office": "Room number: A019 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A019"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "English"
+  },
+  {
+    "professor_id": "kata_czerlau",
+    "full_name": "Kata Czerlau",
+    "first_name": "Kata",
+    "last_name": "Czerlau",
+    "title": "",
+    "name_variations": [
+      "Kata Czerlau",
+      "Czerlau"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "kata.czerlau@hof-university.de",
+      "phone_office": "+49 9281 409 - 3520",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 3520"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "German as a Foreign Language"
+  },
+  {
+    "professor_id": "julia_eichler",
+    "full_name": "Julia Eichler",
+    "first_name": "Julia",
+    "last_name": "Eichler",
+    "title": "",
+    "name_variations": [
+      "Julia Eichler",
+      "Eichler"
+    ],
+    "position": "Department of Computer Science | Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "julia.eichler@hof-university.de",
+      "phone_office": "+49 9281 409 - 4807",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4807"
+    },
+    "office": "Room number: B132 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B132"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "nathalie_ermann",
+    "full_name": "Nathalie Ermann",
+    "first_name": "Nathalie",
+    "last_name": "Ermann",
+    "title": "",
+    "name_variations": [
+      "Nathalie Ermann",
+      "Ermann"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "nathalie.ermann@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: A017 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A017"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "claudia_faber",
+    "full_name": "Claudia Faber",
+    "first_name": "Claudia",
+    "last_name": "Faber",
+    "title": "",
+    "name_variations": [
+      "Claudia Faber",
+      "Faber"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "claudia.faber@hof-university.de",
+      "phone_office": "+49 9281 409 - 3521",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 3521"
+    },
+    "office": "Room number: A021 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A021"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "German as a Foreign Language"
+  },
+  {
+    "professor_id": "julian_flierl",
+    "full_name": "Julian Flierl",
+    "first_name": "Julian",
+    "last_name": "Flierl",
+    "title": "",
+    "name_variations": [
+      "Julian Flierl",
+      "Flierl"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "julian.flierl@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "German as a Foreign Language"
+  },
+  {
+    "professor_id": "abad_sanz_juan_carlos",
+    "full_name": "Abad Sanz Juan Carlos",
+    "first_name": "Abad",
+    "last_name": "Carlos",
+    "title": "",
+    "name_variations": [
+      "Abad Sanz Juan Carlos",
+      "Carlos"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "abadsanz.juancarlos@hof-university.de",
+      "phone_office": "+49 9281 409 - 3515",
+      "phone_mobile": "+49 173 2974458",
+      "phone_all": "+49 9281 409 - 3515 | +49 173 2974458"
+    },
+    "office": "Room number: A019 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A019"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "Spanish"
+  },
+  {
+    "professor_id": "marcelo_kauer",
+    "full_name": "Dr. Marcelo Kauer",
+    "first_name": "Marcelo",
+    "last_name": "Kauer",
+    "title": "Dr.",
+    "name_variations": [
+      "Marcelo Kauer",
+      "Kauer",
+      "Dr. Marcelo Kauer",
+      "Doctor Marcelo Kauer"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "marcelo.kauer.2@hof-university.de",
+      "phone_office": "+49 9281 409 - 3519",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 3519"
+    },
+    "office": "Room number: AU21 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "AU21"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "English"
+  },
+  {
+    "professor_id": "adriana_matei",
+    "full_name": "Adriana Matei",
+    "first_name": "Adriana",
+    "last_name": "Matei",
+    "title": "",
+    "name_variations": [
+      "Adriana Matei",
+      "Matei"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "adriana.matei@hof-university.de",
+      "phone_office": "+49 9281 409 - 3518",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 3518"
+    },
+    "office": "Room number: A019 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A019"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "English"
+  },
+  {
+    "professor_id": "rona_mcgeoch",
+    "full_name": "Rona McGeoch",
+    "first_name": "Rona",
+    "last_name": "McGeoch",
+    "title": "",
+    "name_variations": [
+      "Rona McGeoch",
+      "McGeoch"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "rona.mcgeoch@hof-university.de",
+      "phone_office": "+49 9281 409 - 3516",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 3516"
+    },
+    "office": "Room number: A021 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A021"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "English"
+  },
+  {
+    "professor_id": "angelika_meßnerchuchuy",
+    "full_name": "Angelika Meßner-Chuchuy",
+    "first_name": "Angelika",
+    "last_name": "Meßner-Chuchuy",
+    "title": "",
+    "name_variations": [
+      "Angelika Meßner-Chuchuy",
+      "Meßner-Chuchuy"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "a.messner-chuchuy@hof-university.de",
+      "phone_office": "+49 9281 409 - 4280",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4280"
+    },
+    "office": "Room number: A019 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A019"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "French/Spanish"
+  },
+  {
+    "professor_id": "krisztina_schneider",
+    "full_name": "Krisztina Schneider",
+    "first_name": "Krisztina",
+    "last_name": "Schneider",
+    "title": "",
+    "name_variations": [
+      "Krisztina Schneider",
+      "Schneider"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "krisztina.schneider@hof-university.de",
+      "phone_office": "+49 9281 409 - 3517",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 3517"
+    },
+    "office": "building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": ""
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": "German as a Foreign Language"
+  },
+  {
+    "professor_id": "ulrike_walther",
+    "full_name": "Ulrike Walther",
+    "first_name": "Ulrike",
+    "last_name": "Walther",
+    "title": "",
+    "name_variations": [
+      "Ulrike Walther",
+      "Walther"
+    ],
+    "position": "Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "ulrike.walther@hof-university.de",
+      "phone_office": "+49 9281 409 - 3512",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 3512"
+    },
+    "office": "Room number: A018 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A018"
+    },
+    "department": "Center for Languages and Intercultural Competence",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "andrej_bachmann",
+    "full_name": "Prof. Dr. Andrej Bachmann",
+    "first_name": "Andrej",
+    "last_name": "Bachmann",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Andrej Bachmann",
+      "Bachmann",
+      "Prof. Andrej Bachmann",
+      "Professor Andrej Bachmann",
+      "Professor Bachmann",
+      "Dr. Andrej Bachmann",
+      "Doctor Andrej Bachmann",
+      "Prof. Dr. Andrej Bachmann"
+    ],
+    "position": "Dean Department of Computer Science",
+    "contact": {
+      "email": "andrej.bachmann@hof-university.de",
+      "phone_office": "+49 9281 409 - 4870",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4870"
+    },
+    "office": "Room number: B134 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B134"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Web Engineering"
+  },
+  {
+    "professor_id": "rene_peinl",
+    "full_name": "Prof. Dr. René Peinl",
+    "first_name": "René",
+    "last_name": "Peinl",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "René Peinl",
+      "Peinl",
+      "Prof. René Peinl",
+      "Professor René Peinl",
+      "Professor Peinl",
+      "Dr. René Peinl",
+      "Doctor René Peinl",
+      "Prof. Dr. René Peinl"
+    ],
+    "position": "Head of Institute Institute for Information Systems (iisys) | Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader Multimodal Artificial Intelligence | Department of Computer Science",
+    "contact": {
+      "email": "rene.peinl@hof-university.de",
+      "phone_office": "+49 9281 409 - 4820",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4820"
+    },
+    "office": "Room number: G004 , building: G , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "G",
+      "room": "G004"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Resource-efficient artificial intelligence for natural language understanding"
+  },
+  {
+    "professor_id": "sebastian_leuoth",
+    "full_name": "Prof. Dr. Sebastian Leuoth",
+    "first_name": "Sebastian",
+    "last_name": "Leuoth",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Sebastian Leuoth",
+      "Leuoth",
+      "Prof. Sebastian Leuoth",
+      "Professor Sebastian Leuoth",
+      "Professor Leuoth",
+      "Dr. Sebastian Leuoth",
+      "Doctor Sebastian Leuoth",
+      "Prof. Dr. Sebastian Leuoth"
+    ],
+    "position": "Assistant Dean Department of Computer Science | Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Pool of experts",
+    "contact": {
+      "email": "sebastian.leuoth@hof-university.de",
+      "phone_office": "+49 9281 409 - 4465",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4465"
+    },
+    "office": "Room number: B129 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B129"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Database management systems"
+  },
+  {
+    "professor_id": "sven_rill",
+    "full_name": "Prof. Dr. Sven Rill",
+    "first_name": "Sven",
+    "last_name": "Rill",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Sven Rill",
+      "Rill",
+      "Prof. Sven Rill",
+      "Professor Sven Rill",
+      "Professor Rill",
+      "Dr. Sven Rill",
+      "Doctor Sven Rill",
+      "Prof. Dr. Sven Rill"
+    ],
+    "position": "Departmental Adviser Department of Computer Science",
+    "contact": {
+      "email": "sven.rill@hof-university.de",
+      "phone_office": "+49 9281 409 - 4510",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4510"
+    },
+    "office": "Room number: B126 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B126"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Mobile Computing"
+  },
+  {
+    "professor_id": "florian_adamsky",
+    "full_name": "Prof. Dr. Florian Adamsky",
+    "first_name": "Florian",
+    "last_name": "Adamsky",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Florian Adamsky",
+      "Adamsky",
+      "Prof. Florian Adamsky",
+      "Professor Florian Adamsky",
+      "Professor Adamsky",
+      "Dr. Florian Adamsky",
+      "Doctor Florian Adamsky",
+      "Prof. Dr. Florian Adamsky"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Systems and Network Security | Department of Computer Science | IT Security Officer",
+    "contact": {
+      "email": "florian.adamsky@hof-university.de",
+      "phone_office": "+49 9281 409 - 4860",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4860"
+    },
+    "office": "Room number: G134 , building: G , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "G",
+      "room": "G134"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "IT Security"
+  },
+  {
+    "professor_id": "claus_atzenbeck",
+    "full_name": "Prof. Dr. Claus Atzenbeck",
+    "first_name": "Claus",
+    "last_name": "Atzenbeck",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Claus Atzenbeck",
+      "Atzenbeck",
+      "Prof. Claus Atzenbeck",
+      "Professor Claus Atzenbeck",
+      "Professor Atzenbeck",
+      "Dr. Claus Atzenbeck",
+      "Doctor Claus Atzenbeck",
+      "Prof. Dr. Claus Atzenbeck"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Visual Analytics | Department of Computer Science",
+    "contact": {
+      "email": "claus.atzenbeck@hof-university.de",
+      "phone_office": "+49 9281 409 - 6331",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 6331"
+    },
+    "office": "Room number: G139 , building: G , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "G",
+      "room": "G139"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Visual Analytics"
+  },
+  {
+    "professor_id": "richard_gobel",
+    "full_name": "Prof. Dr. Richard Göbel",
+    "first_name": "Richard",
+    "last_name": "Göbel",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Richard Göbel",
+      "Göbel",
+      "Prof. Richard Göbel",
+      "Professor Richard Göbel",
+      "Professor Göbel",
+      "Dr. Richard Göbel",
+      "Doctor Richard Göbel",
+      "Prof. Dr. Richard Göbel"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Mulitmedia Information Systems | Department of Computer Science",
+    "contact": {
+      "email": "richard.goebel@hof-university.de",
+      "phone_office": "+49 9281 409 - 4810",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4810"
+    },
+    "office": "Room number: G101 , building: G , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "G",
+      "room": "G101"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Multimedia Information Systems"
+  },
+  {
+    "professor_id": "christian_groth",
+    "full_name": "Prof. Dr. Christian Groth",
+    "first_name": "Christian",
+    "last_name": "Groth",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Christian Groth",
+      "Groth",
+      "Prof. Christian Groth",
+      "Professor Christian Groth",
+      "Professor Groth",
+      "Dr. Christian Groth",
+      "Doctor Christian Groth",
+      "Prof. Dr. Christian Groth"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Mulitmedia Information Systems | Department of Computer Science",
+    "contact": {
+      "email": "christian.groth@hof-university.de",
+      "phone_office": "+49 9281 409 - 4811",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4811"
+    },
+    "office": "Room number: G106 , building: G , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "G",
+      "room": "G106"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Applied Artificial Intelligence"
+  },
+  {
+    "professor_id": "jorg_scheidt",
+    "full_name": "Prof. Dr. Jörg Scheidt",
+    "first_name": "Jörg",
+    "last_name": "Scheidt",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Jörg Scheidt",
+      "Scheidt",
+      "Prof. Jörg Scheidt",
+      "Professor Jörg Scheidt",
+      "Professor Scheidt",
+      "Dr. Jörg Scheidt",
+      "Doctor Jörg Scheidt",
+      "Prof. Dr. Jörg Scheidt"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Analytical Information Systems | Department of Computer Science",
+    "contact": {
+      "email": "joerg.scheidt@hof-university.de",
+      "phone_office": "+49 9281 409 - 4640",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4640"
+    },
+    "office": "Room number: G124 , building: G , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "G",
+      "room": "G124"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Analytical Information Systems"
+  },
+  {
+    "professor_id": "susanne_trapp",
+    "full_name": "Susanne Trapp",
+    "first_name": "Susanne",
+    "last_name": "Trapp",
+    "title": "",
+    "name_variations": [
+      "Susanne Trapp",
+      "Trapp"
+    ],
+    "position": "Womens Representative Department of Computer Science",
+    "contact": {
+      "email": "susanne.trapp@hof-university.de",
+      "phone_office": "+49 9281 409 - 4981",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4981"
+    },
+    "office": "Room number: B112 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B112"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Databases"
+  },
+  {
+    "professor_id": "lars_ackermannigl",
+    "full_name": "Prof. Dr. Lars Ackermann-Igl",
+    "first_name": "Lars",
+    "last_name": "Ackermann-Igl",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Lars Ackermann-Igl",
+      "Ackermann-Igl",
+      "Prof. Lars Ackermann-Igl",
+      "Professor Lars Ackermann-Igl",
+      "Professor Ackermann-Igl",
+      "Dr. Lars Ackermann-Igl",
+      "Doctor Lars Ackermann-Igl",
+      "Prof. Dr. Lars Ackermann-Igl"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "lars.ackermann@hof-university.de",
+      "phone_office": "+49 9281 409 - 4813",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4813"
+    },
+    "office": "Room number: G121 , building: G , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "G",
+      "room": "G121"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Process Mining"
+  },
+  {
+    "professor_id": "friedrich_bischoff",
+    "full_name": "Friedrich Bischoff",
+    "first_name": "Friedrich",
+    "last_name": "Bischoff",
+    "title": "",
+    "name_variations": [
+      "Friedrich Bischoff",
+      "Bischoff"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "friedrich.bischoff@hof-university.de",
+      "phone_office": "+49 9281 409 - 4791",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4791"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "habil_thomas_buchmann",
+    "full_name": "Prof. Dr. habil. Thomas Buchmann",
+    "first_name": "habil.",
+    "last_name": "Buchmann",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "habil. Thomas Buchmann",
+      "Buchmann",
+      "Prof. habil. Thomas Buchmann",
+      "Professor habil. Thomas Buchmann",
+      "Professor Buchmann",
+      "Dr. habil. Thomas Buchmann",
+      "Doctor habil. Thomas Buchmann",
+      "Prof. Dr. habil. Thomas Buchmann"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "thomas.buchmann@hof-university.de",
+      "phone_office": "+49 9281 409 - 4808",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4808"
+    },
+    "office": "Room number: C109 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C109"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Applied Computer Science"
+  },
+  {
+    "professor_id": "friedrich_buhl",
+    "full_name": "Prof. Friedrich Buhl",
+    "first_name": "Friedrich",
+    "last_name": "Buhl",
+    "title": "Prof.",
+    "name_variations": [
+      "Friedrich Buhl",
+      "Buhl",
+      "Prof. Friedrich Buhl",
+      "Professor Friedrich Buhl",
+      "Professor Buhl"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "friedrich.buhl@hof-university.de",
+      "phone_office": "+49 9281 409 - 4900",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4900"
+    },
+    "office": "Room number: B131 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B131"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Media Informatics"
+  },
+  {
+    "professor_id": "johannes_doleschal",
+    "full_name": "Prof. Dr. Johannes Doleschal",
+    "first_name": "Johannes",
+    "last_name": "Doleschal",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Johannes Doleschal",
+      "Doleschal",
+      "Prof. Johannes Doleschal",
+      "Professor Johannes Doleschal",
+      "Professor Doleschal",
+      "Dr. Johannes Doleschal",
+      "Doctor Johannes Doleschal",
+      "Prof. Dr. Johannes Doleschal"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "johannes.doleschal@hof-university.de",
+      "phone_office": "+49 9281 409 - 3081",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 3081"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "julia_eichler",
+    "full_name": "Julia Eichler",
+    "first_name": "Julia",
+    "last_name": "Eichler",
+    "title": "",
+    "name_variations": [
+      "Julia Eichler",
+      "Eichler"
+    ],
+    "position": "Department of Computer Science | Center for Languages and Intercultural Competence",
+    "contact": {
+      "email": "julia.eichler@hof-university.de",
+      "phone_office": "+49 9281 409 - 4807",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4807"
+    },
+    "office": "Room number: B132 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B132"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "ina_gunther",
+    "full_name": "Prof. Ina Günther",
+    "first_name": "Ina",
+    "last_name": "Günther",
+    "title": "Prof.",
+    "name_variations": [
+      "Ina Günther",
+      "Günther",
+      "Prof. Ina Günther",
+      "Professor Ina Günther",
+      "Professor Günther"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "ina.guenther@hof-university.de",
+      "phone_office": "+49 9281 409 - 4930",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4930"
+    },
+    "office": "Room number: B131 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B131"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Communication Design focus on Marketing"
+  },
+  {
+    "professor_id": "jurgen_heym",
+    "full_name": "Prof. Dr. Jürgen Heym",
+    "first_name": "Jürgen",
+    "last_name": "Heym",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Jürgen Heym",
+      "Heym",
+      "Prof. Jürgen Heym",
+      "Professor Jürgen Heym",
+      "Professor Heym",
+      "Dr. Jürgen Heym",
+      "Doctor Jürgen Heym",
+      "Prof. Dr. Jürgen Heym"
+    ],
+    "position": "Department of Computer Science | Graduate School | Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Pool of experts",
+    "contact": {
+      "email": "juergen.heym@hof-university.de",
+      "phone_office": "+49 9281 409 - 4470",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4470"
+    },
+    "office": "Room number: C118 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C118"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Networked Systems and Network Technology"
+  },
+  {
+    "professor_id": "walter_kern",
+    "full_name": "Prof. Dr. Walter Kern",
+    "first_name": "Walter",
+    "last_name": "Kern",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Walter Kern",
+      "Kern",
+      "Prof. Walter Kern",
+      "Professor Walter Kern",
+      "Professor Kern",
+      "Dr. Walter Kern",
+      "Doctor Walter Kern",
+      "Prof. Dr. Walter Kern"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "walter.kern@hof-university.de",
+      "phone_office": "+49 9281 409 - 4855",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4855"
+    },
+    "office": "Room number: C111 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C111"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Distributed software systems"
+  },
+  {
+    "professor_id": "julia_meister",
+    "full_name": "Prof. Dr. Julia Meister",
+    "first_name": "Julia",
+    "last_name": "Meister",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Julia Meister",
+      "Meister",
+      "Prof. Julia Meister",
+      "Professor Julia Meister",
+      "Professor Meister",
+      "Dr. Julia Meister",
+      "Doctor Julia Meister",
+      "Prof. Dr. Julia Meister"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "julia.meister@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": ""
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "johannes_michael",
+    "full_name": "Prof. Dr. Johannes Michael",
+    "first_name": "Johannes",
+    "last_name": "Michael",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Johannes Michael",
+      "Michael",
+      "Prof. Johannes Michael",
+      "Professor Johannes Michael",
+      "Professor Michael",
+      "Dr. Johannes Michael",
+      "Doctor Johannes Michael",
+      "Prof. Dr. Johannes Michael"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "johannes.michael@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": ""
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Intelligent Autonomous Systems"
+  },
+  {
+    "professor_id": "tilo_muller",
+    "full_name": "Prof. Dr. Tilo Müller",
+    "first_name": "Tilo",
+    "last_name": "Müller",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Tilo Müller",
+      "Müller",
+      "Prof. Tilo Müller",
+      "Professor Tilo Müller",
+      "Professor Müller",
+      "Dr. Tilo Müller",
+      "Doctor Tilo Müller",
+      "Prof. Dr. Tilo Müller"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "tilo.mueller@hof-university.de",
+      "phone_office": "+49 9281 409 - 4407",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4407"
+    },
+    "office": "Room number: C122 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C122"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "IT Security"
+  },
+  {
+    "professor_id": "dring_sebastian_ott",
+    "full_name": "Prof. Dr.-Ing. Sebastian Ott",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Ott",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Sebastian Ott",
+      "Ott",
+      "Prof. Dr.-Ing. Sebastian Ott",
+      "Professor Dr.-Ing. Sebastian Ott",
+      "Professor Ott"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "sebastian.ott.2@hof-university.de",
+      "phone_office": "+49 9281 409 - 4812",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4812"
+    },
+    "office": "Room number: B129 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B129"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Business Information Systems"
+  },
+  {
+    "professor_id": "jurgen_ott",
+    "full_name": "Jürgen Ott",
+    "first_name": "Jürgen",
+    "last_name": "Ott",
+    "title": "",
+    "name_variations": [
+      "Jürgen Ott",
+      "Ott"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "juergen.ott@hof-university.de",
+      "phone_office": "+49 9281 409 - 4984",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4984"
+    },
+    "office": "Room number: B104 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B104"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "peter_rill",
+    "full_name": "Peter Rill",
+    "first_name": "Peter",
+    "last_name": "Rill",
+    "title": "",
+    "name_variations": [
+      "Peter Rill",
+      "Rill"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "thomas_schaller",
+    "full_name": "Prof. Dr. Thomas Schaller",
+    "first_name": "Thomas",
+    "last_name": "Schaller",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Thomas Schaller",
+      "Schaller",
+      "Prof. Thomas Schaller",
+      "Professor Thomas Schaller",
+      "Professor Schaller",
+      "Dr. Thomas Schaller",
+      "Doctor Thomas Schaller",
+      "Prof. Dr. Thomas Schaller"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "thomas.schaller@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: C118 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C118"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Electronically supported Business Processes"
+  },
+  {
+    "professor_id": "christian_schaller",
+    "full_name": "Christian Schaller",
+    "first_name": "Christian",
+    "last_name": "Schaller",
+    "title": "",
+    "name_variations": [
+      "Christian Schaller",
+      "Schaller"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "christian.schaller@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: B112",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": "B112"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "michael_spangenberg",
+    "full_name": "Prof. Dr. Michael Spangenberg",
+    "first_name": "Michael",
+    "last_name": "Spangenberg",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Michael Spangenberg",
+      "Spangenberg",
+      "Prof. Michael Spangenberg",
+      "Professor Michael Spangenberg",
+      "Professor Spangenberg",
+      "Dr. Michael Spangenberg",
+      "Doctor Michael Spangenberg",
+      "Prof. Dr. Michael Spangenberg"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "michael.spangenberg@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Data Science"
+  },
+  {
+    "professor_id": "peter_stohr",
+    "full_name": "Prof. Dr. Peter Stöhr",
+    "first_name": "Peter",
+    "last_name": "Stöhr",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Peter Stöhr",
+      "Stöhr",
+      "Prof. Peter Stöhr",
+      "Professor Peter Stöhr",
+      "Professor Stöhr",
+      "Dr. Peter Stöhr",
+      "Doctor Peter Stöhr",
+      "Prof. Dr. Peter Stöhr"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "peter.stoehr@hof-university.de",
+      "phone_office": "+49 9281 409 - 4850",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4850"
+    },
+    "office": "Room number: C111 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C111"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Informatics in Automation Technology"
+  },
+  {
+    "professor_id": "doris_stroßner",
+    "full_name": "Doris Strößner",
+    "first_name": "Doris",
+    "last_name": "Strößner",
+    "title": "",
+    "name_variations": [
+      "Doris Strößner",
+      "Strößner"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "doris.stroessner@hof-university.de",
+      "phone_office": "+49 9281 409 - 4802",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4802"
+    },
+    "office": "Room number: B132 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B132"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "steffen_unger",
+    "full_name": "Steffen Unger",
+    "first_name": "Steffen",
+    "last_name": "Unger",
+    "title": "",
+    "name_variations": [
+      "Steffen Unger",
+      "Unger"
+    ],
+    "position": "Department of Computer Science | Security Officer",
+    "contact": {
+      "email": "steffen.unger@hof-university.de",
+      "phone_office": "+49 9281 409 - 4985",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4985"
+    },
+    "office": "Room number: B104 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B104"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "wolfgang_wiedermann",
+    "full_name": "Prof. Dr. Wolfgang Wiedermann",
+    "first_name": "Wolfgang",
+    "last_name": "Wiedermann",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Wolfgang Wiedermann",
+      "Wiedermann",
+      "Prof. Wolfgang Wiedermann",
+      "Professor Wolfgang Wiedermann",
+      "Professor Wiedermann",
+      "Dr. Wolfgang Wiedermann",
+      "Doctor Wolfgang Wiedermann",
+      "Prof. Dr. Wolfgang Wiedermann"
+    ],
+    "position": "Department of Computer Science",
+    "contact": {
+      "email": "wolfgang.wiedermann@hof-university.de",
+      "phone_office": "+49 9281 409 - 4803",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4803"
+    },
+    "office": "Room number: C112 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C112"
+    },
+    "department": "Department of Computer Science",
+    "teaching_areas": "Network technologies"
+  },
+  {
+    "professor_id": "gerald_schmola",
+    "full_name": "Prof. Dr. Gerald Schmola",
+    "first_name": "Gerald",
+    "last_name": "Schmola",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Gerald Schmola",
+      "Schmola",
+      "Prof. Gerald Schmola",
+      "Professor Gerald Schmola",
+      "Professor Schmola",
+      "Dr. Gerald Schmola",
+      "Doctor Gerald Schmola",
+      "Prof. Dr. Gerald Schmola"
+    ],
+    "position": "Vice President Research, Development and Entrepreneurship | Departmental Adviser Graduate School | Department of Interdisciplinary and Innovative Sciences",
+    "contact": {
+      "email": "gerald.schmola@hof-university.de",
+      "phone_office": "+49 9281 409 - 4091",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4091"
+    },
+    "office": "Room number: A136 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A136"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "Economics, esp. Health Management"
+  },
+  {
+    "professor_id": "matthias_drossel",
+    "full_name": "Prof. Dr. Matthias Drossel",
+    "first_name": "Matthias",
+    "last_name": "Drossel",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Matthias Drossel",
+      "Drossel",
+      "Prof. Matthias Drossel",
+      "Professor Matthias Drossel",
+      "Professor Drossel",
+      "Dr. Matthias Drossel",
+      "Doctor Matthias Drossel",
+      "Prof. Dr. Matthias Drossel"
+    ],
+    "position": "Dean Department of Interdisciplinary and Innovative Sciences",
+    "contact": {
+      "email": "matthias.drossel@hof-university.de",
+      "phone_office": "+49 9281 409 - 8206",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8206"
+    },
+    "office": "Room number: K367b , building: K , campus: Kronach",
+    "location": {
+      "campus": "Kronach",
+      "building": "K",
+      "room": "K367b"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "Applied health care"
+  },
+  {
+    "professor_id": "oliver_schuster",
+    "full_name": "Prof. Dr. Oliver Schuster",
+    "first_name": "Oliver",
+    "last_name": "Schuster",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Oliver Schuster",
+      "Schuster",
+      "Prof. Oliver Schuster",
+      "Professor Oliver Schuster",
+      "Professor Schuster",
+      "Dr. Oliver Schuster",
+      "Doctor Oliver Schuster",
+      "Prof. Dr. Oliver Schuster"
+    ],
+    "position": "Assistant Dean Department of Interdisciplinary and Innovative Sciences | Graduate School",
+    "contact": {
+      "email": "oliver.schuster@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: K367c , building: K , campus: Kronach",
+    "location": {
+      "campus": "Kronach",
+      "building": "K",
+      "room": "K367c"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "IT management with focus on health care industry"
+  },
+  {
+    "professor_id": "daniel_werner",
+    "full_name": "Prof. Dr. Daniel Werner",
+    "first_name": "Daniel",
+    "last_name": "Werner",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Daniel Werner",
+      "Werner",
+      "Prof. Daniel Werner",
+      "Professor Daniel Werner",
+      "Professor Werner",
+      "Dr. Daniel Werner",
+      "Doctor Daniel Werner",
+      "Prof. Dr. Daniel Werner"
+    ],
+    "position": "Departmental Adviser Department of Interdisciplinary and Innovative Sciences | Graduate School",
+    "contact": {
+      "email": "daniel.werner@hof-university.de",
+      "phone_office": "+49 9281 409 - 4655",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4655"
+    },
+    "office": "Room number: CE06 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "CE06"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "Economics with focus on Asia/India"
+  },
+  {
+    "professor_id": "heike_markus",
+    "full_name": "Prof. Dr. Heike Markus",
+    "first_name": "Heike",
+    "last_name": "Markus",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Heike Markus",
+      "Markus",
+      "Prof. Heike Markus",
+      "Professor Heike Markus",
+      "Professor Markus",
+      "Dr. Heike Markus",
+      "Doctor Heike Markus",
+      "Prof. Dr. Heike Markus"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Supply Chain Digitization | Department of Interdisciplinary and Innovative Sciences | Graduate School",
+    "contact": {
+      "email": "heike.markus@hof-university.de",
+      "phone_office": "+49 9281 409 - 4901",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4901"
+    },
+    "office": "Room number: CE02 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "CE02"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "Digital Administration with focus on Artificial Intelligence"
+  },
+  {
+    "professor_id": "dirk_reinel",
+    "full_name": "Prof. Dr. Dirk Reinel",
+    "first_name": "Dirk",
+    "last_name": "Reinel",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Dirk Reinel",
+      "Reinel",
+      "Prof. Dirk Reinel",
+      "Professor Dirk Reinel",
+      "Professor Reinel",
+      "Dr. Dirk Reinel",
+      "Doctor Dirk Reinel",
+      "Prof. Dr. Dirk Reinel"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Analytical Information Systems | Department of Interdisciplinary and Innovative Sciences",
+    "contact": {
+      "email": "dirk.reinel@hof-university.de",
+      "phone_office": "+49 9281 409 - 8207",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8207"
+    },
+    "office": "Room number: G125 , building: G , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "G",
+      "room": "G125"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "Data management, especially for health data"
+  },
+  {
+    "professor_id": "michael_zollner",
+    "full_name": "Prof. Michael Zöllner",
+    "first_name": "Michael",
+    "last_name": "Zöllner",
+    "title": "Prof.",
+    "name_variations": [
+      "Michael Zöllner",
+      "Zöllner",
+      "Prof. Michael Zöllner",
+      "Professor Michael Zöllner",
+      "Professor Zöllner"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Interaction & Data Driven Design | Department of Interdisciplinary and Innovative Sciences",
+    "contact": {
+      "email": "michael.zoellner@hof-university.de",
+      "phone_office": "+49 9281 409 - 8563",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8563"
+    },
+    "office": "building: X , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "X",
+      "room": ""
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "Interaction Design"
+  },
+  {
+    "professor_id": "sabine_bisky",
+    "full_name": "Sabine Bisky",
+    "first_name": "Sabine",
+    "last_name": "Bisky",
+    "title": "",
+    "name_variations": [
+      "Sabine Bisky",
+      "Bisky"
+    ],
+    "position": "Department of Interdisciplinary and Innovative Sciences",
+    "contact": {
+      "email": "sabine.bisky@hof-university.de",
+      "phone_office": "+49 9281 409 - 8403",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8403"
+    },
+    "office": "Room number: CE03 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "CE03"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "norbert_diedrich",
+    "full_name": "Prof. Norbert Diedrich",
+    "first_name": "Norbert",
+    "last_name": "Diedrich",
+    "title": "Prof.",
+    "name_variations": [
+      "Norbert Diedrich",
+      "Diedrich",
+      "Prof. Norbert Diedrich",
+      "Professor Norbert Diedrich",
+      "Professor Diedrich"
+    ],
+    "position": "Department of Interdisciplinary and Innovative Sciences",
+    "contact": {
+      "email": "norbert.diedrich@hof-university.de",
+      "phone_office": "+49 9281 409 - 8401",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8401"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "Conception and design of digital narratives"
+  },
+  {
+    "professor_id": "tamar_gerholz",
+    "full_name": "Tamar Gerholz",
+    "first_name": "Tamar",
+    "last_name": "Gerholz",
+    "title": "",
+    "name_variations": [
+      "Tamar Gerholz",
+      "Gerholz"
+    ],
+    "position": "Department of Interdisciplinary and Innovative Sciences\n                                    \n                                    \n                                        Bamberg",
+    "contact": {
+      "email": "tamar.gerholz.2@hof-university.de",
+      "phone_office": "+49 9281 409 - 4201",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4201"
+    },
+    "office": "building: L",
+    "location": {
+      "campus": "",
+      "building": "L",
+      "room": ""
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "kati_karlbecker",
+    "full_name": "Kati Karl-Becker",
+    "first_name": "Kati",
+    "last_name": "Karl-Becker",
+    "title": "",
+    "name_variations": [
+      "Kati Karl-Becker",
+      "Karl-Becker"
+    ],
+    "position": "Department of Interdisciplinary and Innovative Sciences\n                                    \n                                    \n                                        Kronach Site Management",
+    "contact": {
+      "email": "kati.karl-becker@hof-university.de",
+      "phone_office": "+49 9281 409 - 8202",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8202"
+    },
+    "office": "Room number: K370a , building: K , campus: Kronach",
+    "location": {
+      "campus": "Kronach",
+      "building": "K",
+      "room": "K370a"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "dring_christoph_koch",
+    "full_name": "Prof. Dr.-Ing. Christoph Koch",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Koch",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Christoph Koch",
+      "Koch",
+      "Prof. Dr.-Ing. Christoph Koch",
+      "Professor Dr.-Ing. Christoph Koch",
+      "Professor Koch"
+    ],
+    "position": "Department of Interdisciplinary and Innovative Sciences | Graduate School",
+    "contact": {
+      "email": "christoph.koch@hof-university.de",
+      "phone_office": "+49 9281 409 - 4200",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4200"
+    },
+    "office": "Room number: CE01 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "CE01"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "Operational Excellence"
+  },
+  {
+    "professor_id": "rallou_moutafis",
+    "full_name": "Ralloù Moutafis",
+    "first_name": "Ralloù",
+    "last_name": "Moutafis",
+    "title": "",
+    "name_variations": [
+      "Ralloù Moutafis",
+      "Moutafis"
+    ],
+    "position": "Department of Interdisciplinary and Innovative Sciences",
+    "contact": {
+      "email": "rallou.moutafis@hof-university.de",
+      "phone_office": "+49 9281 409 - 5115",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 5115"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "holger_muck",
+    "full_name": "Holger Mück",
+    "first_name": "Holger",
+    "last_name": "Mück",
+    "title": "",
+    "name_variations": [
+      "Holger Mück",
+      "Mück"
+    ],
+    "position": "Department of Interdisciplinary and Innovative Sciences\n                                    \n                                    \n                                        Laboratories Kronach | Security Officer",
+    "contact": {
+      "email": "holger.mueck@hof-university.de",
+      "phone_office": "+49 9281 409 - 8203",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8203"
+    },
+    "office": "Room number: K367d , building: K , campus: Kronach",
+    "location": {
+      "campus": "Kronach",
+      "building": "K",
+      "room": "K367d"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "habil_claudia_muth",
+    "full_name": "Prof. Dr. habil. Claudia Muth",
+    "first_name": "habil.",
+    "last_name": "Muth",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "habil. Claudia Muth",
+      "Muth",
+      "Prof. habil. Claudia Muth",
+      "Professor habil. Claudia Muth",
+      "Professor Muth",
+      "Dr. habil. Claudia Muth",
+      "Doctor habil. Claudia Muth",
+      "Prof. Dr. habil. Claudia Muth"
+    ],
+    "position": "Department of Interdisciplinary and Innovative Sciences",
+    "contact": {
+      "email": "claudia.muth.2@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: X202 , building: X , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "X",
+      "room": "X202"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "Applied Design Sciences"
+  },
+  {
+    "professor_id": "julia_nagel",
+    "full_name": "Prof. Dr. Julia Nagel",
+    "first_name": "Julia",
+    "last_name": "Nagel",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Julia Nagel",
+      "Nagel",
+      "Prof. Julia Nagel",
+      "Professor Julia Nagel",
+      "Professor Nagel",
+      "Dr. Julia Nagel",
+      "Doctor Julia Nagel",
+      "Prof. Dr. Julia Nagel"
+    ],
+    "position": "Department of Interdisciplinary and Innovative Sciences",
+    "contact": {
+      "email": "julia.nagel@hof-university.de",
+      "phone_office": "+49 9281 409 - 8605",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8605"
+    },
+    "office": "Room number: L_Sonstiger_Raum_Bamberg , building: L",
+    "location": {
+      "campus": "",
+      "building": "L",
+      "room": "L_Sonstiger_Raum_Bamberg"
+    },
+    "department": "Department of Interdisciplinary and Innovative Sciences",
+    "teaching_areas": "Nursing with a focus on outpatient and inpatient long-term care"
+  },
+  {
+    "professor_id": "dring_anke_muller",
+    "full_name": "Prof. Dr.-Ing. Anke Müller",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Müller",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Anke Müller",
+      "Müller",
+      "Prof. Dr.-Ing. Anke Müller",
+      "Professor Dr.-Ing. Anke Müller",
+      "Professor Müller"
+    ],
+    "position": "Dean Engineering Department | Institute for Circular Economy of Bio:Polymers (ibp)\n                                    \n                                    \n                                        Advisory Board",
+    "contact": {
+      "email": "anke.mueller@hof-university.de",
+      "phone_office": "+49 9281 409 - 4680",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4680"
+    },
+    "office": "Room number: B133 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B133"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Manufactoring Technologies"
+  },
+  {
+    "professor_id": "dring_frank_ficker",
+    "full_name": "Prof. Dr.-Ing. Frank Ficker",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Ficker",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Frank Ficker",
+      "Ficker",
+      "Prof. Dr.-Ing. Frank Ficker",
+      "Professor Dr.-Ing. Frank Ficker",
+      "Professor Ficker"
+    ],
+    "position": "Head of Institute Institute for Materials Science (ifm) | Head Fraunhofer-Center for High Temperature Materials and Design/Application Center Textile Fiber Ceramics | Engineering Department",
+    "contact": {
+      "email": "frank.ficker@hof-university.de",
+      "phone_office": "+49 9281 409 - 4540",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4540"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Technologies of Textile Production - Weaving Technology"
+  },
+  {
+    "professor_id": "gunter_mullerczygan",
+    "full_name": "Prof. Günter Müller-Czygan",
+    "first_name": "Günter",
+    "last_name": "Müller-Czygan",
+    "title": "Prof.",
+    "name_variations": [
+      "Günter Müller-Czygan",
+      "Müller-Czygan",
+      "Prof. Günter Müller-Czygan",
+      "Professor Günter Müller-Czygan",
+      "Professor Müller-Czygan"
+    ],
+    "position": "Head of Institute Institute for Sustainable Water Systems (inwa) | Institute for Sustainable Water Systems (inwa)\n                                    \n                                    \n                                        Research Group Leader RG Water Infrastructure and Digitalisation | Engineering Department",
+    "contact": {
+      "email": "guenter.mueller-czygan@hof-university.de",
+      "phone_office": "+49 9281 409 - 4683",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4683"
+    },
+    "office": "Room number: B130 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B130"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Water Infrastructure"
+  },
+  {
+    "professor_id": "dring_michael_nase",
+    "full_name": "Prof. Dr.-Ing. Michael Nase",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Nase",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Michael Nase",
+      "Nase",
+      "Prof. Dr.-Ing. Michael Nase",
+      "Professor Dr.-Ing. Michael Nase",
+      "Professor Nase"
+    ],
+    "position": "Head of Institute Institute for Circular Economy of Bio:Polymers (ibp) | Engineering Department",
+    "contact": {
+      "email": "michael.nase@hof-university.de",
+      "phone_office": "+49 9281 409 - 4730",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4730"
+    },
+    "office": "Room number: C155 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C155"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Polymer Engineering"
+  },
+  {
+    "professor_id": "dring_tobias_plessing",
+    "full_name": "Prof. Dr.-Ing. Tobias Plessing",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Plessing",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Tobias Plessing",
+      "Plessing",
+      "Prof. Dr.-Ing. Tobias Plessing",
+      "Professor Dr.-Ing. Tobias Plessing",
+      "Professor Plessing"
+    ],
+    "position": "Head of Institute Institute for Hydrogen and Energy Technology (iwe) | Institute for Hydrogen and Energy Technology (iwe)\n                                    \n                                    \n                                        Research Group Leader RG Innovative Energy Systems and HydrogenTechnologies | Engineering Department",
+    "contact": {
+      "email": "tobias.plessing@hof-university.de",
+      "phone_office": "+49 9281 409 - 4720",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4720"
+    },
+    "office": "Room number: C117 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C117"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Energy Technology"
+  },
+  {
+    "professor_id": "anett_matthai",
+    "full_name": "Prof. Dr. Anett Matthäi",
+    "first_name": "Anett",
+    "last_name": "Matthäi",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Anett Matthäi",
+      "Matthäi",
+      "Prof. Anett Matthäi",
+      "Professor Anett Matthäi",
+      "Professor Matthäi",
+      "Dr. Anett Matthäi",
+      "Doctor Anett Matthäi",
+      "Prof. Dr. Anett Matthäi"
+    ],
+    "position": "Assistant Dean Engineering Department | Womens Representative Commissioner for Equal Opportunities for Women in Science and the Arts | Engineering Department",
+    "contact": {
+      "email": "anett.matthaei@hof-university.de",
+      "phone_office": "+49 9281 409 - 8592",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8592"
+    },
+    "office": "building: V , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "V",
+      "room": ""
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Sustainable Textiles"
+  },
+  {
+    "professor_id": "dring_matthias_kilian",
+    "full_name": "Prof. Dr.-Ing. Matthias Kilian",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Kilian",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Matthias Kilian",
+      "Kilian",
+      "Prof. Dr.-Ing. Matthias Kilian",
+      "Professor Dr.-Ing. Matthias Kilian",
+      "Professor Kilian"
+    ],
+    "position": "Departmental Adviser Engineering Department",
+    "contact": {
+      "email": "matthias.kilian@hof-university.de",
+      "phone_office": "+49 9281 409 - 4830",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4830"
+    },
+    "office": "Room number: C113 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C113"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Construction and Development"
+  },
+  {
+    "professor_id": "oliver_lottes",
+    "full_name": "Prof. Oliver Lottes",
+    "first_name": "Oliver",
+    "last_name": "Lottes",
+    "title": "Prof.",
+    "name_variations": [
+      "Oliver Lottes",
+      "Lottes",
+      "Prof. Oliver Lottes",
+      "Professor Oliver Lottes",
+      "Professor Lottes"
+    ],
+    "position": "Institute for Materials Science (ifm)\n                                    \n                                    \n                                        Head | Institute for Materials Science (ifm)\n                                    \n                                    \n                                        Research Group Leader RG Mesh technology | Engineering Department",
+    "contact": {
+      "email": "oliver.lottes@hof-university.de",
+      "phone_office": "+49 9281 409 - 8580",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8580"
+    },
+    "office": "Room number: S006 , building: S , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "S",
+      "room": "S006"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Technical Textiles based on Knitting Technology"
+  },
+  {
+    "professor_id": "christine_falkenreck",
+    "full_name": "Prof. Dr. Christine Falkenreck",
+    "first_name": "Christine",
+    "last_name": "Falkenreck",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Christine Falkenreck",
+      "Falkenreck",
+      "Prof. Christine Falkenreck",
+      "Professor Christine Falkenreck",
+      "Professor Falkenreck",
+      "Dr. Christine Falkenreck",
+      "Doctor Christine Falkenreck",
+      "Prof. Dr. Christine Falkenreck"
+    ],
+    "position": "Institute for Materials Science (ifm)\n                                    \n                                    \n                                        Research Group Leader RG Marketing innovative IoT Business Models | Engineering Department | Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Pool of experts",
+    "contact": {
+      "email": "christine.falkenreck@hof-university.de",
+      "phone_office": "+49 9281 409 - 4615",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4615"
+    },
+    "office": "Room number: C115 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C115"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Business-to-Business Marketing and Sales"
+  },
+  {
+    "professor_id": "robert_honke",
+    "full_name": "Prof. Dr. Robert Honke",
+    "first_name": "Robert",
+    "last_name": "Honke",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Robert Honke",
+      "Honke",
+      "Prof. Robert Honke",
+      "Professor Robert Honke",
+      "Professor Honke",
+      "Dr. Robert Honke",
+      "Doctor Robert Honke",
+      "Prof. Dr. Robert Honke"
+    ],
+    "position": "Institute for Hydrogen and Energy Technology (iwe)\n                                    \n                                    \n                                        Research Group Leader RG System Simulation | Engineering Department | Institute for Circular Economy of Bio:Polymers (ibp)\n                                    \n                                    \n                                        Advisory Board",
+    "contact": {
+      "email": "robert.honke@hof-university.de",
+      "phone_office": "+49 9281 409 - 4620",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4620"
+    },
+    "office": "Room number: C117 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C117"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Applied Physics"
+  },
+  {
+    "professor_id": "dring_clausekkehard_koukal",
+    "full_name": "Prof. Dr.-Ing. Claus-Ekkehard Koukal",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Koukal",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Claus-Ekkehard Koukal",
+      "Koukal",
+      "Prof. Dr.-Ing. Claus-Ekkehard Koukal",
+      "Professor Dr.-Ing. Claus-Ekkehard Koukal",
+      "Professor Koukal"
+    ],
+    "position": "Institute for Materials Science (ifm)\n                                    \n                                    \n                                        Research Group Leader RG Nonwoven technology | Engineering Department",
+    "contact": {
+      "email": "claus-ekkehard.koukal@hof-university.de",
+      "phone_office": "+49 9281 409 - 8545",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8545"
+    },
+    "office": "Room number: Z003 , building: Z , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "Z",
+      "room": "Z003"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Innovative Textile"
+  },
+  {
+    "professor_id": "jorg_krumeich",
+    "full_name": "Prof. Dr. Jörg Krumeich",
+    "first_name": "Jörg",
+    "last_name": "Krumeich",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Jörg Krumeich",
+      "Krumeich",
+      "Prof. Jörg Krumeich",
+      "Professor Jörg Krumeich",
+      "Professor Krumeich",
+      "Dr. Jörg Krumeich",
+      "Doctor Jörg Krumeich",
+      "Prof. Dr. Jörg Krumeich"
+    ],
+    "position": "Institute for Materials Science (ifm)\n                                    \n                                    \n                                        Research Group Leader RG Surface and coating technology | Engineering Department",
+    "contact": {
+      "email": "joerg.krumeich@hof-university.de",
+      "phone_office": "+49 9281 409 - 4550",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4550"
+    },
+    "office": "Room number: C119 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C119"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Surface Technology"
+  },
+  {
+    "professor_id": "katharina_neumann",
+    "full_name": "Prof. Dr. Katharina Neumann",
+    "first_name": "Katharina",
+    "last_name": "Neumann",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Katharina Neumann",
+      "Neumann",
+      "Prof. Katharina Neumann",
+      "Professor Katharina Neumann",
+      "Professor Neumann",
+      "Dr. Katharina Neumann",
+      "Doctor Katharina Neumann",
+      "Prof. Dr. Katharina Neumann"
+    ],
+    "position": "Womens Representative Engineering Department",
+    "contact": {
+      "email": "katharina.neumann@hof-university.de",
+      "phone_office": "+49 9281 409 - 4418",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4418"
+    },
+    "office": "Room number: C121 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C121"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Fundamentals of science in engineering and technical project management"
+  },
+  {
+    "professor_id": "dring_valentin_plenk",
+    "full_name": "Prof. Dr.-Ing. Valentin Plenk",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Plenk",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Valentin Plenk",
+      "Plenk",
+      "Prof. Dr.-Ing. Valentin Plenk",
+      "Professor Dr.-Ing. Valentin Plenk",
+      "Professor Plenk"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Cyper Physical Systems | Engineering Department",
+    "contact": {
+      "email": "valentin.plenk@hof-university.de",
+      "phone_office": "+49 9281 409 - 4690",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4690"
+    },
+    "office": "Room number: C116 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C116"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Control Engineering"
+  },
+  {
+    "professor_id": "dring_michael_rauch",
+    "full_name": "Prof. Dr.-Ing. Michael Rauch",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Rauch",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Michael Rauch",
+      "Rauch",
+      "Prof. Dr.-Ing. Michael Rauch",
+      "Professor Dr.-Ing. Michael Rauch",
+      "Professor Rauch"
+    ],
+    "position": "Institute for Materials Science (ifm)\n                                    \n                                    \n                                        Research Group Leader RG Textile finishing and coloration | Engineering Department | Hazardous Materials Officer",
+    "contact": {
+      "email": "michael.rauch@hof-university.de",
+      "phone_office": "+49 9281 409 - 8450",
+      "phone_mobile": "+49 173 173 4235",
+      "phone_all": "+49 9281 409 - 8450 | +49 173 173 4235"
+    },
+    "office": "building: V , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "V",
+      "room": ""
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Textile Finishing and Coloration"
+  },
+  {
+    "professor_id": "dring_thomas_schlosser",
+    "full_name": "Prof. Dr.-Ing. Thomas Schlosser",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Schlosser",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Thomas Schlosser",
+      "Schlosser",
+      "Prof. Dr.-Ing. Thomas Schlosser",
+      "Professor Dr.-Ing. Thomas Schlosser",
+      "Professor Schlosser"
+    ],
+    "position": "Institute for Hydrogen and Energy Technology (iwe)\n                                    \n                                    \n                                        Research Group Leader | Engineering Department",
+    "contact": {
+      "email": "thomas.schlosser@hof-university.de",
+      "phone_office": "+49 9281 409 - 4675",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4675"
+    },
+    "office": "Room number: C121 , building: Equipment Engineering , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "Equipment Engineering",
+      "room": "C121"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Building Equipment Engineering"
+  },
+  {
+    "professor_id": "tobias_schnabel",
+    "full_name": "Prof. Dr. Tobias Schnabel",
+    "first_name": "Tobias",
+    "last_name": "Schnabel",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Tobias Schnabel",
+      "Schnabel",
+      "Prof. Tobias Schnabel",
+      "Professor Tobias Schnabel",
+      "Professor Schnabel",
+      "Dr. Tobias Schnabel",
+      "Doctor Tobias Schnabel",
+      "Prof. Dr. Tobias Schnabel"
+    ],
+    "position": "Institute for Sustainable Water Systems (inwa)\n                                    \n                                    \n                                        Research Group Leader Research group Photonics and Water | Engineering Department",
+    "contact": {
+      "email": "tobias.schnabel@hof-university.de",
+      "phone_office": "+49 9281 409 - 4410",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4410"
+    },
+    "office": "Room number: C110 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C110"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Urban water resource management"
+  },
+  {
+    "professor_id": "manuela_wimmer",
+    "full_name": "Prof. Dr. Manuela Wimmer",
+    "first_name": "Manuela",
+    "last_name": "Wimmer",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Manuela Wimmer",
+      "Wimmer",
+      "Prof. Manuela Wimmer",
+      "Professor Manuela Wimmer",
+      "Professor Wimmer",
+      "Dr. Manuela Wimmer",
+      "Doctor Manuela Wimmer",
+      "Prof. Dr. Manuela Wimmer"
+    ],
+    "position": "Institute for Sustainable Water Systems (inwa)\n                                    \n                                    \n                                        Research Group Leader RG Sustainability and Project Management in Water Management | Engineering Department | Graduate School",
+    "contact": {
+      "email": "manuela.wimmer@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": ""
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Environmetal Engineering"
+  },
+  {
+    "professor_id": "jens_beck",
+    "full_name": "Prof. Dr. Jens Beck",
+    "first_name": "Jens",
+    "last_name": "Beck",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Jens Beck",
+      "Beck",
+      "Prof. Jens Beck",
+      "Professor Jens Beck",
+      "Professor Beck",
+      "Dr. Jens Beck",
+      "Doctor Jens Beck",
+      "Prof. Dr. Jens Beck"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "jens.beck@hof-university.de",
+      "phone_office": "+49 9281 409 - 4677",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4677"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Heat- and mass transfer and fundamentals of mechanical engineering"
+  },
+  {
+    "professor_id": "julia_findeiß",
+    "full_name": "Julia Findeiß",
+    "first_name": "Julia",
+    "last_name": "Findeiß",
+    "title": "",
+    "name_variations": [
+      "Julia Findeiß",
+      "Findeiß"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratory Selb | Security Officer",
+    "contact": {
+      "email": "julia.findeiss@hof-university.de",
+      "phone_office": "+49 9281 409 - 4408",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4408"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "alexander_forst",
+    "full_name": "Prof. Alexander Forst",
+    "first_name": "Alexander",
+    "last_name": "Forst",
+    "title": "Prof.",
+    "name_variations": [
+      "Alexander Forst",
+      "Forst",
+      "Prof. Alexander Forst",
+      "Professor Alexander Forst",
+      "Professor Forst"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "alexander.forst@hof-university.de",
+      "phone_office": "+49 9281 409 - 8300",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8300"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Advanced Mobility Design"
+  },
+  {
+    "professor_id": "lutz_fugener",
+    "full_name": "Prof. Lutz Fügener",
+    "first_name": "Lutz",
+    "last_name": "Fügener",
+    "title": "Prof.",
+    "name_variations": [
+      "Lutz Fügener",
+      "Fügener",
+      "Prof. Lutz Fügener",
+      "Professor Lutz Fügener",
+      "Professor Fügener"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "lutz.fuegener@hof-university.de",
+      "phone_office": "+49 9281 409 - 8453",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8453"
+    },
+    "office": "",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": ""
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Advanced Mobility Design - Concept and Construction"
+  },
+  {
+    "professor_id": "kirsten_gebhardt",
+    "full_name": "Kirsten Gebhardt",
+    "first_name": "Kirsten",
+    "last_name": "Gebhardt",
+    "title": "",
+    "name_variations": [
+      "Kirsten Gebhardt",
+      "Gebhardt"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Münchberg",
+    "contact": {
+      "email": "kirsten.gebhardt@hof-university.de",
+      "phone_office": "+49 9281 409 - 8591",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8591"
+    },
+    "office": "Room number: Y204 , building: Y , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "Y",
+      "room": "Y204"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "arwed_guderian",
+    "full_name": "Prof. Arwed Guderian",
+    "first_name": "Arwed",
+    "last_name": "Guderian",
+    "title": "Prof.",
+    "name_variations": [
+      "Arwed Guderian",
+      "Guderian",
+      "Prof. Arwed Guderian",
+      "Professor Arwed Guderian",
+      "Professor Guderian"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "arwed.guderian@hof-university.de",
+      "phone_office": "+49 9281 409 - 8400",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8400"
+    },
+    "office": "Room number: Y211 , building: Y , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "Y",
+      "room": "Y211"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Future-oriented two and three dimensional Design"
+  },
+  {
+    "professor_id": "dring_habil_lars_hahn",
+    "full_name": "Prof. Dr.-Ing. habil. Lars Hahn",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Hahn",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. habil. Lars Hahn",
+      "Hahn",
+      "Prof. Dr.-Ing. habil. Lars Hahn",
+      "Professor Dr.-Ing. habil. Lars Hahn",
+      "Professor Hahn"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "lars.hahn@hof-university.de",
+      "phone_office": "+49 9281 409 - 8414",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8414"
+    },
+    "office": "Room number: V103c , building: V , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "V",
+      "room": "V103c"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Sustainable Textile Materials Engineering"
+  },
+  {
+    "professor_id": "stefanie_hayn",
+    "full_name": "Stefanie Hayn",
+    "first_name": "Stefanie",
+    "last_name": "Hayn",
+    "title": "",
+    "name_variations": [
+      "Stefanie Hayn",
+      "Hayn"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "stefanie.hayn@hof-university.de",
+      "phone_office": "+49 9281 409 - 4402",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4402"
+    },
+    "office": "Room number: B135 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B135"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "dring_marcel_huptych",
+    "full_name": "Prof. Dr.-Ing. Marcel Huptych",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Huptych",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Marcel Huptych",
+      "Huptych",
+      "Prof. Dr.-Ing. Marcel Huptych",
+      "Professor Dr.-Ing. Marcel Huptych",
+      "Professor Huptych"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "marcel.huptych@hof-university.de",
+      "phone_office": "+49 9281 409 - 4413",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4413"
+    },
+    "office": "Room number: C116 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C116"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Mechatronics, especially industrial robotics and automation technology"
+  },
+  {
+    "professor_id": "bernd_kandler",
+    "full_name": "Bernd Kandler",
+    "first_name": "Bernd",
+    "last_name": "Kandler",
+    "title": "",
+    "name_variations": [
+      "Bernd Kandler",
+      "Kandler"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Hof",
+    "contact": {
+      "email": "bernd.kandler@hof-university.de",
+      "phone_office": "+49 9281 409 - 4986",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4986"
+    },
+    "office": "Room number: C107 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C107"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "thomas_karall",
+    "full_name": "Prof. Dr. Thomas Karall",
+    "first_name": "Thomas",
+    "last_name": "Karall",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Thomas Karall",
+      "Karall",
+      "Prof. Thomas Karall",
+      "Professor Thomas Karall",
+      "Professor Karall",
+      "Dr. Thomas Karall",
+      "Doctor Thomas Karall",
+      "Prof. Dr. Thomas Karall"
+    ],
+    "position": "Engineering Department | Graduate School",
+    "contact": {
+      "email": "thomas.karall@hof-university.de",
+      "phone_office": "+49 9281 409 - 4676",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4676"
+    },
+    "office": "Room number: C101d , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C101d"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Design Engineering, Strength of Materials, Calculation Methods"
+  },
+  {
+    "professor_id": "nathalie_koch",
+    "full_name": "Nathalie Koch",
+    "first_name": "Nathalie",
+    "last_name": "Koch",
+    "title": "",
+    "name_variations": [
+      "Nathalie Koch",
+      "Koch"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Hof | Head of indoor crane ABUS | Security Officer",
+    "contact": {
+      "email": "nathalie.koch.2@hof-university.de",
+      "phone_office": "+49 9281 409 - 4414",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4414"
+    },
+    "office": "Room number: C103 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C103"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "dring_andreas_kruse",
+    "full_name": "Prof. Dr.-Ing. Andreas Kruse",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Kruse",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Andreas Kruse",
+      "Kruse",
+      "Prof. Dr.-Ing. Andreas Kruse",
+      "Professor Dr.-Ing. Andreas Kruse",
+      "Professor Kruse"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "andreas.kruse@hof-university.de",
+      "phone_office": "+49 9281 409 - 4420",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4420"
+    },
+    "office": "Room number: C113 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C113"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Smart Manufacturing"
+  },
+  {
+    "professor_id": "lukas_langner",
+    "full_name": "Lukas Langner",
+    "first_name": "Lukas",
+    "last_name": "Langner",
+    "title": "",
+    "name_variations": [
+      "Lukas Langner",
+      "Langner"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Hof | Head of indoor crane ABUS",
+    "contact": {
+      "email": "lukas.langner@hof-university.de",
+      "phone_office": "+49 9281 409 - 3189",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 3189"
+    },
+    "office": "Room number: C103 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C103"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "dring_marco_linß",
+    "full_name": "Prof. Dr.-Ing. Marco Linß",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Linß",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Marco Linß",
+      "Linß",
+      "Prof. Dr.-Ing. Marco Linß",
+      "Professor Dr.-Ing. Marco Linß",
+      "Professor Linß"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "marco.linss@hof-university.de",
+      "phone_office": "+49 9281 409 - 4520",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4520"
+    },
+    "office": "Room number: C110 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C110"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Production and Quality Management"
+  },
+  {
+    "professor_id": "nicole_mallek",
+    "full_name": "Prof. Nicole Mallek",
+    "first_name": "Nicole",
+    "last_name": "Mallek",
+    "title": "Prof.",
+    "name_variations": [
+      "Nicole Mallek",
+      "Mallek",
+      "Prof. Nicole Mallek",
+      "Professor Nicole Mallek",
+      "Professor Mallek"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "nicole.mallek@hof-university.de",
+      "phone_office": "+49 9281 409 - 8417",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8417"
+    },
+    "office": "Room number: Y208 , building: Y , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "Y",
+      "room": "Y208"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Textile product development and surface design"
+  },
+  {
+    "professor_id": "thomas_meins",
+    "full_name": "Prof. Dr. Thomas Meins",
+    "first_name": "Thomas",
+    "last_name": "Meins",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Thomas Meins",
+      "Meins",
+      "Prof. Thomas Meins",
+      "Professor Thomas Meins",
+      "Professor Meins",
+      "Dr. Thomas Meins",
+      "Doctor Thomas Meins",
+      "Prof. Dr. Thomas Meins"
+    ],
+    "position": "Engineering Department | Institute for Circular Economy of Bio:Polymers (ibp)\n                                    \n                                    \n                                        Advisory Board",
+    "contact": {
+      "email": "thomas.meins@hof-university.de",
+      "phone_office": "+49 9281 409 - 4551",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4551"
+    },
+    "office": "Room number: C119 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C119"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Biopolymer Science"
+  },
+  {
+    "professor_id": "franziska_meyer",
+    "full_name": "Franziska Meyer",
+    "first_name": "Franziska",
+    "last_name": "Meyer",
+    "title": "",
+    "name_variations": [
+      "Franziska Meyer",
+      "Meyer"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Hof | Head of indoor crane ABUS",
+    "contact": {
+      "email": "franziska.meyer@hof-university.de",
+      "phone_office": "+49 9281 409 - 4787",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4787"
+    },
+    "office": "Room number: C106 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C106"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "dring_paul_molenda",
+    "full_name": "Prof. Dr.-Ing. Paul Molenda",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Molenda",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Paul Molenda",
+      "Molenda",
+      "Prof. Dr.-Ing. Paul Molenda",
+      "Professor Dr.-Ing. Paul Molenda",
+      "Professor Molenda"
+    ],
+    "position": "Engineering Department | Graduate School",
+    "contact": {
+      "email": "paul.molenda@hof-university.de",
+      "phone_office": "+49 9281 409 - 4406",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4406"
+    },
+    "office": "Room number: C113 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C113"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Industrial Engineering with focus on Business Information Systems & Supply Chain Management"
+  },
+  {
+    "professor_id": "dring_andrea_monami",
+    "full_name": "Prof. Dr.-Ing. Andrea Monami",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Monami",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Andrea Monami",
+      "Monami",
+      "Prof. Dr.-Ing. Andrea Monami",
+      "Professor Dr.-Ing. Andrea Monami",
+      "Professor Monami"
+    ],
+    "position": "Engineering Department | Hazardous Materials Officer",
+    "contact": {
+      "email": "andrea.monami@hof-university.de",
+      "phone_office": "+49 9281 409 - 4411",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4411"
+    },
+    "office": "Room number: C114 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C114"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Sustainable Materials Engineering"
+  },
+  {
+    "professor_id": "sigrid_muhle",
+    "full_name": "Sigrid Mühle",
+    "first_name": "Sigrid",
+    "last_name": "Mühle",
+    "title": "",
+    "name_variations": [
+      "Sigrid Mühle",
+      "Mühle"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Hof | Security Officer",
+    "contact": {
+      "email": "sigrid.muehle@hof-university.de",
+      "phone_office": "+49 9281 409 - 4404",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4404"
+    },
+    "office": "Room number: B106 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B106"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "harald_ott",
+    "full_name": "Harald Ott",
+    "first_name": "Harald",
+    "last_name": "Ott",
+    "title": "",
+    "name_variations": [
+      "Harald Ott",
+      "Ott"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Münchberg | Institute for Materials Science (ifm)\n                                    \n                                    \n                                        RG Innovative Textiles | ABUS Overhead Crane – Campus Münchberg",
+    "contact": {
+      "email": "harald.ott@hof-university.de",
+      "phone_office": "+49 9281 409 - 8650",
+      "phone_mobile": "+49 157 74383621",
+      "phone_all": "+49 9281 409 - 8650 | +49 157 74383621"
+    },
+    "office": "Room number: W001b , building: W , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "W",
+      "room": "W001b"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "silke_pohlmann",
+    "full_name": "Silke Pöhlmann",
+    "first_name": "Silke",
+    "last_name": "Pöhlmann",
+    "title": "",
+    "name_variations": [
+      "Silke Pöhlmann",
+      "Pöhlmann"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Münchberg",
+    "contact": {
+      "email": "silke.poehlmann@hof-university.de",
+      "phone_office": "+49 9281 409 - 8451",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8451"
+    },
+    "office": "Room number: V102b , building: V , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "V",
+      "room": "V102b"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "wolfgang_richter",
+    "full_name": "Prof. Dr. Wolfgang Richter",
+    "first_name": "Wolfgang",
+    "last_name": "Richter",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Wolfgang Richter",
+      "Richter",
+      "Prof. Wolfgang Richter",
+      "Professor Wolfgang Richter",
+      "Professor Richter",
+      "Dr. Wolfgang Richter",
+      "Doctor Wolfgang Richter",
+      "Prof. Dr. Wolfgang Richter"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "wolfgang.richter@hof-university.de",
+      "phone_office": "+49 9281 409 - 4960",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4960"
+    },
+    "office": "Room number: C101d , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C101d"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Software Engineering"
+  },
+  {
+    "professor_id": "jurgen_rubitzko",
+    "full_name": "Jürgen Rubitzko",
+    "first_name": "Jürgen",
+    "last_name": "Rubitzko",
+    "title": "",
+    "name_variations": [
+      "Jürgen Rubitzko",
+      "Rubitzko"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Hof",
+    "contact": {
+      "email": "juergen.rubitzko@hof-university.de",
+      "phone_office": "+49 9281 409 - 4987",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4987"
+    },
+    "office": "Room number: C108 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C108"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "dring_andreas_schmid",
+    "full_name": "Prof. Dr.-Ing. Andreas Schmid",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Schmid",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Andreas Schmid",
+      "Schmid",
+      "Prof. Dr.-Ing. Andreas Schmid",
+      "Professor Dr.-Ing. Andreas Schmid",
+      "Professor Schmid"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "andreas.schmid@hof-university.de",
+      "phone_office": "+49 9281 409 - 4710",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4710"
+    },
+    "office": "Room number: C110 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C110"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Water and Wastewater Treatment"
+  },
+  {
+    "professor_id": "christine_scholl",
+    "full_name": "Christine Scholl",
+    "first_name": "Christine",
+    "last_name": "Scholl",
+    "title": "",
+    "name_variations": [
+      "Christine Scholl",
+      "Scholl"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "christine.scholl@hof-university.de",
+      "phone_office": "+49 9281 409 - 8550",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8550"
+    },
+    "office": "Room number: Y209 , building: Y , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "Y",
+      "room": "Y209"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Digital Imaging"
+  },
+  {
+    "professor_id": "michael_schwadrys",
+    "full_name": "Michael Schwadrys",
+    "first_name": "Michael",
+    "last_name": "Schwadrys",
+    "title": "",
+    "name_variations": [
+      "Michael Schwadrys",
+      "Schwadrys"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Münchberg | Institute for Materials Science (ifm)\n                                    \n                                    \n                                        RG Mesh technology | ABUS Overhead Crane – Campus Münchberg",
+    "contact": {
+      "email": "michael.schwadrys.2@hof-university.de",
+      "phone_office": "+49 9281 409 - 8632",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8632"
+    },
+    "office": "Room number: S007 , building: S , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "S",
+      "room": "S007"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "uwe_schwittai",
+    "full_name": "Uwe Schwittai",
+    "first_name": "Uwe",
+    "last_name": "Schwittai",
+    "title": "",
+    "name_variations": [
+      "Uwe Schwittai",
+      "Schwittai"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Münchberg | Institute for Materials Science (ifm)\n                                    \n                                    \n                                        RG Innovative Textiles | ABUS Overhead Crane – Campus Münchberg",
+    "contact": {
+      "email": "uwe.schwittai@hof-university.de",
+      "phone_office": "+49 9281 409 - 8593",
+      "phone_mobile": "491731626306",
+      "phone_all": "+49 9281 409 - 8593 | 491731626306"
+    },
+    "office": "Room number: Y215a , building: Y , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "Y",
+      "room": "Y215a"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "judith_seiferth",
+    "full_name": "Judith Seiferth",
+    "first_name": "Judith",
+    "last_name": "Seiferth",
+    "title": "",
+    "name_variations": [
+      "Judith Seiferth",
+      "Seiferth"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Münchberg",
+    "contact": {
+      "email": "judith.seiferth@hof-university.de",
+      "phone_office": "+49 9281 409 - 8595",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8595"
+    },
+    "office": "Room number: V302b , building: V , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "V",
+      "room": "V302b"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "claudia_siegel",
+    "full_name": "Prof. Claudia Siegel",
+    "first_name": "Claudia",
+    "last_name": "Siegel",
+    "title": "Prof.",
+    "name_variations": [
+      "Claudia Siegel",
+      "Siegel",
+      "Prof. Claudia Siegel",
+      "Professor Claudia Siegel",
+      "Professor Siegel"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "claudia.siegel@hof-university.de",
+      "phone_office": "+49 9281 409 - 8564",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8564"
+    },
+    "office": "Room number: Y207 , building: Y , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "Y",
+      "room": "Y207"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Typhography"
+  },
+  {
+    "professor_id": "torsten_stapelkamp",
+    "full_name": "Prof. Torsten Stapelkamp",
+    "first_name": "Torsten",
+    "last_name": "Stapelkamp",
+    "title": "Prof.",
+    "name_variations": [
+      "Torsten Stapelkamp",
+      "Stapelkamp",
+      "Prof. Torsten Stapelkamp",
+      "Professor Torsten Stapelkamp",
+      "Professor Stapelkamp"
+    ],
+    "position": "Engineering Department | Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Pool of experts",
+    "contact": {
+      "email": "torsten.stapelkamp@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: N205 , building: N",
+    "location": {
+      "campus": "",
+      "building": "N",
+      "room": "N205"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Media Design (Interface Design, Service Design)"
+  },
+  {
+    "professor_id": "andreas_stein",
+    "full_name": "Andreas Stein",
+    "first_name": "Andreas",
+    "last_name": "Stein",
+    "title": "",
+    "name_variations": [
+      "Andreas Stein",
+      "Stein"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Hof",
+    "contact": {
+      "email": "andreas.stein@hof-university.de",
+      "phone_office": "+49 9281 409 - 4779",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4779"
+    },
+    "office": "Room number: C101c , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C101c"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "martin_thoß",
+    "full_name": "Martin Thoß",
+    "first_name": "Martin",
+    "last_name": "Thoß",
+    "title": "",
+    "name_variations": [
+      "Martin Thoß",
+      "Thoß"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Hof | Head of indoor crane ABUS",
+    "contact": {
+      "email": "martin.thoss@hof-university.de",
+      "phone_office": "+49 9281 409 - 4785",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4785"
+    },
+    "office": "Room number: C106 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C106"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "christina_wagner",
+    "full_name": "Christina Wagner",
+    "first_name": "Christina",
+    "last_name": "Wagner",
+    "title": "",
+    "name_variations": [
+      "Christina Wagner",
+      "Wagner"
+    ],
+    "position": "Engineering Department\n                                    \n                                    \n                                        Laboratories Hof | Security Officer",
+    "contact": {
+      "email": "christina.wagner@hof-university.de",
+      "phone_office": "+49 9281 409 - 4783",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4783"
+    },
+    "office": "Room number: B106 , building: B , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "B",
+      "room": "B106"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "silke_weiß",
+    "full_name": "Silke Weiß",
+    "first_name": "Silke",
+    "last_name": "Weiß",
+    "title": "",
+    "name_variations": [
+      "Silke Weiß",
+      "Weiß"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "silke.weiss@hof-university.de",
+      "phone_office": "+49 9281 409 - 8402",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 8402"
+    },
+    "office": "Room number: S001 , building: S , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "S",
+      "room": "S001"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "dring_stefan_widmann",
+    "full_name": "Prof. Dr.-Ing. Stefan Widmann",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Widmann",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Stefan Widmann",
+      "Widmann",
+      "Prof. Dr.-Ing. Stefan Widmann",
+      "Professor Dr.-Ing. Stefan Widmann",
+      "Professor Widmann"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "stefan.widmann@hof-university.de",
+      "phone_office": "+49 9281 409 - 4482",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4482"
+    },
+    "office": "Room number: C107 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C107"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Fundamentals of electrical engineering and integrated hardware and software systems"
+  },
+  {
+    "professor_id": "susanne_winter",
+    "full_name": "Susanne Winter",
+    "first_name": "Susanne",
+    "last_name": "Winter",
+    "title": "",
+    "name_variations": [
+      "Susanne Winter",
+      "Winter"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "susanne.winter@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "building: Y , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "Y",
+      "room": ""
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Textil Design / Fashion Design"
+  },
+  {
+    "professor_id": "martina_ziegenthaler",
+    "full_name": "Prof. Martina Ziegenthaler",
+    "first_name": "Martina",
+    "last_name": "Ziegenthaler",
+    "title": "Prof.",
+    "name_variations": [
+      "Martina Ziegenthaler",
+      "Ziegenthaler",
+      "Prof. Martina Ziegenthaler",
+      "Professor Martina Ziegenthaler",
+      "Professor Ziegenthaler"
+    ],
+    "position": "Engineering Department",
+    "contact": {
+      "email": "martina.ziegenthaler@hof-university.de",
+      "phone_office": "+49 9281 409 - 8500",
+      "phone_mobile": "+49 151 20435593",
+      "phone_all": "+49 9281 409 - 8500 | +49 151 20435593"
+    },
+    "office": "Room number: Y004 , building: Y , campus: Münchberg",
+    "location": {
+      "campus": "Münchberg",
+      "building": "Y",
+      "room": "Y004"
+    },
+    "department": "Engineering Department",
+    "teaching_areas": "Fashiondesign"
+  },
+  {
+    "professor_id": "gerald_schmola",
+    "full_name": "Prof. Dr. Gerald Schmola",
+    "first_name": "Gerald",
+    "last_name": "Schmola",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Gerald Schmola",
+      "Schmola",
+      "Prof. Gerald Schmola",
+      "Professor Gerald Schmola",
+      "Professor Schmola",
+      "Dr. Gerald Schmola",
+      "Doctor Gerald Schmola",
+      "Prof. Dr. Gerald Schmola"
+    ],
+    "position": "Vice President Research, Development and Entrepreneurship | Departmental Adviser Graduate School | Department of Interdisciplinary and Innovative Sciences",
+    "contact": {
+      "email": "gerald.schmola@hof-university.de",
+      "phone_office": "+49 9281 409 - 4091",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4091"
+    },
+    "office": "Room number: A136 , building: A , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "A",
+      "room": "A136"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Economics, esp. Health Management"
+  },
+  {
+    "professor_id": "oliver_schuster",
+    "full_name": "Prof. Dr. Oliver Schuster",
+    "first_name": "Oliver",
+    "last_name": "Schuster",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Oliver Schuster",
+      "Schuster",
+      "Prof. Oliver Schuster",
+      "Professor Oliver Schuster",
+      "Professor Schuster",
+      "Dr. Oliver Schuster",
+      "Doctor Oliver Schuster",
+      "Prof. Dr. Oliver Schuster"
+    ],
+    "position": "Assistant Dean Department of Interdisciplinary and Innovative Sciences | Graduate School",
+    "contact": {
+      "email": "oliver.schuster@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: K367c , building: K , campus: Kronach",
+    "location": {
+      "campus": "Kronach",
+      "building": "K",
+      "room": "K367c"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "IT management with focus on health care industry"
+  },
+  {
+    "professor_id": "daniel_werner",
+    "full_name": "Prof. Dr. Daniel Werner",
+    "first_name": "Daniel",
+    "last_name": "Werner",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Daniel Werner",
+      "Werner",
+      "Prof. Daniel Werner",
+      "Professor Daniel Werner",
+      "Professor Werner",
+      "Dr. Daniel Werner",
+      "Doctor Daniel Werner",
+      "Prof. Dr. Daniel Werner"
+    ],
+    "position": "Departmental Adviser Department of Interdisciplinary and Innovative Sciences | Graduate School",
+    "contact": {
+      "email": "daniel.werner@hof-university.de",
+      "phone_office": "+49 9281 409 - 4655",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4655"
+    },
+    "office": "Room number: CE06 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "CE06"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Economics with focus on Asia/India"
+  },
+  {
+    "professor_id": "heike_markus",
+    "full_name": "Prof. Dr. Heike Markus",
+    "first_name": "Heike",
+    "last_name": "Markus",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Heike Markus",
+      "Markus",
+      "Prof. Heike Markus",
+      "Professor Heike Markus",
+      "Professor Markus",
+      "Dr. Heike Markus",
+      "Doctor Heike Markus",
+      "Prof. Dr. Heike Markus"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Supply Chain Digitization | Department of Interdisciplinary and Innovative Sciences | Graduate School",
+    "contact": {
+      "email": "heike.markus@hof-university.de",
+      "phone_office": "+49 9281 409 - 4901",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4901"
+    },
+    "office": "Room number: CE02 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "CE02"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Digital Administration with focus on Artificial Intelligence"
+  },
+  {
+    "professor_id": "beatrix_weber",
+    "full_name": "Prof. Dr. Beatrix Weber",
+    "first_name": "Beatrix",
+    "last_name": "Weber",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Beatrix Weber",
+      "Weber",
+      "Prof. Beatrix Weber",
+      "Professor Beatrix Weber",
+      "Professor Weber",
+      "Dr. Beatrix Weber",
+      "Doctor Beatrix Weber",
+      "Prof. Dr. Beatrix Weber"
+    ],
+    "position": "Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Research Group Leader RG Law in Sustainability, Compliance and IT | Business Department | Graduate School",
+    "contact": {
+      "email": "beatrix.weber@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "Room number: G117 , building: G , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "G",
+      "room": "G117"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Business Law, Industrial Property Rights, IT Law"
+  },
+  {
+    "professor_id": "manuela_wimmer",
+    "full_name": "Prof. Dr. Manuela Wimmer",
+    "first_name": "Manuela",
+    "last_name": "Wimmer",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Manuela Wimmer",
+      "Wimmer",
+      "Prof. Manuela Wimmer",
+      "Professor Manuela Wimmer",
+      "Professor Wimmer",
+      "Dr. Manuela Wimmer",
+      "Doctor Manuela Wimmer",
+      "Prof. Dr. Manuela Wimmer"
+    ],
+    "position": "Institute for Sustainable Water Systems (inwa)\n                                    \n                                    \n                                        Research Group Leader RG Sustainability and Project Management in Water Management | Engineering Department | Graduate School",
+    "contact": {
+      "email": "manuela.wimmer@hof-university.de",
+      "phone_office": "",
+      "phone_mobile": "",
+      "phone_all": ""
+    },
+    "office": "building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": ""
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Environmetal Engineering"
+  },
+  {
+    "professor_id": "jurgen_heym",
+    "full_name": "Prof. Dr. Jürgen Heym",
+    "first_name": "Jürgen",
+    "last_name": "Heym",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Jürgen Heym",
+      "Heym",
+      "Prof. Jürgen Heym",
+      "Professor Jürgen Heym",
+      "Professor Heym",
+      "Dr. Jürgen Heym",
+      "Doctor Jürgen Heym",
+      "Prof. Dr. Jürgen Heym"
+    ],
+    "position": "Department of Computer Science | Graduate School | Institute for Information Systems (iisys)\n                                    \n                                    \n                                        Pool of experts",
+    "contact": {
+      "email": "juergen.heym@hof-university.de",
+      "phone_office": "+49 9281 409 - 4470",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4470"
+    },
+    "office": "Room number: C118 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C118"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Networked Systems and Network Technology"
+  },
+  {
+    "professor_id": "thomas_karall",
+    "full_name": "Prof. Dr. Thomas Karall",
+    "first_name": "Thomas",
+    "last_name": "Karall",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Thomas Karall",
+      "Karall",
+      "Prof. Thomas Karall",
+      "Professor Thomas Karall",
+      "Professor Karall",
+      "Dr. Thomas Karall",
+      "Doctor Thomas Karall",
+      "Prof. Dr. Thomas Karall"
+    ],
+    "position": "Engineering Department | Graduate School",
+    "contact": {
+      "email": "thomas.karall@hof-university.de",
+      "phone_office": "+49 9281 409 - 4676",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4676"
+    },
+    "office": "Room number: C101d , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C101d"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Design Engineering, Strength of Materials, Calculation Methods"
+  },
+  {
+    "professor_id": "dring_christoph_koch",
+    "full_name": "Prof. Dr.-Ing. Christoph Koch",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Koch",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Christoph Koch",
+      "Koch",
+      "Prof. Dr.-Ing. Christoph Koch",
+      "Professor Dr.-Ing. Christoph Koch",
+      "Professor Koch"
+    ],
+    "position": "Department of Interdisciplinary and Innovative Sciences | Graduate School",
+    "contact": {
+      "email": "christoph.koch@hof-university.de",
+      "phone_office": "+49 9281 409 - 4200",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4200"
+    },
+    "office": "Room number: CE01 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "CE01"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Operational Excellence"
+  },
+  {
+    "professor_id": "oliver_mauroner",
+    "full_name": "Prof. Dr. Oliver Mauroner",
+    "first_name": "Oliver",
+    "last_name": "Mauroner",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Oliver Mauroner",
+      "Mauroner",
+      "Prof. Oliver Mauroner",
+      "Professor Oliver Mauroner",
+      "Professor Mauroner",
+      "Dr. Oliver Mauroner",
+      "Doctor Oliver Mauroner",
+      "Prof. Dr. Oliver Mauroner"
+    ],
+    "position": "Business Department | Graduate School",
+    "contact": {
+      "email": "oliver.mauroner@hof-university.de",
+      "phone_office": "+49 9281 409 - 4005",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4005"
+    },
+    "office": "Room number: C144 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C144"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Technology-oriented innovation and start-up management"
+  },
+  {
+    "professor_id": "dring_paul_molenda",
+    "full_name": "Prof. Dr.-Ing. Paul Molenda",
+    "first_name": "Dr.-Ing.",
+    "last_name": "Molenda",
+    "title": "Prof.",
+    "name_variations": [
+      "Dr.-Ing. Paul Molenda",
+      "Molenda",
+      "Prof. Dr.-Ing. Paul Molenda",
+      "Professor Dr.-Ing. Paul Molenda",
+      "Professor Molenda"
+    ],
+    "position": "Engineering Department | Graduate School",
+    "contact": {
+      "email": "paul.molenda@hof-university.de",
+      "phone_office": "+49 9281 409 - 4406",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4406"
+    },
+    "office": "Room number: C113 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "C113"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Industrial Engineering with focus on Business Information Systems & Supply Chain Management"
+  },
+  {
+    "professor_id": "melanie_ott",
+    "full_name": "Melanie Ott",
+    "first_name": "Melanie",
+    "last_name": "Ott",
+    "title": "",
+    "name_variations": [
+      "Melanie Ott",
+      "Ott"
+    ],
+    "position": "Graduate School",
+    "contact": {
+      "email": "melanie.ott@hof-university.de",
+      "phone_office": "+49 9281 409 - 3354",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 3354"
+    },
+    "office": "Room number: CE03 , building: C , campus: Hof",
+    "location": {
+      "campus": "Hof",
+      "building": "C",
+      "room": "CE03"
+    },
+    "department": "Graduate School",
+    "teaching_areas": ""
+  },
+  {
+    "professor_id": "carsten_stark",
+    "full_name": "Prof. Dr. Carsten Stark",
+    "first_name": "Carsten",
+    "last_name": "Stark",
+    "title": "Prof. Dr.",
+    "name_variations": [
+      "Carsten Stark",
+      "Stark",
+      "Prof. Carsten Stark",
+      "Professor Carsten Stark",
+      "Professor Stark",
+      "Dr. Carsten Stark",
+      "Doctor Carsten Stark",
+      "Prof. Dr. Carsten Stark"
+    ],
+    "position": "Business Department | Graduate School",
+    "contact": {
+      "email": "carsten.stark@hof-university.de",
+      "phone_office": "+49 9281 409 - 4275",
+      "phone_mobile": "",
+      "phone_all": "+49 9281 409 - 4275"
+    },
+    "office": "Room number: C040",
+    "location": {
+      "campus": "",
+      "building": "",
+      "room": "C040"
+    },
+    "department": "Graduate School",
+    "teaching_areas": "Human Resources Management and Organisation"
+  }
+]

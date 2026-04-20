@@ -1,0 +1,116 @@
+{
+  "Global Management M.A.": {
+    "eligible_backgrounds": [
+      "Business Management",
+      "International Management",
+      "Industrial Engineering",
+      "Business Informatics"
+    ]
+  },
+  "AI-Driven Supply Chain Management (M.Sc.)": {
+    "eligible_backgrounds": [
+      "Business Management",
+      "International Management",
+      "Industrial Engineering",
+      "Business Informatics"
+    ]
+  },
+  "Digital Business Management (M.Sc.)": {
+    "eligible_backgrounds": [
+      "Business Administration",
+      "Economics",
+      "Information Technology"
+    ]
+  },
+  "Applied Psychology M.Sc.": {
+    "eligible_backgrounds": [
+      "Psychology",
+      "Business Psychology"
+    ]
+  },
+  "Supply Chain Management M.Sc.": {
+    "eligible_backgrounds": [
+      "Business Management",
+      "Industrial Engineering",
+      "Engineering",
+      "Business Information Systems"
+    ]
+  },
+  "Computer Science M.Sc.": {
+    "eligible_backgrounds": [
+      "Computer Science"
+    ]
+  },
+  "Applied Research in Computer Science M.Sc.": {
+    "eligible_backgrounds": [
+      "Computer Science",
+      "Media Informatics",
+      "Mobile Computing",
+      "Business Information Systems"
+    ]
+  },
+  "Artificial Intelligence and Robotics M.Sc.": {
+    "eligible_backgrounds": [
+      "Computer Science",
+      "Engineering",
+      "Natural Sciences"
+    ]
+  },
+  "Textile Design M.A.": {
+    "eligible_backgrounds": [
+      "Design",
+      "Architecture"
+    ]
+  },
+  "Sustainable Textiles M.Eng.": {
+    "eligible_backgrounds": [
+      "Engineering",
+      "Natural Sciences"
+    ]
+  },
+  "Sustainable Water Management and Engineering M.Eng.": {
+    "eligible_backgrounds": [
+      "Engineering",
+      "Natural Sciences"
+    ]
+  },
+  "Artificial Intelligence Aided Mobility Design M.A.": {
+    "eligible_backgrounds": [
+      "Engineering",
+      "Design"
+    ]
+  },
+  "Operational Excellence M.B.A. and Eng.": {
+    "eligible_backgrounds": [
+      "Engineering Sciences"
+    ]
+  },
+  "Software Engineering for Industrial Applications M.Eng.": {
+    "eligible_backgrounds": [
+      "Software Engineering"
+    ]
+  },
+  "Sustainable Engineering and Project Management  M.B.A. and Eng.": {
+    "eligible_backgrounds": [
+      "Engineering Sciences"
+    ]
+  },
+  "General Management M.B.A.": {
+    "eligible_backgrounds": [
+      "Humanities",
+      "Social Sciences",
+      "Engineering Sciences",
+      "Economic Sciences"
+    ]
+  },
+  "Digitalization and Innovation M.B.A.": {
+    "eligible_backgrounds": [
+      "Engineering",
+      "Humanities",
+      "Social Sciences",
+      "Business Administration",
+      "Economics",
+      "Computer Science"
+    ]
+  }
+}
