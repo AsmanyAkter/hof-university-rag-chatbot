@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 ## Step-by-Step Instructions
 
-> **Note:** Run notebooks in the following order, as each step depends on the output of the previous one.
+> **Note:** Run notebooks in the following order, as few steps depend on the output of the previous one.
 
 1. `spo's_extraction.ipynb`
 2. `data-scrape-full-programs-all-dept.ipynb`
