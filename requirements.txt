@@ -12,6 +12,8 @@ sentence-transformers==2.2.2
 transformers==4.35.0
 tokenizers==0.14.0
 nltk==3.8.1
+sentencepiece==0.1.99
+
 
 # Vector Search
 faiss-cpu==1.7.4
