@@ -1,10 +1,9 @@
 # Hof University RAG System — Project Overview
 
 This repository contains code for three main components:
-- [Data Collection Pipeline](#data-collection-pipeline) — scraping, extracting, and preparing university data
-- [RAG Pipeline Without Memory](#rag-pipeline-without-memory-pipelines-without-memory) — incremental pipeline variants evaluated on a 100 Q&A test set
-- [RAG Pipeline With Memory](#rag-pipeline-with-memory-pipelines-with-memory) — conversational pipeline built on the best-performing variant
-
+- [Data Collection Pipeline](#data-collection-pipeline) — scraping, extracting, and preparing university data.
+- [RAG Pipeline Without Memory](#rag-pipeline-without-memory-pipelines-without-memory) — four incremental pipeline variants (Baseline, Query Routing, Query Expansion, Re-Ranking) implemented and evaluated against a 100 Q&A test set across 12 model configurations combining three embedding models and four generation models.
+- [RAG Pipeline With Memory](#rag-pipeline-with-memory-pipelines-with-memory) — conversational multi-turn pipeline built on the best-performing Re-Ranking variant, extended with memory to handle pronoun resolution and context-dependent queries, evaluated on a 15-conversation test set.
 ---
 
 # Data Collection Pipeline — Setup & Instructions
