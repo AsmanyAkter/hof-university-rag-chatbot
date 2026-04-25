@@ -46,9 +46,9 @@ pip install -r requirements.txt
 This project implements a series of incremental improvements to the RAG pipeline, progressing through four variants:
 
 1. **Baseline** — standard retrieval and generation with no enhancements
-2. **Query Routing** — routes queries to the most relevant data source before retrieval
-3. **Query Expansion** — expands the user query to improve retrieval coverage
-4. **Reranking** — applies a cross-encoder to rerank retrieved chunks before generation
+2. **Query Routing** — introduces intent-based query routing to the most relevant data source, along with an improved chunking strategy for better retrieval precision
+3. **Query Expansion** — builds on Query Routing by expanding the user query into multiple sub-queries to improve retrieval coverage
+4. **Reranking** — builds on Query Routing by applying a cross-encoder to rerank retrieved chunks before generation
 
 ## Why Two Notebooks per Variant?
 
