@@ -54,6 +54,39 @@ This project implements a series of incremental improvements to the RAG pipeline
 
 Each pipeline variant has two separate notebooks — one for Mistral-v01 / Mistral-v02 / Phi-2, and one for Qwen2.5. This split exists because these model families require **different prompt formatting structures and post-processing/cleaning logic**. Keeping them in separate notebooks avoids complex conditional branching and makes each pipeline easier to run, debug, and analyze independently.
 
+
+## Notebooks
+
+| Variant | Notebooks |
+|---------|-----------|
+| Baseline | `1. baseline_qwen.ipynb` |
+| | `1. baseline_mistral_v01-mistral_v02-phi2.ipynb` |
+| Query Routing | `2. query-routing-qwen.ipynb` |
+| | `2. query_routing_mistral_v01-mistral_v02-phi2.ipynb` |
+| Query Expansion | `3. query_expansion-qwen.ipynb` |
+| | `3. query_expansion_mistral_v01-mistral_v02-phi2.ipynb` |
+| Re-Ranking | `4. reranking-qwen.ipynb` |
+| | `4. reranking_mistral_v01-mistral_v02-phi2.ipynb` |
+
+
+## Evaluation Results (`evaluation_results/`)
+
+This folder contains the output of running each pipeline variant against the `test_cases_100.csv` test set across all model configurations. Each result file covers a different combination of embedding model and generation model, producing metrics such as Entity-F1, Token-F1, Semantic Similarity, Faithfulness, Hallucination Rate, Key Info Coverage, Completeness, and Latency.
+
+All four pipeline variants are evaluated across **12 configurations** — every combination of the following embedding and generation models:
+
+| | Models |
+|---|---|
+| **Embedding Models** | `all-MiniLM-L6-v2` · `BAAI/bge-small-en-v1.5` · `multi-qa-MiniLM-L6-cos-v1` |
+| **Generation Models** | `Qwen2.5-7B-Instruct` · `Mistral-7B-v0.1` · `Mistral-7B-Instruct-v0.2` · `Phi-2` |
+
+
+
+## Result Analysis
+
+Each variant has a dedicated result analysis notebook (e.g., `1. result_analysis_baseline.ipynb`) that loads the evaluation results and produces detailed performance comparisons across model configurations. The `results_analysis/` folder stores the generated outputs from these notebooks, including heatmaps and summary tables that visualize performance across all configurations.
+
+
 ## Results Summary
 
 The table below shows the best overall score per pipeline variant (top-performing embedding + generation combination). Full results across all 12 configurations are available in the result analysis notebooks.
@@ -67,13 +100,8 @@ The table below shows the best overall score per pipeline variant (top-performin
 
 > The Re-Ranking pipeline achieved the highest overall score of **0.883** with the lowest hallucination rate of **0.092**, making it the best-performing variant and the basis for the memory-aware pipeline.
 
-## Evaluation Results (`evaluation_results/`)
 
-This folder contains the output of running each pipeline variant against the `test_cases_100.csv` test set across all model configurations. Each result file covers a different combination of embedding model and generation model, producing metrics such as Entity-F1, Token-F1, Semantic Similarity, Faithfulness, Hallucination Rate, Key Info Coverage, Completeness, and Latency.
 
-## Result Analysis
-
-Each variant has a dedicated result analysis notebook (e.g., `1. result_analysis_baseline.ipynb`) that loads the evaluation results and produces detailed performance comparisons across model configurations. The `results_analysis/` folder stores the generated outputs from these notebooks, including heatmaps and summary tables that visualize performance across all configurations.
 
 ---
 
@@ -86,6 +114,28 @@ The memory pipeline is evaluated on two dimensions: **query resolution quality**
 ## Why Two Notebooks?
 
 Same reasoning as the without-memory pipelines — `memory-mistral-v01-mistral_v02-phi2.ipynb` and `memory-Qwen.ipynb` are kept separate due to the different prompt formatting requirements and output post-processing logic for each model family.
+
+## Notebooks
+
+| Notebooks |
+|-----------|
+| `memory-Qwen.ipynb` |
+| `memory-mistral-v01-mistral_v02-phi2.ipynb` |
+
+## Evaluation Results (`evaluation_results/`)
+
+This folder contains results from running the memory-aware pipeline against `15_testset_with_memory.csv`, a 15-conversation multi-turn test set (~97 rows). Results are organized by model configuration, covering both query resolution and answer quality metrics.
+
+All configurations are evaluated across **12 combinations** of the following embedding and generation models:
+
+| | Models |
+|---|---|
+| **Embedding Models** | `all-MiniLM-L6-v2` · `BAAI/bge-small-en-v1.5` · `multi-qa-MiniLM-L6-cos-v1` |
+| **Generation Models** | `Qwen2.5-7B-Instruct` · `Mistral-7B-v0.1` · `Mistral-7B-Instruct-v0.2` · `Phi-2` |
+
+## Result Analysis
+
+`memory-result-analysis.ipynb` loads the evaluation results and produces detailed analysis across all model configurations. The `results_analysis/` folder stores the generated outputs, including heatmaps and summary tables separated into resolution metrics and answer quality metrics.
 
 ## Results Summary
 
@@ -118,11 +168,3 @@ Standard generation metrics applied to the final answer produced after query res
 | MultiQA | Mistral-v0.2 | 0.482 | 0.416 | 0.398 | 0.696 | 0.610 |
 
 > Qwen2.5 also leads in answer quality, with MiniLM + Qwen2.5 achieving the best overall score of **0.806**. Note that answer quality scores are lower than the without-memory Re-Ranking pipeline (0.883), which is expected given the added complexity of multi-turn conversation handling.
-
-## Evaluation Results (`evaluation_results/`)
-
-This folder contains results from running the memory-aware pipeline against `15_testset_with_memory.csv`, a 15-conversation multi-turn test set (~97 rows). Results are organized by model configuration, covering both query resolution and answer quality metrics.
-
-## Result Analysis
-
-`memory-result-analysis.ipynb` loads the evaluation results and produces detailed analysis across all model configurations. The `results_analysis/` folder stores the generated outputs, including heatmaps and summary tables separated into resolution metrics and answer quality metrics.
