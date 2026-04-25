@@ -1,0 +1,13 @@
+Embedding,Generation,Semantic_Similarity,Token-F1,Entity-F1,Overall Score
+bge,qwen,0.954,0.922,0.933,0.938
+multiqa,qwen,0.950,0.906,0.912,0.926
+minilm,qwen,0.945,0.907,0.914,0.924
+bge,mistral_v02,0.841,0.709,0.725,0.767
+minilm,mistral_v02,0.836,0.717,0.721,0.766
+multiqa,mistral_v02,0.824,0.700,0.714,0.754
+multiqa,phi2,0.806,0.703,0.692,0.741
+multiqa,mistral_v01,0.805,0.703,0.692,0.741
+bge,phi2,0.801,0.697,0.685,0.735
+bge,mistral_v01,0.796,0.698,0.687,0.734
+minilm,mistral_v01,0.781,0.685,0.672,0.720
+minilm,phi2,0.773,0.681,0.671,0.715

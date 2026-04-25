@@ -1,0 +1,29 @@
+================================================================================
+RAG EVALUATION ANALYSIS REPORT
+================================================================================
+
+Total Configurations Tested: 12
+Total Test Cases per Config: 100
+
+Embedding Models:
+  - minilm: all-MiniLM-L6-v2
+  - bge: BAAI/bge-base-en-v1.5
+  - multiqa: sentence-transformers/multi-qa-mpnet-base-dot-v1
+
+Generation Models:
+  - mistral_v01: mistralai/Mistral-7B-v0.1
+  - mistral_v02: mistralai/Mistral-7B-Instruct-v0.2
+  - phi2: microsoft/phi-2
+  - qwen: Qwen/Qwen2.5-7B-Instruct
+
+================================================================================
+OUTPUTS GENERATED
+================================================================================
+1. summary_statistics.csv
+2. summary_readable.csv
+3. heatmap_overall_score.png
+4. best_configurations.csv
+5. embedding_pivot_table.csv
+6. generation_pivot_table.csv
+7. Metric heatmaps (PNG files)
+8. Bar charts (PNG files)

@@ -1,0 +1,12 @@
+Metric,Best Configuration,Best Value,Type
+Entity-F1,multiqa_mistral_v02,0.2431,Higher is better
+Token-F1,minilm_mistral_v02,0.1973,Higher is better
+Cosine Similarity,minilm_mistral_v02,0.5607,Higher is better
+Semantic Similarity,minilm_mistral_v02,0.5607,Higher is better
+Answer Relevance,multiqa_mistral_v02,0.6742,Higher is better
+Hallucination,multiqa_phi2,0.6982,Lower is better
+Faithfulness,multiqa_mistral_v02,0.3482,Higher is better
+Completeness,minilm_mistral_v02,0.2729,Higher is better
+Key Info,minilm_mistral_v02,0.2773,Higher is better
+Exact Match,bge_mistral_v01,0.0100,Higher is better
+Latency (s),multiqa_qwen,2.2074,Lower is better

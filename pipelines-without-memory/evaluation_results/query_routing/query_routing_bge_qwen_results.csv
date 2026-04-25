@@ -1,0 +1,799 @@
+model,test_id,question,expected_answer,actual_answer,Entity-F1,Token-F1,Cosine Similarity,Semantic Similarity,Answer Relevance,Hallucination,Faithfulness,Completeness,Key Info,Exact Match,Latency (s)
+filter_bge_qwen,1,"I have a computer science background, which master's courses can I apply for?","Based on your Computer Science background, here are Master programs:
+
+  - Computer Science M.Sc.
+  - Software Engineering for Industrial Applications M.Eng.
+  - Applied Research in Computer Science M.Sc.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Digitalization and Innovation M.B.A.
+
+Please verify specific admission requirements before applying.","Based on your Computer Science background, here are Master programs:
+
+  - Computer Science M.Sc.
+  - Software Engineering for Industrial Applications M.Eng.
+  - Applied Research in Computer Science M.Sc.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Digitalization and Innovation M.B.A.
+
+Please verify specific admission requirements before applying.",1.0,1.0,0.9999999403953552,1.0,0.6856091618537903,0.0,1.0,1.0,1.0,1.0,0.00028252601623535156
+filter_bge_qwen,2,What programs are available for business students?,"Based on your Business background, here are programs:
+
+Bachelor Programs:
+  - Economic and Organizational Sociology B.A.
+  - International Management B.A.
+  - Business Administration B.A.
+  - Business Law LL.B.
+  - Business Information Systems B.Sc.
+  - Economic Psychology B.Sc.
+
+Master's Programs:
+  - Digital Business Management (M.Sc.)
+  - Digitalization and Innovation M.B.A.
+  - Global Management M.A.
+  - Human Resource Management and Labour Law LL.M./M.A.
+  - Applied Psychology M.Sc.
+  - Marketing Management M.Sc.
+  - AI-Driven Supply Chain Management (M.Sc.)
+
+Please verify specific admission requirements before applying.","Based on your Business background, here are programs:
+
+Bachelor Programs:
+  - Economic and Organizational Sociology B.A.
+  - International Management B.A.
+  - Business Administration B.A.
+  - Business Law LL.B.
+  - Business Information Systems B.Sc.
+  - Economic Psychology B.Sc.
+
+Master's Programs:
+  - Digital Business Management (M.Sc.)
+  - Digitalization and Innovation M.B.A.
+  - Global Management M.A.
+  - Human Resource Management and Labour Law LL.M./M.A.
+  - Applied Psychology M.Sc.
+  - Marketing Management M.Sc.
+  - AI-Driven Supply Chain Management (M.Sc.)
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.000000238418579,1.0,0.5513581037521362,0.0,1.0,1.0,1.0,1.0,0.0003895759582519531
+filter_bge_qwen,3,"I studied engineering, what bachelor programs can I apply to?","Based on your Engineering background, here are Bachelor programs:
+
+  - Innovative Textiles B.Eng.
+  - Textile Design B.A.
+  - Mobile App Development B.Sc.
+  - Design and Mobility B.A.
+  - Media Informatics B.Sc.
+  - Computer Science (B.Sc.)
+  - Business Information Systems B.Sc.
+  - Environmental Engineering (B.Eng.)
+  - Engineering Science (international) B.Eng.
+  - Computer Science (International) B.Sc.
+
+Please verify specific admission requirements before applying.","Based on your Engineering background, here are Bachelor programs:
+
+  - Innovative Textiles B.Eng.
+  - Textile Design B.A.
+  - Mobile App Development B.Sc.
+  - Design and Mobility B.A.
+  - Media Informatics B.Sc.
+  - Computer Science (B.Sc.)
+  - Business Information Systems B.Sc.
+  - Environmental Engineering (B.Eng.)
+  - Engineering Science (international) B.Eng.
+  - Computer Science (International) B.Sc.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.0,1.000000238418579,0.6436411738395691,0.0,1.0000000953674317,1.0,1.0,1.0,0.00019741058349609375
+filter_bge_qwen,4,"I studied engineering, what Masters programs I can apply?","Based on your Engineering background, here are Master programs:
+
+  - Sustainable Textiles M.Eng.
+  - Mechanical Engineering M.Eng.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Sustainable Water Management and Engineering M.Eng.
+  - Digitalization and Innovation M.B.A.
+  - Supply Chain Management M.Sc.
+  - Artificial Intelligence Aided Mobility Design M.A.
+  - Textile Design M.A.
+  - International Project Management M.Eng./M.A.
+  - Software Engineering for Industrial Applications M.Eng.
+  - Sustainable Engineering and Project Management  M.B.A. and Eng.
+  - Composite Materials M.Eng.
+
+Please verify specific admission requirements before applying.","Based on your Engineering background, here are Master programs:
+
+  - Sustainable Textiles M.Eng.
+  - Mechanical Engineering M.Eng.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Sustainable Water Management and Engineering M.Eng.
+  - Digitalization and Innovation M.B.A.
+  - Supply Chain Management M.Sc.
+  - Artificial Intelligence Aided Mobility Design M.A.
+  - Textile Design M.A.
+  - International Project Management M.Eng./M.A.
+  - Software Engineering for Industrial Applications M.Eng.
+  - Sustainable Engineering and Project Management  M.B.A. and Eng.
+  - Composite Materials M.Eng.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.0000001192092896,1.0000001192092896,0.6681772470474243,0.0,1.0000000476837159,1.0,1.0,1.0,0.0002639293670654297
+filter_bge_qwen,5,Programs available for economics background?,"Based on your Economics background, here are programs:
+
+Bachelor Programs:
+  - Economic and Organizational Sociology B.A.
+  - International Management B.A.
+  - Business Administration B.A.
+  - Business Law LL.B.
+  - Business Information Systems B.Sc.
+  - Economic Psychology B.Sc.
+
+Master's Programs:
+  - Digital Business Management (M.Sc.)
+  - Digitalization and Innovation M.B.A.
+
+Please verify specific admission requirements before applying.","Based on your Economics background, here are programs:
+
+Bachelor Programs:
+  - Economic and Organizational Sociology B.A.
+  - International Management B.A.
+  - Business Administration B.A.
+  - Business Law LL.B.
+  - Business Information Systems B.Sc.
+  - Economic Psychology B.Sc.
+
+Master's Programs:
+  - Digital Business Management (M.Sc.)
+  - Digitalization and Innovation M.B.A.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.0,1.0,0.5309946537017822,0.0,1.0,1.0,1.0,1.0,0.00033593177795410156
+filter_bge_qwen,6,"I have a law background, what can I study?","Based on your Law background, here are programs:
+
+Bachelor Programs:
+  - Business Law LL.B.
+
+Master's Programs:
+  - Human Resource Management and Labour Law LL.M./M.A.
+
+Please verify specific admission requirements before applying.","Based on your Law background, here are programs:
+
+Bachelor Programs:
+  - Business Law LL.B.
+
+Master's Programs:
+  - Human Resource Management and Labour Law LL.M./M.A.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.0000001192092896,0.9999999403953552,0.5603161454200745,0.0,0.9999999761581421,1.0,1.0,1.0,0.0003371238708496094
+filter_bge_qwen,7,"I studied Management, what Masters programs I can apply?","Based on your Management background, here are Master programs:
+
+  - International Project Management M.Eng./M.A.
+  - Human Resource Management and Labour Law LL.M./M.A.
+  - Digital Business Management (M.Sc.)
+  - Digitalization and Innovation M.B.A.
+  - Marketing Management M.Sc.
+  - Global Management M.A.
+  - Sustainable Engineering and Project Management  M.B.A. and Eng.
+  - General Management M.B.A.
+  - Sustainable Water Management and Engineering M.Eng.
+  - AI-Driven Supply Chain Management (M.Sc.)
+  - Supply Chain Management M.Sc.
+
+Please verify specific admission requirements before applying.","Based on your Management background, here are Master programs:
+
+  - International Project Management M.Eng./M.A.
+  - Human Resource Management and Labour Law LL.M./M.A.
+  - Digital Business Management (M.Sc.)
+  - Digitalization and Innovation M.B.A.
+  - Marketing Management M.Sc.
+  - Global Management M.A.
+  - Sustainable Engineering and Project Management  M.B.A. and Eng.
+  - General Management M.B.A.
+  - Sustainable Water Management and Engineering M.Eng.
+  - AI-Driven Supply Chain Management (M.Sc.)
+  - Supply Chain Management M.Sc.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.000000238418579,0.9999999403953552,0.7065587639808655,0.0,0.9999999761581421,1.0,1.0,1.0,0.0003409385681152344
+filter_bge_qwen,8,What programs can psychology students apply for?,"Based on your Psychology background, here are programs:
+
+Bachelor Programs:
+  - Economic Psychology B.Sc.
+
+Master's Programs:
+  - Applied Psychology M.Sc.
+
+Please verify specific admission requirements before applying.","Based on your Psychology background, here are programs:
+
+Bachelor Programs:
+  - Economic Psychology B.Sc.
+
+Master's Programs:
+  - Applied Psychology M.Sc.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.0000001192092896,1.0,0.6552104949951172,0.0,1.0,1.0,1.0,1.0,0.0003943443298339844
+filter_bge_qwen,9,"I have a design background, what master programs are available?","Based on your Design background, here are Master programs:
+
+  - Textile Design M.A.
+  - Artificial Intelligence Aided Mobility Design M.A.
+
+Please verify specific admission requirements before applying.","Based on your Design background, here are Master programs:
+
+  - Textile Design M.A.
+  - Artificial Intelligence Aided Mobility Design M.A.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.0,1.0000001192092896,0.6260151267051697,0.0,1.0000000476837159,1.0,1.0,1.0,0.00029158592224121094
+filter_bge_qwen,10,Programs for textile technology students?,"Based on your Textile Technology background, here are programs:
+
+Bachelor Programs:
+  - Textile Design B.A.
+
+Master's Programs:
+  - Textile Design M.A.
+
+Please verify specific admission requirements before applying.","Based on your Textile Technology background, here are programs:
+
+Bachelor Programs:
+  - Textile Design B.A.
+
+Master's Programs:
+  - Textile Design M.A.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.0000001192092896,1.0,0.6962530612945557,0.0,1.0,1.0,1.0,1.0,0.0002789497375488281
+filter_bge_qwen,11,"I studied IT, which programs can I apply for?","Based on your It background, here are programs:
+
+Bachelor Programs:
+  - Mobile App Development B.Sc.
+  - Media Informatics B.Sc.
+  - Computer Science (B.Sc.)
+  - Business Information Systems B.Sc.
+  - Computer Science (International) B.Sc.
+  - Engineering Science (international) B.Eng.
+
+Master's Programs:
+  - Computer Science M.Sc.
+  - Digital Business Management (M.Sc.)
+  - Applied Research in Computer Science M.Sc.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Digitalization and Innovation M.B.A.
+
+Please verify specific admission requirements before applying.","Based on your It background, here are programs:
+
+Bachelor Programs:
+  - Mobile App Development B.Sc.
+  - Media Informatics B.Sc.
+  - Computer Science (B.Sc.)
+  - Business Information Systems B.Sc.
+  - Computer Science (International) B.Sc.
+  - Engineering Science (international) B.Eng.
+
+Master's Programs:
+  - Computer Science M.Sc.
+  - Digital Business Management (M.Sc.)
+  - Applied Research in Computer Science M.Sc.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Digitalization and Innovation M.B.A.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.0,0.9999999403953552,0.5848681926727295,0.0,0.9999999761581421,1.0,1.0,1.0,0.00043129920959472656
+filter_bge_qwen,12,"I studied informatics, what master programs can I apply to?","Based on your Informatics background, here are Master programs:
+
+  - Computer Science M.Sc.
+  - Applied Research in Computer Science M.Sc.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Digitalization and Innovation M.B.A.
+
+Please verify specific admission requirements before applying.","Based on your Informatics background, here are Master programs:
+
+  - Computer Science M.Sc.
+  - Applied Research in Computer Science M.Sc.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Digitalization and Innovation M.B.A.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.000000238418579,1.0000001192092896,0.775242030620575,0.0,1.0000000476837159,1.0,1.0,1.0,0.00033211708068847656
+filter_bge_qwen,13,"I have a Science background, what bachelor programs can I apply to?","Based on your Science background, here are Bachelor programs:
+
+  - Innovative Textiles B.Eng.
+  - Textile Design B.A.
+  - Mobile App Development B.Sc.
+  - Design and Mobility B.A.
+  - Media Informatics B.Sc.
+  - Computer Science (B.Sc.)
+  - Business Information Systems B.Sc.
+  - Environmental Engineering (B.Eng.)
+  - Engineering Science (international) B.Eng.
+  - Computer Science (International) B.Sc.
+
+Please verify specific admission requirements before applying.","Based on your Science background, here are Bachelor programs:
+
+  - Innovative Textiles B.Eng.
+  - Textile Design B.A.
+  - Mobile App Development B.Sc.
+  - Design and Mobility B.A.
+  - Media Informatics B.Sc.
+  - Computer Science (B.Sc.)
+  - Business Information Systems B.Sc.
+  - Environmental Engineering (B.Eng.)
+  - Engineering Science (international) B.Eng.
+  - Computer Science (International) B.Sc.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.0000001192092896,1.0,0.5343353748321533,0.0,1.0,1.0,1.0,1.0,0.00025582313537597656
+filter_bge_qwen,14,"I have a Business background,  what bachelor programs can I apply to?","Based on your Business background, here are Bachelor programs:
+
+  - Economic and Organizational Sociology B.A.
+  - International Management B.A.
+  - Business Administration B.A.
+  - Business Law LL.B.
+  - Business Information Systems B.Sc.
+  - Economic Psychology B.Sc.
+
+Please verify specific admission requirements before applying.","Based on your Business background, here are Bachelor programs:
+
+  - Economic and Organizational Sociology B.A.
+  - International Management B.A.
+  - Business Administration B.A.
+  - Business Law LL.B.
+  - Business Information Systems B.Sc.
+  - Economic Psychology B.Sc.
+
+Please verify specific admission requirements before applying.",1.0,1.0,0.9999999403953552,0.9999999403953552,0.6845149993896484,0.0,0.9999999761581421,1.0,1.0,1.0,0.00022411346435546875
+filter_bge_qwen,15,"I completed my high school from Arts, what bachelor programs can I apply to?","Based on your Arts background, here are Bachelor programs:
+
+  - Economic and Organizational Sociology B.A.
+  - International Management B.A.
+  - Business Administration B.A.
+  - Business Law LL.B.
+  - Economic Psychology B.Sc.
+
+Please verify specific admission requirements before applying.","Based on your Arts background, here are Bachelor programs:
+
+  - Economic and Organizational Sociology B.A.
+  - International Management B.A.
+  - Business Administration B.A.
+  - Business Law LL.B.
+  - Economic Psychology B.Sc.
+
+Please verify specific admission requirements before applying.",1.0,1.0,1.0000001192092896,1.0000001192092896,0.5786153078079224,0.0,1.0000000476837159,1.0,1.0,1.0,0.00025844573974609375
+filter_bge_qwen,16,What engineering bachelor programs does Hof University offer?,"Here are the programs in Engineering (Bachelor level):
+
+  - Design and Mobility B.A.
+  - Engineering Science (international) B.Eng.
+  - Environmental Engineering (B.Eng.)
+  - Innovative Textiles B.Eng.
+  - Textile Design B.A.","Here are the programs in Engineering (Bachelor level):
+
+  - Design and Mobility B.A.
+  - Engineering Science (international) B.Eng.
+  - Environmental Engineering (B.Eng.)
+  - Innovative Textiles B.Eng.
+  - Textile Design B.A.",1.0,1.0,1.0,1.0,0.5653886198997498,0.0,1.0,1.0,1.0,1.0,0.00013375282287597656
+filter_bge_qwen,17,Computer science bachelor programs?,"Here are the programs in Computer Science (Bachelor level):
+
+  - Business Information Systems B.Sc.
+  - Computer Science (B.Sc.)
+  - Computer Science (International) B.Sc.
+  - Media Informatics B.Sc.
+  - Mobile App Development B.Sc.","Here are the programs in Computer Science (Bachelor level):
+
+  - Business Information Systems B.Sc.
+  - Computer Science (B.Sc.)
+  - Computer Science (International) B.Sc.
+  - Media Informatics B.Sc.
+  - Mobile App Development B.Sc.",1.0,1.0,0.9999999403953552,1.0,0.7251609563827515,0.0,1.0,1.0,1.0,1.0,0.00011563301086425781
+filter_bge_qwen,18,What master programs are in engineering?,"Here are the programs in Engineering (Master level):
+
+  - Artificial Intelligence Aided Mobility Design M.A.
+  - Composite Materials M.Eng.
+  - International Project Management M.Eng./M.A.
+  - Mechanical Engineering M.Eng.
+  - Sustainable Textiles M.Eng.
+  - Sustainable Water Management and Engineering M.Eng.
+  - Textile Design M.A.","Here are the programs in Engineering (Master level):
+
+  - Artificial Intelligence Aided Mobility Design M.A.
+  - Composite Materials M.Eng.
+  - International Project Management M.Eng./M.A.
+  - Mechanical Engineering M.Eng.
+  - Sustainable Textiles M.Eng.
+  - Sustainable Water Management and Engineering M.Eng.
+  - Textile Design M.A.",1.0,1.0,1.0000001192092896,0.9999999403953552,0.6791003942489624,0.0,0.9999999761581421,1.0,1.0,1.0,0.000118255615234375
+filter_bge_qwen,19,Computer science master programs?,"Here are the programs in Computer Science (Master level):
+
+  - Applied Research in Computer Science M.Sc.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Computer Science M.Sc.","Here are the programs in Computer Science (Master level):
+
+  - Applied Research in Computer Science M.Sc.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Computer Science M.Sc.",1.0,1.0,1.0,1.0,0.7125652432441711,0.0,1.0,1.0,1.0,1.0,0.00011277198791503906
+filter_bge_qwen,20,English-taught master programs?,"Here are the programs English-taught (Master level):
+
+  - AI-Driven Supply Chain Management (M.Sc.)
+  - Applied Research in Computer Science M.Sc.
+  - Artificial Intelligence Aided Mobility Design M.A.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Digital Business Management (M.Sc.)
+  - Digitalization and Innovation M.B.A.
+  - General Management M.B.A.
+  - Global Management M.A.
+  - Operational Excellence M.B.A. and Eng.
+  - Software Engineering for Industrial Applications M.Eng.
+  - Sustainable Engineering and Project Management  M.B.A. and Eng.
+  - Sustainable Textiles M.Eng.
+  - Sustainable Water Management and Engineering M.Eng.
+  - Textile Design M.A.","Here are the programs English-taught (Master level):
+
+  - AI-Driven Supply Chain Management (M.Sc.)
+  - Applied Research in Computer Science M.Sc.
+  - Artificial Intelligence Aided Mobility Design M.A.
+  - Artificial Intelligence and Robotics M.Sc.
+  - Digital Business Management (M.Sc.)
+  - Digitalization and Innovation M.B.A.
+  - General Management M.B.A.
+  - Global Management M.A.
+  - Operational Excellence M.B.A. and Eng.
+  - Software Engineering for Industrial Applications M.Eng.
+  - Sustainable Engineering and Project Management  M.B.A. and Eng.
+  - Sustainable Textiles M.Eng.
+  - Sustainable Water Management and Engineering M.Eng.
+  - Textile Design M.A.",1.0,1.0,0.9999998807907104,1.000000238418579,0.5043203234672546,0.0,1.0000000953674317,1.0,1.0,1.0,0.00010800361633300781
+filter_bge_qwen,21,German master programs in business?,"Here are the programs German-taught in Business (Master level):
+
+  - Applied Psychology M.Sc.
+  - Human Resource Management and Labour Law LL.M./M.A.
+  - Marketing Management M.Sc.
+  - Supply Chain Management M.Sc.","Here are the programs German-taught in Business (Master level):
+
+  - Applied Psychology M.Sc.
+  - Human Resource Management and Labour Law LL.M./M.A.
+  - Marketing Management M.Sc.
+  - Supply Chain Management M.Sc.",1.0,1.0,1.0000001192092896,0.9999999403953552,0.7470051050186157,0.0,0.9999999761581421,1.0,1.0,1.0,0.00011396408081054688
+filter_bge_qwen,22,Which programs are taught in German?,I found several German-taught programs. Would you like to see Bachelor or Master programs?,I found several German-taught programs. Would you like to see Bachelor or Master programs?,1.0,1.0,1.0,1.0,0.7823896408081055,0.0,1.0,1.0,1.0,1.0,0.00011801719665527344
+filter_bge_qwen,23,English business master programs with no tuition?,"Here are the programs English-taught tuition-free in Business (Master level):
+
+  - AI-Driven Supply Chain Management (M.Sc.)
+  - Digital Business Management (M.Sc.)
+  - Global Management M.A.","Here are the programs English-taught tuition-free in Business (Master level):
+
+  - AI-Driven Supply Chain Management (M.Sc.)
+  - Digital Business Management (M.Sc.)
+  - Global Management M.A.",1.0,1.0,1.0000001192092896,1.0,0.6881227493286133,0.0,1.0,1.0,1.0,1.0,0.00010418891906738281
+filter_bge_qwen,24,Programs starting in winter semester?,Application deadlines vary by program. Please specify which program.,"The following programs start in the winter semester:
+- International Management B. A.
+- Computer Science (B. Sc.)
+- Environmental Engineering (B. Eng.)
+- Innovative Textiles B. Eng.
+- Design and Mobility B. A.
+- Engineering Science (international) B. Eng.
+
+The following programs also start in both winter and summer semesters:
+- Computer Science M. Sc.
+- General Management M. B. A.",0.0,0.0,0.3206256031990051,0.3206256330013275,0.7014724016189575,1.0,0.06412512660026551,0.0,0.0,0.0,3.361048936843872
+filter_bge_qwen,25,What programs start in summer semester?,Application deadlines vary by program. Please specify which program.,"The following programs start in summer semester:
+- Computer Science (International) B. Sc.
+- Sustainable Water Management and Engineering M. Eng.
+- Business Administration B. A.
+- Global Management M. A.
+- International Project Management M. Eng./M. A.
+- General Management M. B. A.",0.0,0.0,0.3021560311317444,0.3021560311317444,0.6852498054504395,1.0,0.06043120622634888,0.0,0.0,0.0,2.4316534996032715
+filter_bge_qwen,26,What is the application deadlines for bachelor programs?,Application deadlines vary by program. Please specify which program.,"Here are the programs (Bachelor level):
+
+  - Business Administration B.A.
+  - Business Information Systems B.Sc.
+  - Business Law LL.B.
+  - Computer Science (B.Sc.)
+  - Computer Science (International) B.Sc.
+  - Design and Mobility B.A.
+  - Economic Psychology B.Sc.
+  - Economic and Organizational Sociology B.A.
+  - Engineering Science (international) B.Eng.
+  - Environmental Engineering (B.Eng.)
+  - Innovative Textiles B.Eng.
+  - International Management B.A.
+  - Media Informatics B.Sc.
+  - Mobile App Development B.Sc.
+  - Textile Design B.A.",0.0,0.0,0.2146177738904953,0.2146177589893341,0.4894395172595978,1.0,0.042923551797866825,0.0,0.0,0.0,0.00013375282287597656
+filter_bge_qwen,27,deadlines for AI and robotics?,The application deadline for the Artificial Intelligence and Robotics M. Sc. program is November 5 - November 30.,The application deadline for the Artificial Intelligence and Robotics M. Sc. program is November 5 - November 30.,1.0,1.0,1.0,1.0,0.6817902326583862,0.0,1.0,1.0,1.0,1.0,1.1531000137329102
+filter_bge_qwen,28,What is the application deadline for Innovative Textiles program?,Application period for Innovative Textiles B. Eng.:  May 1 - July 15,The application deadline for the Innovative Textiles B. Eng. program is May 1 - July 15.,0.8181818181818182,0.6666666666666665,0.8394143581390381,0.8394144773483276,0.8937444686889648,0.25,0.785765790939331,0.6666666666666666,0.9166666666666667,0.0,1.1296801567077637
+filter_bge_qwen,29,application period for Innovative Textiles program?,Application period for Innovative Textiles B. Eng.:  May 1 - July 15,The application period for the Innovative Textiles B. Eng. program is from May 1 to July 15.,0.9090909090909091,0.6428571428571429,0.9315457344055176,0.9315459728240967,0.8610718846321106,0.16666666666666666,0.8726183891296386,0.6666666666666666,0.9166666666666667,0.0,1.1746461391448975
+filter_bge_qwen,30,When can I apply for Global Management?,Application period for Global Management M. A.: Winter semester: EU: May 1 - July 15 Non-EU: April 15 - May 31 Summer semester: EU: November 15 - January 15 Non-EU: November 5 - November 30 ,"You can apply for the Global Management M. A. during either the winter or summer semesters.
+
+- For European Union (EU) applicants:
+  - Winter semester: between May 1st and July 15th
+  - Summer semester: between November 15th and January 15th
+
+- For non-European Union (Non-EU) applicants:
+  - Winter semester: between April 15th and May 31st
+  - Summer semester: between November 5th and November 30th
+
+If you need to send an email, use these exact dates:
+
+Winter semester EU: May 1 - July 15  
+Winter semester Non-EU: April 15 - May 31  
+
+Summer semester EU: November 15 - January 15  
+Summer semester Non-EU: November 5 - November 30",0.6538461538461537,0.5263157894736843,0.896975040435791,0.896975040435791,0.733176589012146,0.48484848484848486,0.3339404626326128,1.0,0.9545454545454546,0.0,7.058428525924683
+filter_bge_qwen,31,How can I apply to the Business Law program?,You can apply here: https://www.hof-university.com/studying-at-hof-university/our-degree-programs/business-law-llb.html,"You can apply to the Business Law LL. B. program here: https://www.hof-university.com/studying-at-hof-university/our-degree-programs/business-law-llb.html
+
+Specific admission requirements are not detailed in this context. For more information on how to apply and any specific requirements, please follow the instructions on the website or contact the admissions office directly.
+
+If you need further assistance, you may also reach out via email or other means if available through their official channels. However, no additional contacts were provided in your given context.",0.36,0.14705882352941177,0.8795605301856995,0.8795605301856995,0.7805793285369873,0.7804878048780488,0.24176576457372528,0.5,1.0,0.0,4.51767373085022
+filter_bge_qwen,32,Application link for Textile Design master?,You can apply here: https://www.hof-university.com/studying-at-hof-university/our-degree-programs/textile-design-ma.html,Application link for Textile Design M. A.: https://www.hof-university.com/studying-at-hof-university/our-degree-programs/textile-design-ma.html,0.8000000000000002,0.15384615384615385,0.8554294109344482,0.8554294109344482,0.8176273703575134,0.2,0.7399545879364015,0.75,0.5,0.0,1.6472725868225098
+filter_bge_qwen,33,Where do I apply for Business Administration?,You can apply here: https://www.hof-university.com/studying-at-hof-university/our-degree-programs/business-administration-ba.html,You can apply for Business Administration B. A. here: https://www.hof-university.com/studying-at-hof-university/our-degree-programs/business-administration-ba.html,0.9523809523809523,0.6666666666666666,0.8926520347595215,0.8926519155502319,0.7296999096870422,0.09090909090909091,0.8122637805071745,0.75,1.0,0.0,1.7507739067077637
+filter_bge_qwen,34,Is there any tuition fee for Artificial Intelligence Aided Mobility Design?,none,There is no tuition fee for the Artificial Intelligence Aided Mobility Design M. A. program at Hof University.,0.0,0.0,0.045466650277376175,0.045466646552085876,0.7585500478744507,1.0,0.009093329310417175,0.0,0.5,0.0,1.0955584049224854
+filter_bge_qwen,35,Tuition fee for Software Engineering for Industrial Applications?,"3,300 € per semester",I don't have that information. The context provides tuition details for the Master's program (M. Eng.) but does not mention the Bachelor's program (B. Sc.) or other specific concentrations within the field of software engineering.,0.0,0.0,0.3599196970462799,0.3599196672439575,0.5742748975753784,1.0,0.0719839334487915,0.0,0.0,0.0,2.015547275543213
+filter_bge_qwen,36,is there any tuition fees for bachelor programs?,There is no tuition fees for bachelor programs.,No tuition fees for bachelor programs at Hof University.,0.5454545454545454,0.5882352941176471,0.8073573708534241,0.8073574304580688,0.6452350616455078,0.5714285714285714,0.5800858293260847,1.0,0.0,0.0,0.6767668724060059
+filter_bge_qwen,37,is there any tuition fees for masters programs?,"Tuition fees vary by program. Some master programs are free, others charge fees. Please specify which program.","Tuition fees vary by program. Some master's programs at Hof University may be free, while others charge fees. For accurate information regarding specific master's programs, please refer to their respective websites or admission letters.",0.5333333333333333,0.48979591836734687,0.7535096406936646,0.7535097002983093,0.6246688365936279,0.6190476190476191,0.47697777782167705,0.6666666666666666,0.6666666666666666,0.0,1.9023292064666748
+filter_bge_qwen,38,Global Management offered in which semester?,Global Management M. A. offered in Winter and summer semester,Global Management M. A. is offered in both winter and summer semesters.,0.8571428571428571,0.8181818181818182,0.9688403606414795,0.9688403010368347,0.842435896396637,0.14285714285714285,0.9018218347004483,1.0,0.6666666666666666,0.0,0.8486535549163818
+filter_bge_qwen,39,When does Economic and Organizational Sociology start?,Economic and Organizational Sociology B. A. start on Winter semester,"Economic and Organizational Sociology B. A. starts in the Winter semester.
+
+The application period for Economic and Organizational Sociology B. A. is from May 1 to July 15.",0.5714285714285714,0.45161290322580644,0.8455471992492676,0.8455471396446228,0.7443234324455261,0.5714285714285714,0.41675319910049435,1.0,1.0,0.0,1.643242359161377
+filter_bge_qwen,40,Sustainable Engineering and Project Management start on which semester?,Sustainable Engineering and Project Management  M. B. A. and Eng. starts in Winter and summer semester,Sustainable Engineering and Project Management M. B. A. and Eng. starts in Winter and summer semester.,1.0,0.9285714285714286,0.9906255006790161,0.9906253814697266,0.863772988319397,0.0,0.9962501525878906,1.0,1.0,0.0,1.025749683380127
+filter_bge_qwen,41,How many semester for Artificial Intelligence and Robotics?,3 semesters,The duration for the Artificial Intelligence and Robotics M. Sc. program is 3 semesters. It starts in the Summer semester. Applications for the program are accepted from November 5 to November 30.,0.1904761904761905,0.07142857142857144,0.43949657678604126,0.4394965171813965,0.7260091304779053,0.8947368421052632,0.11947825080470034,1.0,1.0,0.0,1.8313095569610596
+filter_bge_qwen,42,Number of semester for Digitalization and Innovation?,4 semesters,The number of semesters for the Digitalization and Innovation M. B. A. program is 4 semesters.,0.4444444444444445,0.23529411764705882,0.673528790473938,0.673528790473938,0.8091809749603271,0.7142857142857143,0.22042004380907332,1.0,1.0,0.0,1.111969232559204
+filter_bge_qwen,43,How much time needed to complete Business Information Systems?,7 semesters,"The duration needed to complete the Business Information Systems B. Sc. program is 7 semesters. The application period begins on May 15.
+
+Application period for Business Information Systems B. Sc.: from May 15",0.21052631578947367,0.07692307692307693,0.34307727217674255,0.34307724237442017,0.7189574241638184,0.8823529411764706,0.10390956612194285,1.0,1.0,0.0,1.877918004989624
+filter_bge_qwen,44,Who should I contact for the AI and Robotics program?,"You can reach out to Prof. Dr. Michael Spangenberg (Head Of Program, michael.spangenberg@hof-university.de) or Sabine Figura-Ogrodnik (Program Manager, sabine.figura-ogrodnik@hof-university.de)","You can reach out to:
+
+- Prof. Dr. Michael Spangenberg (Head of Program): michael.spangenberg@hof-university.de
+- Sabine Figura-Ogrodnik (Student Affairs Program Manager): sabine.figura-ogrodnik@hof-university.de",0.8333333333333334,0.6,0.9187347888946533,0.9187346696853638,0.3803662955760956,0.16666666666666666,0.8674938678741455,1.0,0.9166666666666666,0.0,2.6206531524658203
+filter_bge_qwen,45,Contact persons for Global Management program?,"You can reach out to Prof. Dr. Fridtjof Langenhan (Head Of Program, fridtjof.langenhan@hof-university.de), Doreen Rustler (Student Counseling, doreen.rustler@hof-university.de), Kathrin Schötz (Student Affairs Program Manager, kathrin.schoetz@hof-university.de)","You can reach out to:
+- Prof. Dr. Fridtjof Langenhan (Head of Program) at fridtjof.langenhan@hof-university.de
+- Doreen Rustler (Student Counseling) at doreen.rustler@hof-university.de
+- Kathrin Schötz (Student Affairs Program Manager) at kathrin.schoetz@hof-university.de",0.9545454545454545,0.68,0.9789534211158752,0.9789533019065857,0.42855289578437805,0.0,0.9915813207626343,1.0,0.9333333333333333,0.0,3.5827369689941406
+filter_bge_qwen,46,Contact information for Economic and Organizational Sociology,"You can reach out to Prof. Dr. Carsten Stark (Head Of Program, carsten.stark@hof-university.de), Doreen Rustler (Student Counseling, doreen.rustler@hof-university.de), Holger Edelmann (Student Affairs Program Manager, holger.edelmann@hof-university.de)","Contact information for Economic and Organizational Sociology:
+
+- **Prof. Dr. Carsten Stark** (Head of Program): carsten.stark@hof-university.de
+- **Doreen Rustler** (Student Counseling): doreen.rustler@hof-university.de
+- **Holger Edelmann** (Student Affairs Program Manager): holger.edelmann@hof-university.de",0.8,0.27450980392156865,0.574215829372406,0.574215829372406,0.7417597770690918,0.23076923076923078,0.6912247932874238,0.8888888888888888,0.875,0.0,3.4737865924835205
+filter_bge_qwen,47,Who can I reach out for Sustainable Engineering and Project Management?,"You can reach out to Prof. Dr.-Ing. Christoph Koch (Head Of Program, christoph.koch@hof-university.de), Shuyi Yang (Program Management Graduate School, graduate.school@hof-university.de), Elisa Dähne (Student Affairs Progam Manager, elisa.daehne@hof-university.de)","You can reach out to:
+
+- Prof. Dr.-Ing. Christoph Koch (Head of Program) at christoph.koch@hof-university.de
+- Shuyi Yang (Program Management Graduate School) at graduate.school@hof-university.de
+- Elisa Dähne (Student Affairs Programme Manager) at elisa.daehne@hof-university.de",0.8846153846153846,0.6785714285714286,0.9520145654678345,0.952014684677124,0.4655325710773468,0.08,0.9328058738708497,1.0,0.8947368421052632,0.0,3.1871519088745117
+filter_bge_qwen,48,Wants to know more about Global Management program?,"You can reach out to Prof. Dr. Fridtjof Langenhan (Head Of Program, fridtjof.langenhan@hof-university.de), Doreen Rustler (Student Counseling, doreen.rustler@hof-university.de), Kathrin Schötz (Student Affairs Program Manager, kathrin.schoetz@hof-university.de)","To learn more about the Global Management M. A. program at Hof University, you can:
+
+- Reach out to:
+  - Prof. Dr. Fridtjof Langenhan (Head Of Program): fridtjof.langenhan@hof-university.de
+  - Doreen Rustler (Student Counseling): doreen.rustler@hof-university.de
+  - Kathrin Schötz (Student Affairs Program Manager): kathrin.schoetz@hof-university.de
+
+- Visit the official application page: [https://www.hof-university.com/studying-at-hof-university/our-degree-programs/global-management-ma.html](https://www.hof-university.com/studying-at-hof-university/our-degree-programs/global-management-ma.html)",0.7333333333333334,0.5151515151515152,0.6925904750823975,0.6925904750823975,0.673155665397644,0.40540540540540543,0.5704136521107441,0.8888888888888888,0.9333333333333333,0.0,6.469342231750488
+filter_bge_qwen,49,Admission requirements for master programs?,There are different requirements for our bachelor‘s and master’s programs.Which program you wish to apply for?,I found many Master programs. Would you like to filter by language or department?,0.25,0.13333333333333333,0.5394176840782166,0.5394176244735718,0.48891913890838623,0.7142857142857143,0.3871956212180001,0.0,0.0,0.0,0.0001239776611328125
+filter_bge_qwen,50,Admission requirements for Digitalization and Innovation?,"For an admission in this Master program, you need to fulfill the following admission criteria: Academic requirements A Bachelor’s degree (e.g. Engineering, Humanities, Social Sciences, Business Administration/Economics or Computer Science) or similar from an accredited university, at least 180 ECTS (European Credit Transfer System) or equivalent (depending on the home country) One year of work experience","For an admission in the Digitalization and Innovation M. B. A., you need to meet the following academic requirements:
+
+- Hold a Bachelor's degree (e.g., Engineering, Humanities, Social Sciences, Business Administration/Economics, or Computer Science) or a similar qualification from an accredited university.
+- Have completed at least 180 ECTS (European Credit Transfer System) credits or its equivalent depending on your home country.
+
+Additionally, applicants must provide proof of proficiency in English through one of the following tests:
+- TOEFL with a minimum score of 90
+- IELTS with a minimum band score of 6.5 or higher
+- PTE Academic with a minimum score of 60 or above
+
+By the start of their internship, students must also demonstrate basic German language skills at level A1 according to the Common European Framework of Reference for Languages. They will then aim to reach a B1 level during their studies in Hof.
+
+For more detailed information about these requirements, including specific application procedures and additional",0.5289256198347108,0.42603550295857995,0.5956289768218994,0.5956289768218994,0.5295578241348267,0.6144578313253012,0.32870382435350537,1.0,0.9444444444444444,0.0,7.8951826095581055
+filter_bge_qwen,51,Language requirements for Digitalization and Innovation?,"Language requirements Proficiency in English , proven by either TOEFL minimum 90 IELTS 6.5 or above PTE Academic (Pearson) 60 or above Basic language skills in German , proven by official test score documents (e.g. Goethe, telc, ÖSD) - minimum level A1 according to the CEFR (The Common European Framework of Reference for Languages). By the beginning of the internship, all students have to prove that they are at a B1 German language level. The German language levels A2 and B1 can be reached during the studies in Hof. For further information please check our application guide.","Language requirements for Digitalization and Innovation M. B. A.:
+
+- **English**: Proficiency in English, proven by:
+  - TOEFL minimum 90 
+  - IELTS 6.5 or above  
+  - PTE Academic (Pearson) 60 or above
+  
+- **German**: Basic language skills in German, with a minimum level of A1 according to the CEFR. All students must prove their proficiency before starting the internship, with a requirement of reaching a B1 level by then.
+
+For further details, refer to the [application guide](https://www.hof-university.de/en/admission/application-guide/) page.",0.5977011494252874,0.5223880597014926,0.842208743095398,0.8422088027000427,0.6108090877532959,0.3157894736842105,0.7474098368694908,0.5714285714285714,0.6519607843137255,0.0,5.365502595901489
+filter_bge_qwen,52,Admission requirements for Economic Psychology?,Detailed requirements are not specified. Follow the basic admission requirements or contact the admission office for assistance.,"Specific admission requirements for the Economic Psychology B. Sc. program at Hof University are not listed. To follow the basic admission requirements or for more detailed guidance, please contact the admission office directly.
+
+You can also find application information [here](https://www.hof-university.com/studying-at-hof-university/our-degree-programs/economic-psychology-bsc.html).
+
+For further assistance, contact:
+- Visit the website: <https://www.hof-university.com/>
+- Contact the admission office through their webpage or by visiting the provided link.",0.3404255319148936,0.3870967741935483,0.5245769023895264,0.5245769023895264,0.6570439338684082,0.7894736842105263,0.16807327521474735,0.5,0.0,0.0,4.617569923400879
+filter_bge_qwen,53,Admission requirements for Artificial Intelligence Aided Mobility Design?,"Academic requirements Bachelor’s degree or similar in engineering or design from an accredited university at least 210 ECTS or equivalent (depending on home country) minimum grade 2,5 according to the German grading system Special regulations for applicants with less than 210 ECTS Applicants with less than 210 credits (ECTS) can be accepted, but must make up the missing credits through a post-qualification: either through an internship (at least 900 hours / 6 months) (only possible if the internship was not yet recognised as a compulsory internship in the Bachelor's degree) or attending appropriate modules at Hof University. It is possible to combine the recognition of a shorter internship with the attendance of modules at the university. For both alternatives, please calculate an additional (fourth) semester. Language requirements Proof of English. Language proficiency by either of the following options: TOEFL minimum 90 IELTS 6.5 or above Proof of basic German","I don't have that information.
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/our-degree-programs/artificial-intelligence-aided-mobility-design-ma.html",0.12195121951219512,0.03539823008849558,0.30062636733055115,0.30062639713287354,0.726665198802948,0.6666666666666666,0.32025055885314946,0.0,0.041666666666666664,0.0,0.590275764465332
+filter_bge_qwen,54,What is Prof. Kirchner's email?,Prof. Dr. Jens Kirchner's email address is jens.kirchner@hof-university.de,jens.kirchner@hof-university.de,0.4,0.2222222222222222,0.80803382396698,0.80803382396698,0.5854185819625854,0.0,0.923213529586792,0.4,0.0,0.0,0.6657207012176514
+filter_bge_qwen,55,Where is Professor Boerner's office?,"Prof. Dr. Dietmar Boerner's office is located at Room number: C045 , building: C , campus: Hof","Professor Boerner's office is located in Room number: C045, building: C, campus: Hof.
+
+His phone number is +49 9281 409 - 4380.",0.5714285714285715,0.4324324324324324,0.8007277250289917,0.8007277250289917,0.7732190489768982,0.5,0.6202910900115968,0.3333333333333333,0.75,0.0,2.058213949203491
+filter_bge_qwen,56,Prof. Peinl's phone number?,Prof. Dr. René Peinl's phone number(s): +49 9281 409 - 4820,Prof. Dr. René Peinl's phone number: +49 9281 409 - 4820,1.0,0.9090909090909091,0.9962369203567505,0.9962369203567505,0.7948681116104126,0.0,0.9984947681427002,1.0,1.0,0.0,1.458430290222168
+filter_bge_qwen,57,What does Prof. Müller teach?,Prof. Dr. Robin Müller teaches Occupational and organisational psychology,"I don't have that information. The specific professor mentioned is either missing their title or name (just listed as ""Prof. Müller""), which makes it impossible to determine who this refers to from the given context. Please provide more details or clarify the full name and title of the professor.",0.07407407407407408,0.0392156862745098,0.4227687418460846,0.422768771648407,0.67095547914505,0.95,0.09955375432968142,0.0,0.25,0.0,2.4266815185546875
+filter_bge_qwen,58,What is Prof. Nazmul's email?,I don't have that information.,I don't have that information.,1.0,1.0,0.9999999403953552,1.0000001192092896,0.1991863250732422,0.0,1.0000000476837159,1.0,0.5,1.0,0.5314481258392334
+filter_bge_qwen,59,How many times can I retake a failed exam?,"(1) 1Failed examinations can be retaken once. 2The first repeat examination must be taken no later than six months after notification was given of the first failure. 3For final theses, the procedure according to § 29 must be carried out again; for the deadline according to sentence 2, the start of the processing period is decisive. (2) 1Except for final theses , examinations that have not been passed may generally be repeated a second time. 2A second retake is, however, limited to up to four examinations in Bachelor's degree courses and up to three examinations in Master's degree courses. 3Elective modules are not considered. 4If examinations in courses offered by the Center for Languages and Intercultural Competence can be repeated a second time, is determined by the relevant study and examination regulations. 5The second repeat examination must be taken within a p eriod of 12 months after notification of the result of the first repeat examination. 6The study and examination regulations may regulate third repeat examinations. 7§ 42 para. 2 and 3 remains unaffected . (3) 1The first repeat examination must be taken in the same form as the examination to be repeated . 2The module handbooks may provide for the second repeat examination to be taken in a different form. (4) 1The deadlines for taking repeat examinations are extended exclusively in accordance with §47. 2In particular, changes of degree program , appeals against examination decisions, leaves of absence and exmatriculation do not affect the running of the deadlines . 3Repeat examinations not taken in due time are deemed to have been taken and not passed.
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html","You can retake a failed exam twice under normal circumstances:
+
+- The first retake must occur within six months from when you were notified of your initial fail.
+- For subsequent attempts beyond the first one:
+  - Up to four exams per Bachelor’s degree course,
+  - Up to three exams per Master’s degree course.
+
+After these limits, further retakes would require specific permission or regulation based on individual cases. 
+
+Please refer to the official university policies at [https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html](https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html) for detailed guidelines.",0.2702702702702703,0.16513761467889906,0.6674702167510986,0.6674702167510986,0.7212615013122559,0.6153846153846154,0.49775731746967017,0.15,0.14285714285714285,0.0,6.639666557312012
+filter_bge_qwen,60,What happens if I fail an exam?,"(1) 1Failed examinations can be retaken once. 2The first repeat examination must be taken no later than six months after notification was given of the first failure. 3For final theses, the procedure according to § 29 must be carried out again; for the deadline according to sentence 2, the start of the processing period is decisive. (2) 1Except for final theses , examinations that have not been passed may generally be repeated a second time. 2A second retake is, however, limited to up to four examinations in Bachelor's degree courses and up to three examinations in Master's degree courses. 3Elective modules are not considered. 4If examinations in courses offered by the Center for Languages and Intercultural Competence can be repeated a second time, is determined by the relevant study and examination regulations. 5The second repeat examination must be taken within a p eriod of 12 months after notification of the result of the first repeat examination. 6The study and examination regulations may regulate third repeat examinations. 7§ 42 para. 2 and 3 remains unaffected . (3) 1The first repeat examination must be taken in the same form as the examination to be repeated . 2The module handbooks may provide for the second repeat examination to be taken in a different form. (4) 1The deadlines for taking repeat examinations are extended exclusively in accordance with §47. 2In particular, changes of degree program , appeals against examination decisions, leaves of absence and exmatriculation do not affect the running of the deadlines . 3Repeat examinations not taken in due time are deemed to have been taken and not passed.
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html","If you fail an exam, here’s what typically happens:
+
+1. **First Repeat Attempt**: 
+   - Failed exams can usually be retaken once.
+   - The first repeat examination must be taken no later than six months after notification of the initial failure.
+   
+2. **Second Repeat Attempt**:
+   - Examinations that haven’t been passed initially might be allowed to be repeated a second time, except for final theses.
+   - Up to four repetitions are possible in bachelor's programs and up to three in master's programs, excluding elective modules.
+   - The second repeat examination should occur within twelve months of receiving results from the first repeat examination.
+   - Some specific rules apply regarding language course examinations.
+
+3. **Form of Retakes**:
+   - The original method of the examination must be used during the first repeat try.
+   - Module guidelines could permit alternative methods for the second retry.
+
+4. **Deadline Extensions**:
+   - Deadlines for retaking exams cannot extend
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html",0.44324324324324327,0.3622641509433962,0.7949433326721191,0.7949433326721191,0.5129470229148865,0.5393258426966292,0.5943818274508701,0.5,0.5021645021645021,0.0,8.086968421936035
+filter_bge_qwen,61,Can I retake a passed exam to improve my grade?,"Based on the provided context, you cannot retake a passed exam to improve your grade. According to point (3), an examination is passed if it has been graded with at least ""4,0"" or has been marked with the predicate ""passed with success"". There is no provision mentioned for retaking already passed exams solely to improve the grade. However, there might be opportunities under specific circumstances such as failing all attempts or having significant issues with the initial assessment, but this would require adherence to the university’s policies and procedures outlined in their study and examination regulations. For detailed guidance, refer to (https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html).","I don't have that information. According to the provided context, you cannot retake a passed exam to improve your grade. Only failed exams can be retaken under specific conditions.
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html",0.48837209302325585,0.336283185840708,0.9107687473297119,0.9107686281204224,0.7897042036056519,0.27586206896551724,0.7987902098688586,0.625,0.13333333333333333,0.0,2.0246739387512207
+filter_bge_qwen,62,Can I get an extension for my exam deadline?,"(1) 1Where reference is made to this paragraph in these Statutes or in study and examination regulations, the relevant deadlines shall be extended appropriately upon request , if they cannot be complied with due to illness, the periods of protection regulated in the Maternity Protection Act (Mutterschutzgesetz) , the care of a child in accordance with the Federal Parental Allowance and Parental Leave Act (Bundeselterngeld - und Elternzeitgesetz), care for a close relative in accordance with the Nursing Care Leave Act (Pflegezeitgesetz) or for other reasons for which the student is not 20 responsible. 2In the cases of § 4 para. 4 sentence 1, a reason for which the student is not responsible that justifies an extension of the deadline by one semester is assumed, subject to para. 3, if dual students are exposed to a considerable additional workload due to continuous work at the practice partner, especially during the lecture period. (2) 1Requests for e xtensions of deadlines must be submitted immediately . 2The request must be submitted in writing to the Examinations Office, stating the matriculation number and the deadline concerned ; it must be clearly substantiated and signed by hand. 3The facts used to justify the request must be substantiated immediately, as a rule at the same time as the request is submitted . 4For illness -related reasons , §22 subsection 3 applies accordingly. (3) 1An extension of the deadline is not possible if , based on the overall circumstances, a successful completion of studies can no longer be expected. 2This shall be presumed if, at the time of application, students have acquired less than half of all the credit points which they should have acquired by this point in time if they were studying according to the program curriculum .
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html","To get an extension for your exam deadline, you need to provide a written request to the Examinations Office, explaining why you require the extension and providing supporting evidence. Your request must include:
+
+- Your matriculation number
+- The specific deadline affected 
+- Clear justification supported by documentation
+- It needs to be submitted promptly when you realize you will miss the original deadline.
+
+Extensions may be granted under various conditions such as:
+- Illness
+- Pregnancy-related issues
+- Childcare responsibilities  
+- Caring for relatives
+- Additional academic demands for dual students working continuously at their practice partners during lectures
+- Other unforeseen circumstances beyond your control 
+
+However, extensions won't be given if:
+- Successful completion of studies appears impossible based on current progress
+- Less than half the required credits have been earned up until now following the standard schedule
+
+You can check further details here: <https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs",0.2634146341463415,0.26027397260273966,0.5349557399749756,0.5349557399749756,0.7145326137542725,0.6931818181818182,0.3980732050808993,0.14285714285714285,0.0392156862745098,0.0,7.960589170455933
+filter_bge_qwen,63,Can I get an extension for my exam deadline due to illness?,"(1) 1Where reference is made to this paragraph in these Statutes or in study and examination regulations, the relevant deadlines shall be extended appropriately upon request , if they cannot be complied with due to illness, the periods of protection regulated in the Maternity Protection Act (Mutterschutzgesetz) , the care of a child in accordance with the Federal Parental Allowance and Parental Leave Act (Bundeselterngeld - und Elternzeitgesetz), care for a close relative in accordance with the Nursing Care Leave Act (Pflegezeitgesetz) or for other reasons for which the student is not 20 responsible. 2In the cases of § 4 para. 4 sentence 1, a reason for which the student is not responsible that justifies an extension of the deadline by one semester is assumed, subject to para. 3, if dual students are exposed to a considerable additional workload due to continuous work at the practice partner, especially during the lecture period. (2) 1Requests for e xtensions of deadlines must be submitted immediately . 2The request must be submitted in writing to the Examinations Office, stating the matriculation number and the deadline concerned ; it must be clearly substantiated and signed by hand. 3The facts used to justify the request must be substantiated immediately, as a rule at the same time as the request is submitted . 4For illness -related reasons , §22 subsection 3 applies accordingly. (3) 1An extension of the deadline is not possible if , based on the overall circumstances, a successful completion of studies can no longer be expected. 2This shall be presumed if, at the time of application, students have acquired less than half of all the credit points which they should have acquired by this point in time if they were studying according to the program curriculum .
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html","have acquired less than half of all the credit points which they should have acquired by this point in time if they were studying according to the program curriculum .
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html
+
+Answer: To request an extension for your exam deadline, you need to follow several steps:
+
+- **Submit Your Request Immediately**: Make sure to submit your request right away.
+- **Write It Down Properly**: Send your request via email or letter directly to the Examinations Office. Include:
+  - Your matriculation number,
+  - Which deadline(s) you want to extend,
+  - Clear justification for why you require the extension (e.g., illness),
+  - Any supporting documents like certificates from doctors or therapists where applicable.
+  
+- **Sign Handwritten**: Ensure everything is properly signed before submission.
+- **Provide Evidence Promptly**: Alongside",0.34196891191709844,0.30434782608695654,0.4832204580307007,0.4832204580307007,0.6134946346282959,0.5657894736842105,0.45381449900175397,0.35714285714285715,0.39215686274509803,0.0,8.168284177780151
+filter_bge_qwen,64,What is the grading scale at Hof University?,"(1) The grading of an individual examination is based on the individual performance of the student. (2) 1The grading of individual examinations will be made according to the grading system set out in the following table : 1,0 1,3 very good an excellent performance 1,7 2,0 2,3 good a performance that is significantly above the average requirements 2,7 3,0 3,3 Satisfactory a performance that meets average requirements 3,7 4,0 sufficient a performance which, despite its deficiencies, still meets the requirements 5,0 insufficient a performance which, due to considerable deficiencies, no longer meets the requirements 2The grades that are not whole numbers do not have to be used . 3In accordance with the study and and examination regulations, certain examinations will not be graded, but will be marked with the predicate ""passed with success"" or ""passed without success"". (3) An examination is passed if it has been graded with at least ""4,0"" or has been marked with the predicate ""passed with success"". (4) 1If two examiners grade an examination differently, they shall agree on a consistent grade . 2If no agreement can be reached, the grade will be determined by the arithmetic mean of the grades awarded by the examiners, rounded down to one decimal place .
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html","The grading scale at Hof University is as follows:
+
+- **1.0 - 1.3**: Very Good/Excellent Performance  
+- **1.7 - 2.0**: Good/A Performance That Is Significantly Above Average Requirements  
+- **2.7 - 3.0**: Satisfactory/A Performance That Meets Average Requirements  
+- **3.7 - 4.0**: Sufficient/A Performance Which, Despite Its Deficiencies, Still Meets The Requirements  
+- **5.0**: Insufficient/A Performance Which, Due To Considerable Deficiencies, No Longer Meets The Requirements  
+
+Grades that are not whole numbers may not always be used. Certain exams might receive a pass/fail designation instead (""Passed With Success"" or ""Passed Without Success""). An examination must achieve at least a 4.0 or be marked “Passed With Success” to be considered passed.
+
+For further details, refer to [this link](https://www.hof-university",0.4133333333333334,0.380952380952381,0.6770086288452148,0.6770086288452148,0.7420867085456848,0.5974025974025974,0.5123618930965275,0.4,0.6666666666666666,0.0,8.270976543426514
+filter_bge_qwen,65,What happens if I cheat on an exam?,"(1) 1Whoever violates or attempts to violate §3 subsection 3, will have their exam graded “insufficient” . 2Having unauthorised aids available after the examination has begun is also considered an attempt, unless the students concerned can prove that their possession was neither intentional nor negligent. (2) 1If an assessment is made in accordance with subsection 1 sentence 1, the possibility of a second repeat examination is no longer available for the module in question, subject to sentence 2. 2The Examination Board may allow exceptions if this appears necessary in individual cases for special reasons in order to avoid undue hardship. 3If there is no opportunity for a second repeat examination, no third repeat examination (§ 46 para. 2 sentence 6) will take place in the respective module. (3) 1In particularly serious cases, the examination in question will be declared definitively failed. 2Subsection 2 sentence 2 appl ies accordingly. (4) In less serious cases, avengement may be waived. (5) 1In the case of possession of unauthorised aids or a corresponding suspicion, examiners and other supervisors are authorised to confiscate the items in question. 2Students are obliged to 18 present all objects brought with them , to tolerate the m to be examined and to hand over any objectionable aids without making any changes to them. 3Aids which are permitted in themselves, but which are objected to because of an inadmissible change must be left to the student until the end of processing time of the exam . 4Aids that have been confiscated will be returned after the examination decision has become final, if this has been requested by that time at the latest. 5The above subsections apply accordi ngly to violations of sentence 2.
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html","Whoever violates or attempts to violate §3 subsection 3, will have their exam graded “insufficient”. Having unauthorized aids available after the examination has begun is also considered an attempt, unless the students concerned can prove that their possession was neither intentional nor negligent. 
+
+(2) 1If an assessment is made in accordance with subsection 1 sentence 1, the possibility of a second repeat examination is no longer available for the module in question, subject to sentence 2. 2The Examination Board may allow exceptions if this appears necessary in individual cases for special reasons in order to avoid undue hardship. 3If there is no opportunity for a second repeat examination, no third repeat examination (§ 46 para. 2 sentence 6) will take place in the respective module. 
+
+(3) 1In particularly serious cases, the examination in question will be declared definitively failed. 2Subsection 2 sentence 2 applies accordingly. 
+
+(4) In less serious cases
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html",0.7628865979381444,0.7266666666666667,0.8876751065254211,0.8876751661300659,0.5042004585266113,0.05128205128205128,0.9243008356827955,0.6111111111111112,0.9166666666666666,0.0,8.232652187347412
+filter_bge_qwen,66,How do I submit my thesis?,"(1) 1The Bachelor's thesis (BA) or Master's thesis (MA) is the scientific processing of a comple x theoretical and/or practical or creative task at the end of the stu dies within a certain processing period . 2Final t heses are written under the supervision of the first examiner. (2) 1Students must propose to the Examination Commission in good time persons authorised to take exams who are willing to take over the duties of the first examiner and the second examiner. 2The proposed first examiner inform s the Examination Board, the Examination Office and the student of the intended topic of the thesis. 3When determining the topic, the proposed first examiner will take into account the interests of the student. 4The Examination Board decide s on the appointment of the first examiner on the ba sis of the topic it has been informed of . 5Information on the appointment is given to the first examiner, the Examination Office and the student. 6The notification to the Examination Office is deemed to be the registration for the examination. 7If the proposed first examiner is appointed, the thesis is to be written on the topic provided by the first examiner. 8Supervision according to subsection 1 sentence 2 begins with the appointment and is subject to this appointment . 9The processing period starts as soon as the examiner has been announced to the student ; the examination has started with the announcement. (3) 1If a student verifiably fails to submit a proposal in accordance with subsection 2, sentence 1, the examination board will select suitable examiners. 2The same applies if students propose persons who are authorised to take examinations, but the Examination Board does not appoint them. 3In all other respects, subsection 2 applies accordingly. (4) 1The topic of the thesis, the start of processing, the deadline for submission and the examiners will be made part of the records . 2The thesis must be submitted digitally in PDF/A format. 3The thesis is submitted via the internet portal in the university's campus management system. 4If the thesis is not submitted in the correct form and on time, the examination is deemed to have been taken and not passed. 5Extensions of the deadline are subject to § 47. 13 (5) 1The topic of the thesis may be returned once for a valid reason; in this case, the examination is deemed not to have been taken. 2Sentence 1 does not apply if the thesis is repeated and the topic was already returned for the first thesis. 3The Examination Board shall decide whether a valid reason exists. 4Current deadlines for taking or repeating the thesis remain unaffected by the above sentences. (6) 1Final theses should not contain company secrets. 2If the inclusion of company secrets is unavoidable, the contents requiring secrecy shall be marked in a suitable manner. (7) 1As a rule, the assessment procedure must be completed no later than eight weeks after submission of the thesis. 2Master's theses are always assessed by two examiners. 3If the first examiner is prevented from properly continuing to supervise the thesis, the Examination Commission will appoint a successor . However, the topic of the thesis will remain the same. 4Sentence 3, half - sentence 1 applies to the second examiner accordingly. (8) Subsection 2 and 3 do not apply if a different procedure is laid down in the study and examination regulations.
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html","a valid reason; in this case, the examination is deemed not to have been taken. 2Sentence 1 does not apply if the thesis is repeated and the topic was already returned for the first thesis. 3The Examination Board shall decide whether a valid reason exists. 4Current deadlines for taking or repeating the thesis remain unaffected by the above sentences. (6) 1Final theses should not contain company secrets. 2If the inclusion of company secrets is unavoidable, the contents requiring secrecy shall be marked in a suitable manner. (7) 1As a rule, the assessment procedure must be completed no later than eight weeks after submission of the thesis. 2Master's theses are always assessed by two examiners. 3If the first examiner is prevented from properly continuing to supervise the thesis, the Examination Commission will appoint a successor . However, the topic of the thesis will remain the same. 4Sentence 3, half - sentence 1 applies to the second
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html",0.6812227074235807,0.601063829787234,0.62539142370224,0.62539142370224,0.3720998167991638,0.0,0.8501565694808959,0.4857142857142857,0.7003367003367004,0.0,8.235125303268433
+filter_bge_qwen,67, What are the thesis submission process?,"(1) 1The Bachelor's thesis (BA) or Master's thesis (MA) is the scientific processing of a comple x theoretical and/or practical or creative task at the end of the stu dies within a certain processing period . 2Final t heses are written under the supervision of the first examiner. (2) 1Students must propose to the Examination Commission in good time persons authorised to take exams who are willing to take over the duties of the first examiner and the second examiner. 2The proposed first examiner inform s the Examination Board, the Examination Office and the student of the intended topic of the thesis. 3When determining the topic, the proposed first examiner will take into account the interests of the student. 4The Examination Board decide s on the appointment of the first examiner on the ba sis of the topic it has been informed of . 5Information on the appointment is given to the first examiner, the Examination Office and the student. 6The notification to the Examination Office is deemed to be the registration for the examination. 7If the proposed first examiner is appointed, the thesis is to be written on the topic provided by the first examiner. 8Supervision according to subsection 1 sentence 2 begins with the appointment and is subject to this appointment . 9The processing period starts as soon as the examiner has been announced to the student ; the examination has started with the announcement. (3) 1If a student verifiably fails to submit a proposal in accordance with subsection 2, sentence 1, the examination board will select suitable examiners. 2The same applies if students propose persons who are authorised to take examinations, but the Examination Board does not appoint them. 3In all other respects, subsection 2 applies accordingly. (4) 1The topic of the thesis, the start of processing, the deadline for submission and the examiners will be made part of the records . 2The thesis must be submitted digitally in PDF/A format. 3The thesis is submitted via the internet portal in the university's campus management system. 4If the thesis is not submitted in the correct form and on time, the examination is deemed to have been taken and not passed. 5Extensions of the deadline are subject to § 47. 13 (5) 1The topic of the thesis may be returned once for a valid reason; in this case, the examination is deemed not to have been taken. 2Sentence 1 does not apply if the thesis is repeated and the topic was already returned for the first thesis. 3The Examination Board shall decide whether a valid reason exists. 4Current deadlines for taking or repeating the thesis remain unaffected by the above sentences. (6) 1Final theses should not contain company secrets. 2If the inclusion of company secrets is unavoidable, the contents requiring secrecy shall be marked in a suitable manner. (7) 1As a rule, the assessment procedure must be completed no later than eight weeks after submission of the thesis. 2Master's theses are always assessed by two examiners. 3If the first examiner is prevented from properly continuing to supervise the thesis, the Examination Commission will appoint a successor . However, the topic of the thesis will remain the same. 4Sentence 3, half - sentence 1 applies to the second examiner accordingly. (8) Subsection 2 and 3 do not apply if a different procedure is laid down in the study and examination regulations.
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html","a valid reason; in this case, the examination is deemed not to have been taken. 2Sentence 1 does not apply if the thesis is repeated and the topic was already returned for the first thesis. 3The Examination Board shall decide whether a valid reason exists. 4Current deadlines for taking or repeating the thesis remain unaffected by the above sentences. (6) 1Final theses should not contain company secrets. 2If the inclusion of company secrets is unavoidable, the contents requiring secrecy shall be marked in a suitable manner. (7) 1As a rule, the assessment procedure must be completed no later than eight weeks after submission of the thesis. 2Master's theses are always assessed by two examiners. 3If the first examiner is prevented from properly continuing to supervise the thesis, the Examination Commission will appoint a successor . However, the topic of the thesis will remain the same. 4Sentence 3, half - sentence 1 applies to the second
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html",0.6812227074235807,0.601063829787234,0.62539142370224,0.62539142370224,0.5044687986373901,0.0,0.8501565694808959,0.4857142857142857,0.7003367003367004,0.0,8.143190145492554
+filter_bge_qwen,68,What happens if I don't take my retake exam within 6 months?,"(1) 1Failed examinations can be retaken once. 2The first repeat examination must be taken no later than six months after notification was given of the first failure. 3For final theses, the procedure according to § 29 must be carried out again; for the deadline according to sentence 2, the start of the processing period is decisive. (2) 1Except for final theses , examinations that have not been passed may generally be repeated a second time. 2A second retake is, however, limited to up to four examinations in Bachelor's degree courses and up to three examinations in Master's degree courses. 3Elective modules are not considered. 4If examinations in courses offered by the Center for Languages and Intercultural Competence can be repeated a second time, is determined by the relevant study and examination regulations. 5The second repeat examination must be taken within a p eriod of 12 months after notification of the result of the first repeat examination. 6The study and examination regulations may regulate third repeat examinations. 7§ 42 para. 2 and 3 remains unaffected . (3) 1The first repeat examination must be taken in the same form as the examination to be repeated . 2The module handbooks may provide for the second repeat examination to be taken in a different form. (4) 1The deadlines for taking repeat examinations are extended exclusively in accordance with §47. 2In particular, changes of degree program , appeals against examination decisions, leaves of absence and exmatriculation do not affect the running of the deadlines . 3Repeat examinations not taken in due time are deemed to have been taken and not passed.
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html","If you don't take your retake exam within 6 months from when you were notified of the initial failure, it will be considered that you have taken and failed the exam. Specifically:
+
+- The first repeat examination must be taken no later than six months after notification was given of the first failure.
+- Repeat exams not taken in due time are deemed to have been taken and not passed.
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/services-and-support/student-affairs/study-and-examination-regulations.html",0.42424242424242425,0.36018957345971564,0.6357955932617188,0.6357955932617188,0.7248479127883911,0.2222222222222222,0.7209849039713542,0.45,0.41125541125541126,0.0,3.565491199493408
+filter_bge_qwen,69,Summer semester exam period?,The exam period is 11.07.2026 – 31.07.2026,The exam period for summer semester is from 11.07.2026 to 31.07.2026.,0.8750000000000001,0.5555555555555556,0.7987914681434631,0.7987914085388184,0.8313457369804382,0.2222222222222222,0.7075649070739747,1.0,1.0,0.0,1.4740803241729736
+filter_bge_qwen,70,Holidays in winter semester?,"Yes, German Unity Day: 03.10.2025, All Saints' Day: 01.11.2025, Campus holiday: 23.12.2025, Christmas vacation: 24.12.2025 - 06.01.2026, Semester vacation: 16.02.2026 - 14.03.2026","The holidays in winter semester include:
+- German Unity Day: October 3, 2025
+- All Saints' Day: November 1, 2025
+- Campus holiday: December 23, 2025
+- Christmas vacation: December 24, 2025 – January 6, 2026
+- Semester vacation: February 16, 2026 – March 14, 2026",0.4666666666666667,0.4313725490196078,0.8075146675109863,0.8075146079063416,0.7280404567718506,0.5483870967741935,0.41578150956861437,0.0,0.6752136752136753,0.0,4.246985912322998
+filter_bge_qwen,71,What are the holidays in summer semester?,"Yes, Easter holidays: 02.04.2026 – 07.04.2026, Labour Day: 01.05.2026, Ascension Day: 14.05.2026, Pentecost: 22.05.2026 – 26.05.2026, Corpus Christi: 04.06.2026, Campus holiday: 05.06.2026, Semester vacation: 01.08.2026 – 30.09.2026","The holidays in summer semester 2026 include:
+
+- Easter holidays: April 2nd to April 7th, 2026
+- Labour Day: May 1st, 2026
+- Ascension Day: May 14th, 2026
+- Pentecost: May 22nd to May 26th, 2026
+- Corpus Christi: June 4th, 2026
+- Campus holiday: June 5th, 2026
+- Semester vacation: August 1st to September 30th, 2026",0.5245901639344263,0.4067796610169492,0.7715721130371094,0.7715721726417542,0.7564973831176758,0.3333333333333333,0.4960402083396912,0.0,0.6423076923076924,0.0,5.559535980224609
+filter_bge_qwen,72,Last class of winter semester?,23.01.2026,I don't have that information.,0.0,0.0,0.18028360605239868,0.1802835762500763,0.10499650239944458,1.0,0.03605671525001526,0.0,0.0,0.0,0.5525047779083252
+filter_bge_qwen,73,Re-registration for the next summer semester,Re-registration period is 19.12.2025 - 22.01.2026,Re-registration for the next summer semester opens from 01.07.2026 – 13.08.2026.,0.3157894736842105,0.11764705882352942,0.6620415449142456,0.6620415449142456,0.7850856184959412,0.7,0.40033495616912845,0.4,0.6666666666666666,0.0,1.5175950527191162
+filter_bge_qwen,74,Class start date of summer semester,Classes begin on 16.03.2026,16.03.2026,0.7499999999999999,0.4,0.5531558394432068,0.5531558990478516,0.16467240452766418,0.0,0.8212623596191406,0.6666666666666666,0.5,0.0,1.0544657707214355
+filter_bge_qwen,75,Do I have class today?,"The university is closed on: German Unity Day: 03.10.2025, All Saints' Day: 01.11.2025, Campus holiday: 23.12.2025, Christmas vacation: 24.12.2025 - 06.01.2026, Semester vacation: 16.02.2026 - 14.03.2026, Easter holidays: 02.04.2026 – 07.04.2026, Labour Day: 01.05.2026, Ascension Day: 14.05.2026, Pentecost: 22.05.2026 – 26.05.2026, Corpus Christi: 04.06.2026, Campus holiday: 05.06.2026, Semester vacation: 01.08.2026 – 30.09.2026",I don't have that information.,0.0,0.0,0.12038954347372055,0.12038956582546234,0.09550028294324875,1.0,0.04815582633018494,0.0,0.0,0.0,0.8058304786682129
+filter_bge_qwen,76,Exam registration date for winter semester?,Exam registration is from 04.11.2025 - 12.11.2025,Exam registration is from 04.11.2025 - 12.11.2025 for the winter semester.,0.8750000000000001,0.7777777777777778,0.8923977613449097,0.8923976421356201,0.8781076669692993,0.2222222222222222,0.7412631511688234,1.0,1.0,0.0,1.4957058429718018
+filter_bge_qwen,77,How much is rent in Hof?,"350€ - 550€, Incl. rent, water, energy, broadcast fee and internet. Housing options","The typical rent in Hof ranges from 350€ to 550€ per month, including rent, water, energy, broadcast fee, and internet.",0.5714285714285715,0.4242424242424242,0.5949403047561646,0.594940185546875,0.8729261755943298,0.5,0.48417846679687504,0.0,0.5,0.0,1.5470247268676758
+filter_bge_qwen,78,What is the semester fee?,"145€, Specific amount changes per semester. More information about the semester fee",The semester fee is 145€. More information about the semester fee can be found [here](http://www.hof-university.de/en/study/fees-and-costs/semester-fee).,0.47058823529411764,0.5,0.7790067195892334,0.7790066003799438,0.7409548759460449,0.6,0.5516026401519776,1.0,0.75,0.0,2.0080080032348633
+filter_bge_qwen,79,Cost of health insurance?,"120€, Amount for statutory student health insurance - expenses for private health insurance contracts vary",The cost of health insurance is 120€.,0.46153846153846156,0.2105263157894737,0.6900649070739746,0.6900650262832642,0.7508845925331116,0.25,0.7260260105133056,0.0,0.5,0.0,0.7505600452423096
+filter_bge_qwen,80,Is health insurance mandatory?,"Yes. For enrolment, you are legally required to have a valid health insurance. What type of health insurance you need depends on different factors, such as student status, age and country of origin. Please seeour guide hereto find out which insurance you need. Notaccepted for enrollment are any travel insurances, though they might be required for your visa process. All students must contact a statutory German health insurance providerin time before the semester start, even if you cannot arrive in Germany for the semester start. For details, please log in to the online guide for international students (as explained in your admission letter).","Health insurance is mandatory. For enrollment, you are legally required to have a valid health insurance.",0.26923076923076916,0.2608695652173913,0.5681124329566956,0.5681123733520508,0.8494228720664978,0.125,0.7522449493408203,0.14285714285714285,0.125,0.0,1.0449020862579346
+filter_bge_qwen,81,Can I work while studying?,"Yes, students can work with certain restrictions. EU students: up to 19 hours/week without social security contributions. Non-EU students: 140 full days or 280 half days per year.","Yes, you can work while studying. 
+
+EU students can work up to 19 hours per week without paying social security contributions. Non-EU students are generally allowed to work 140 full days or 280 half days per year. Working beyond these limits would require additional permits from the Federal Employment Agency and the Immigration Office.",0.5365853658536585,0.5833333333333333,0.880791187286377,0.8807912468910217,0.6299353837966919,0.6071428571428571,0.529227706023625,0.6666666666666666,1.0,0.0,3.0030462741851807
+filter_bge_qwen,82,Are there scholarships available?,"At Hof University, we do not offer scholarships that will cover the entire living and tuition expenses for our study programs. After completing the first semester, overachieving students may apply forpartial scholarships. All first-year students and current students also have the opportunity to apply for the “Deutschlandstipendium” In addition, international scholarshipsare offered through DAAD. Interested students can apply there directly.","Yes, scholarships are available. Hof University offers several types of scholarships:
+
+- **Deutschlandstipendium**: Provides €300 per month for at least one year, and ideally until the end of the regular study period. This is awarded based on talent and academic performance regardless of income, and is open to students of all nationalities and backgrounds. Criteria include previous achievements, personal background, social commitment, willingness to take on responsibility, and special personal, social, or family circumstances.
+
+- **Scholarships for Senior Students**: Funded by the Bavarian Ministry of Science, Research and the Arts, the DAAD (STIBET III), and exclusively for Graduate School students – the Hof University Graduate School. These scholarships require official enrollment status at Hof University and depend on the availability of funds from these sources.
+
+For application details and further information about other scholarship opportunities, refer to the [DAAD Scholarship Database](https://www.daad.de/studienfinanzierung/suche",0.10619469026548672,0.13157894736842105,0.8469547033309937,0.8469548225402832,0.6112691760063171,0.9259259259259259,0.2682584614223904,0.5,0.375,0.0,7.937176465988159
+filter_bge_qwen,83,Can I get any scholarships based on my results?,"Hof University offers a limited number of scholarships for international students to help cover additional living expenses and study materials. Important note: For more information regarding other scholarship opportunities, please consult theDAAD Scholarship Database. • You can already apply for theDeutschlandstipendiumas astudy applicant(before enrollment). • Scholarships for senior students, however, are only available once you areofficially enrolledat Hof University. With the Deutschlandstipendium, Hof University supports highly talented students whose background and achievements promise outstanding performance in their studies and careers. The scholarship provides€300 per monthfor at least one year, and ideally until the end of the regular study period. Awards are granted independently of income and are open to students ofall nationalities and backgrounds,based on talent and academic performance. In addition to previous achievements and personal background, criteria such as social commitment, willingness to take on responsibility, or special personal, social, or family circumstances are also taken into account. Our scholarships for senior students are funded by theBavarian Ministry of Science, Research and the Arts, theDAAD(STIBET III), and—exclusively for Graduate School students—theHof University Graduate School. Please note that funding depends on the availability of resources from these providers, so the scholarship amounts may vary each semester. Application deadlines For a quick overview, all important details are summarized in ourscholarship information leaflet. Please note:Only students already enrolled at Hof University are eligible for these scholarships. They arenot granted prior to admission. • Summer semester: approx. end of April • Winter semester: approx. end of October","Yes, you can get scholarships based on your results. Specifically:
+
+- **Deutschlandstipendium**: This is an option if you are still applying for university before enrollment. It provides €300 per month for at least one year, potentially continuing until the completion of your studies. Eligibility is based on talent and academic performance without regard to income, and it’s open to students of all nationalities.
+
+- **Scholarships for Senior Students**: These become available after official enrollment at Hof University and require being officially enrolled. Funding comes from various sources like the Bavarian Ministry of Science, Research and the Arts, the DAAD (STIBET III), and the Hof University Graduate School. 
+
+For further information about other scholarship opportunities, you should consult the [DAAD Scholarship Database](https://www.daad.de/daad/en/home/) directly.",0.37499999999999994,0.31417624521072796,0.8388594388961792,0.8388595581054688,0.5463597774505615,0.4626865671641791,0.65793188294368,0.375,0.7321428571428572,0.0,7.148305177688599
+filter_bge_qwen,84,What are the total costs per month?,Total monthly expenses are around 820€ - 1.020€*,"The total costs per month range from 820€ to 1,020€.",0.28571428571428575,0.22222222222222224,0.8408195972442627,0.8408195972442627,0.7795710563659668,0.75,0.48632783889770514,0.5,0.5,0.0,1.052288293838501
+filter_bge_qwen,85,Do I need VPD for Artificial Intelligence and Robotics?,"Yes, you need VPD for the Artificial Intelligence and Robotics M. Sc. program.","Yes, you need VPD for the Artificial Intelligence and Robotics M. Sc. program.",1.0,1.0,1.0,1.0,0.901848554611206,0.0,1.0,1.0,1.0,1.0,0.968015193939209
+filter_bge_qwen,86,Can I apply with a VPD from another university?,"No, you can only apply with a VPD issued for Hof University. However, you can use this VPD multiple times and for multiple semesters when applying on thePrimuss portal.","No, you cannot apply with a VPD from another university. You can only apply with a VPD issued for Hof University. However, you can use this VPD multiple times and for multiple semesters when applying through the Primuss portal.",0.8275862068965517,0.8461538461538461,0.8641062378883362,0.8641061186790466,0.857441782951355,0.25,0.7956424474716186,1.0,1.0,0.0,2.16823673248291
+filter_bge_qwen,87,Do I need to send documents by post?,"No. The application process is entirely online. Please donotsend any application documents via post, as they will not be considered. ",No. Documents should not be sent via post. All application documents should be uploaded through the online application portal.,0.47058823529411764,0.4117647058823529,0.6194268465042114,0.619426965713501,0.7983112335205078,0.42857142857142855,0.5906279291425431,0.3333333333333333,0.3333333333333333,0.0,1.1470108032226562
+filter_bge_qwen,88,Can I apply for multiple programs?,Yes. You can apply for several programs within the application period viaPrimuss portal.,"Yes, you can apply for multiple programs during the application period through the Primuss portal.",0.631578947368421,0.6666666666666666,0.8261136412620544,0.8261135816574097,0.8320924043655396,0.3333333333333333,0.7304454326629639,0.5,0.5,0.0,0.9629790782928467
+filter_bge_qwen,89,Do I need VPD for Supply Chain Management?,"VPD is required for the following programs: Artificial Intelligence and Robotics (M. Sc.), Composite Materials (M. Eng.), Global Management (M. A.), Human Resource Management and Labour Law (M. A. / LL. M.), International Project Management (M. A./M. Eng.), Mechanical Engineering (M. Eng.), Sustainable Textiles (M. Eng.), Sustainable Water Management and Engineering (M. Eng.)",I don't have that information.,0.0,0.0,0.09650497883558273,0.09650500118732452,0.04818863794207573,1.0,0.038602000474929815,0.0,0.0,0.0,0.5958418846130371
+filter_bge_qwen,90,What are the steps for enrollment?,Enrollment for your study program is conducted online completely It is not possible to enroll in-person The following steps must be complete in order to be enrolled: After all steps are completed you will be notified about your successfull enrollment by email Welcome at Hof University Enrollment and Campus Card • You have confirmed your admission in Primuss portal • You have paid the fee as explained in your admission letter • You have uploaded a recent photo in Primuss portal • Hof University has received electronic notification by a statutory health insurance provider about your insurance status More information on health insurance,"Enrollment for your study program is conducted entirely online; it is not possible to enroll in person. To successfully enroll, the following steps must be completed:
+
+1. Confirm your admission in the PrimusS portal.
+2. Pay the required fees as detailed in your admission letter.
+3. Upload a recent photograph in the PrimusS portal.
+4. Ensure that Hof University receives an electronic notification from a statutory health insurance provider regarding your insurance status.
+
+After completing these steps, you will receive an email confirming successful enrollment. Shortly before your studies begin, typically around end of September or beginning of March, you can log into the PrimusS Student Portal with your student access data to download your enrollment certificate. Both your student data and enrollment certificate will become available once your enrollment is finalized. International students are encouraged to participate in Orientation Weeks offered just before the semester begins.",0.45161290322580644,0.4293785310734463,0.886171281337738,0.8861713409423828,0.5879111289978027,0.6266666666666667,0.5784685363769531,1.0,0.3333333333333333,0.0,6.847282648086548
+filter_bge_qwen,91,How many ECTS credits for Operational Excellence & Innovation Management?,6 ECTS (European Credit Transfer System),6 ECTS (European Credit Transfer System)credits,0.923076923076923,0.8333333333333334,0.941379964351654,0.9413799047470093,0.6031367778778076,0.14285714285714285,0.890837676184518,1.0,1.0,0.0,0.6875894069671631
+filter_bge_qwen,92,What is the exam type for Global Business Strategy?,"StA50 (Study Paper - 50 hours workload), Präs20 (Presentation - 20 minutes)","The exam type for Global Business Strategy is StA50 (Study Paper - 50 hours workload), Präs20 (Presentation - 20 minutes).",0.782608695652174,0.6666666666666666,0.6892443895339966,0.6892443895339966,0.8435052633285522,0.35714285714285715,0.5952708373750959,0.0,1.0,0.0,0.932497501373291
+filter_bge_qwen,93,How many credits is Global Sales & Key Account Management?,6 ECTS (European Credit Transfer System),6 ECTS (European Credit Transfer System) credits,0.923076923076923,0.923076923076923,0.941379964351654,0.9413799047470093,0.4380839467048645,0.14285714285714285,0.890837676184518,1.0,1.0,0.0,0.6761186122894287
+filter_bge_qwen,94,What is the exam type for International Value Chain Management?,StA10 (Study Paper - 10 hours workload),The exam type for International Value Chain Management is StA10 (Study Paper - 10 hours workload).,0.6666666666666666,0.5217391304347825,0.6105877161026001,0.6105875968933105,0.8413788676261902,0.5,0.38096452713012696,0.0,1.0,0.0,0.7960071563720703
+filter_bge_qwen,95,What are the master thesis requirements for Sustainable Water Management and Engineering?,"(1) Students may not begin processing the Master's thesis before having acquired at least 48 credit points by completing modules of the degree program. 2The Master’s Thesis basically serves the scientific processing of a specific operational problem or a research task and is therefore to be prepared within the framework of a special related internship. 3On request, the Examination Board may allow the Master’s Thesis to be prepared outside of an internship, if the practical relevance of the thesis is nevertheless assured and the topic is suitable for a special theoretical deepening. (2) 1 Only full-time professors of Hof University of Applied Sciences who are teaching in the Master’s program Sustainable Water Management and Engineering or have done so in the last two years prior to their appointment may be appointed as examiners. 2The Examination Board decides on exceptions based on subject-specific criteria. (3) The processing period is five months. — 5 —","The master thesis requirements for Sustainable Water Management and Engineering M. Eng. are:
+
+1. Students must acquire at least 48 credit points by completing modules of the degree program before beginning the Master's thesis.
+2. The Master’s Thesis should serve the scientific processing of a specific operational problem or research task and needs to be prepared within the framework of a special related internship.
+3. On request, the Examination Board may permit the preparation of the Master’s Thesis outside of an internship if it maintains practical relevance and offers suitable opportunities for theoretical deepening.
+4. Only full-time professors of Hof University of Applied Sciences who teach in the Master’s program Sustainable Water Management and Engineering or have taught there in the past two years can act as examiners; however, exceptions might be made with approval from the Examination Board under certain circumstances.
+5. The processing period for the thesis is five months.",0.7417218543046358,0.6543778801843319,0.9309995174407959,0.9309996366500854,0.7788281440734863,0.2727272727272727,0.8087634910236705,0.7142857142857143,1.0,0.0,7.052944660186768
+filter_bge_qwen,96,What are the thesis requirements for AI-Driven Supply Chain Management?,Specific thesis requirements for AI-Driven Supply Chain Management (M. Sc.) are not listed. Please check the program page or contact the program coordinator.,"I don't have that information. The specific thesis requirements for AI-Driven Supply Chain Management (M. Sc.) are not listed. Please contact the program coordinator for detailed information on thesis requirements.
+
+For more information, please visit: https://www.hof-university.com/studying-at-hof-university/our-degree-programs/ai-driven-supply-chain-management-msc.html",0.7000000000000001,0.6538461538461537,0.9663311243057251,0.9663310647010803,0.9153545498847961,0.44,0.650279183292389,0.75,0.8571428571428571,0.0,1.7332501411437988
+filter_bge_qwen,97,Can I bring my family while I am studying in Germany?,"This depends on your individual situation. EU-citizen usually can bring their spouses/children without a visa. Non-EU citizen can also bring their spouse/under-age children when certain conditions are met, among others: It is best to inform yourself at your local German embassy about the requirements for your individual situation. Moreover, you can have a look at the information providedhereandhere. • Valid residence in Germany • Separate visa applications/appointments for all accompanying family members • Proof of sufficient financial resources for all accompanying family members • Basic German skills(exceptions for some countries) of spouse • Valid health insurance for all accompanying family members • Proof of housing","You can bring your family while studying in Germany depending on your individual circumstances:
+
+- **EU Citizens:** Usually, they can bring their spouses and underage children without needing a visa.
+  
+- **Non-EU Citizens:** They might also be able to bring their spouse and/or under-age children but must meet several conditions such as having valid residency in Germany, separate visa applications for each family member, proof of sufficient financial means, basic German language proficiency (with exceptions), valid health insurance, and evidence of accommodation.
+
+For detailed guidance tailored to your personal situation, it's advisable to consult your nearest German Embassy or refer to additional resources provided [here](#link-to-resource-one) and [here](#link-to-resource-two).",0.48543689320388356,0.3949044585987261,0.856182336807251,0.8561822772026062,0.7501723766326904,0.5535714285714286,0.6103300537381853,0.4,0.3,0.0,5.819698810577393
+filter_bge_qwen,98,Can you recommend a health insurance provider?,The University is not allowed to recommend health insurance companies. Please do your research on the options available to you and choose a provider who offers appropriate service for your individual situation. Check out the information in the online guide for international students (as explained in your admission letter).,I don't have that information. The University does not recommend specific health insurance providers. Please refer to the online guide for international students for more detailed guidance on selecting an appropriate health insurance plan based on your individual circumstances.,0.56,0.45333333333333337,0.8831957578659058,0.8831958770751953,0.5660463571548462,0.36363636363636365,0.7350965326482599,0.3333333333333333,0.75,0.0,1.9121205806732178
+filter_bge_qwen,99,Can I apply via an agency?,"Hof University does not work together with any agencies in Germany or abroad for recruiting students. There are no advantages for students applying through agencies in Primuss application portal. On the contrary, it is necessary that you inform yourself from the beginning of the application/admission process about all necessary steps. We do not communicate with agents on students’ behalf. Further, we do not send any documents/information via email that agents might have missed in the application portal. Therefore, we do not support applications via agencies and strongly recommend all students to apply on their own.","No, you cannot apply via an agency. Hof University does not work with any agencies for student recruitment and there are no benefits for students who apply through agencies. Additionally, they advise against communicating with agents regarding the application process and discourage sending documents or information via email instead of using the official Primuss application portal.",0.4,0.4615384615384615,0.8479690551757812,0.8479690551757812,0.6228471398353577,0.5333333333333333,0.6191876220703125,0.16666666666666666,0.3333333333333333,0.0,2.6499617099761963
+filter_bge_qwen,100,When is the payment deadline and can it be extended?,"There are different deadlines for paying the semester fee, depending on your study program. Your individual deadline for the first semester is mentioned in your admission letter. If there is no deadline given, please consultthe admission office. For higher semesters, you can find the re-registration deadline in Primuss student portal andhere.","The payment deadline varies by study program. 
+
+For most programs, specific deadlines are included in the admission letters. If your admission letter does not specify a deadline, you should contact the admissions office for guidance.
+
+For higher semesters, refer to the re-registration deadline available in the Primuss student portal or here [insert relevant URL if applicable].
+
+Extensions cannot be universally guaranteed but generally speaking, once an initial deadline passes, extensions may not be possible without prior arrangement with the university administration. It's best to check directly with the appropriate department or financial services at Hof University regarding any potential extension requests.",0.3488372093023256,0.3025210084033613,0.7929284572601318,0.7929284572601318,0.6518983244895935,0.7413793103448276,0.4251094170274406,1.0,0.6,0.0,4.717999219894409

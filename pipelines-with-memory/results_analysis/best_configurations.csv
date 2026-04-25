@@ -1,0 +1,16 @@
+Metric,Best Config,Best Value,Direction
+res_Semantic Similarity,bge_qwen,0.9539,higher is better
+res_Token-F1,bge_qwen,0.9218,higher is better
+res_Entity-F1,bge_qwen,0.9328,higher is better
+res_Token Overlap,bge_qwen,0.8842,higher is better
+ans_Entity-F1,minilm_qwen,0.7611,higher is better
+ans_Token-F1,minilm_qwen,0.7383,higher is better
+ans_Cosine Similarity,minilm_qwen,0.9031,higher is better
+ans_Semantic Similarity,minilm_qwen,0.9031,higher is better
+ans_Answer Relevance,bge_qwen,0.6399,higher is better
+ans_Hallucination,minilm_qwen,0.2423,lower is better
+ans_Faithfulness,minilm_qwen,0.8058,higher is better
+ans_Completeness,minilm_qwen,0.8358,higher is better
+ans_Key Info,bge_qwen,0.8363,higher is better
+ans_Exact Match,minilm_qwen,0.2421,higher is better
+Latency (s),minilm_qwen,3.8586,lower is better

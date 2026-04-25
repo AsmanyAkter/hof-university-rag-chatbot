@@ -1,0 +1,4 @@
+embedding_model,mistral_v01,mistral_v02,phi2,qwen,OVERALL
+bge,0.8724,0.5066,0.4809,0.6743,0.6336
+minilm,0.87,0.4802,0.4905,0.6838,0.6311
+multiqa,0.8835,0.4876,0.469,0.6792,0.6298

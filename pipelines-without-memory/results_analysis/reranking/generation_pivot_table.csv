@@ -1,0 +1,5 @@
+generation_model,bge,minilm,multiqa,OVERALL
+mistral_v01,0.8724,0.87,0.8835,0.8753
+qwen,0.6743,0.6838,0.6792,0.6791
+mistral_v02,0.5066,0.4802,0.4876,0.4915
+phi2,0.4809,0.4905,0.469,0.4801
