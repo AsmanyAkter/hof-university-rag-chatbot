@@ -43,12 +43,12 @@ pip install -r requirements.txt
 
 # RAG Pipeline Without Memory (`pipelines-without-memory`)
 
-This project implements a series of incremental improvements to the RAG pipeline, progressing through four variants:
+This project explores a step-by-step improvement of a Retrieval-Augmented Generation (RAG) pipeline, starting from a simple baseline and gradually adding more advanced techniques. 
 
-1. **Baseline** — standard retrieval and generation with no enhancements
-2. **Query Routing** — introduces intent-based query routing to the most relevant data source, along with an improved chunking strategy for better retrieval precision
-3. **Query Expansion** — builds on Query Routing by expanding the user query into multiple sub-queries to improve retrieval coverage
-4. **Reranking** — builds on Query Routing by applying a cross-encoder to rerank retrieved chunks before generation
+1. **Baseline** — uses a standard setup for retrieving information and generating responses, without any additional optimizations.
+2. **Query Routing** — introduces intent-based query routing to the most relevant data source, along with an improved chunking strategy for better retrieval precision.
+3. **Query Expansion** — builds on Query Routing by expanding the user query into multiple sub-queries to improve retrieval coverage.
+4. **Reranking** — builds on Query Routing by applying a cross-encoder to rerank retrieved chunks before generation.
 
 ## Why Two Notebooks per Variant?
 
@@ -68,18 +68,20 @@ Each pipeline variant has two separate notebooks — one for Mistral-v01 / Mistr
 | Re-Ranking | `4. reranking-qwen.ipynb` |
 | | `4. reranking_mistral_v01-mistral_v02-phi2.ipynb` |
 
+#### Each notebook contains RAG Pipeline implementation and evaluation codebase. All four pipeline variants are evaluated across **12 configurations** — every combination of the following embedding and generation models:
 
-## Evaluation Results (`evaluation_results/`)
 
-This folder contains the output of running each pipeline variant against the `test_cases_100.csv` test set across all model configurations. Each result file covers a different combination of embedding model and generation model, producing metrics such as Entity-F1, Token-F1, Semantic Similarity, Faithfulness, Hallucination Rate, Key Info Coverage, Completeness, and Latency.
 
-All four pipeline variants are evaluated across **12 configurations** — every combination of the following embedding and generation models:
 
 | | Models |
 |---|---|
 | **Embedding Models** | `all-MiniLM-L6-v2` · `BAAI/bge-small-en-v1.5` · `multi-qa-MiniLM-L6-cos-v1` |
 | **Generation Models** | `Qwen2.5-7B-Instruct` · `Mistral-7B-v0.1` · `Mistral-7B-Instruct-v0.2` · `Phi-2` |
 
+
+## Evaluation Results (`evaluation_results/`)
+
+This folder contains the output of running each pipeline variant against the `test_cases_100.csv` test set across all model configurations. Each result file covers a different combination of embedding model and generation model, producing metrics such as Entity-F1, Token-F1, Semantic Similarity, Faithfulness, Hallucination Rate, Key Info Coverage, Completeness, and Latency.
 
 
 ## Result Analysis
@@ -107,9 +109,13 @@ The table below shows the best overall score per pipeline variant (top-performin
 
 # RAG Pipeline With Memory (`pipelines-with-memory`)
 
-Based on findings from the without-memory pipelines, the **Re-Ranking variant** consistently produced the most accurate answers (Overall: 0.883, Hallucination: 0.092). The memory-aware pipeline is therefore built on top of this variant, extending it with conversational memory to handle multi-turn interactions.
+Based on findings from the without-memory pipelines, the **Re-Ranking variant** consistently produced the most accurate answers (Overall: 0.883, Hallucination: 0.092). The memory pipeline is therefore built on top of this variant, extending it with conversational memory to handle multi-turn interactions.
 
-The memory pipeline is evaluated on two dimensions: **query resolution quality** — how accurately the pipeline resolves pronouns and context-dependent references across conversation turns — and **answer quality** — the standard generation metrics applied to the final response.
+The memory pipeline is evaluated on two dimensions: 
+
+**query resolution quality** — focuses on how well the system understands context across multiple conversation turns. This includes its ability to correctly resolve pronouns and references that depend on earlier parts of the dialogue. 
+
+**answer quality** — answer quality measures how well the system can actually produce a useful answer. It looks at how accurate, relevant, and coherent the final response is, based on generation metrics.
 
 ## Why Two Notebooks?
 
@@ -168,3 +174,5 @@ Standard generation metrics applied to the final answer produced after query res
 | MultiQA | Mistral-v0.2 | 0.482 | 0.416 | 0.398 | 0.696 | 0.610 |
 
 > Qwen2.5 also leads in answer quality, with MiniLM + Qwen2.5 achieving the best overall score of **0.806**. Note that answer quality scores are lower than the without-memory Re-Ranking pipeline (0.883), which is expected given the added complexity of multi-turn conversation handling.
+
+### Best performing pipeline: The best-performing pipeline is implemented in the `memory-Qwen.ipynb` notebook, which contains the final and most effective version of the codebase.
