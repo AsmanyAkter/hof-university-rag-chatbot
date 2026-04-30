@@ -75,7 +75,7 @@ Each pipeline variant has two separate notebooks — one for Mistral-v01 / Mistr
 
 | | Models |
 |---|---|
-| **Embedding Models** | `all-MiniLM-L6-v2` · `BAAI/bge-small-en-v1.5` · `multi-qa-MiniLM-L6-cos-v1` |
+| **Embedding Models** | `all-MiniLM-L6-v2` · `BAAI/bge-base-en-v1.5` · `multi-qa-mpnet-base-dot-v1` |
 | **Generation Models** | `Qwen2.5-7B-Instruct` · `Mistral-7B-v0.1` · `Mistral-7B-Instruct-v0.2` · `Phi-2` |
 
 
@@ -136,7 +136,7 @@ All configurations are evaluated across **12 combinations** of the following emb
 
 | | Models |
 |---|---|
-| **Embedding Models** | `all-MiniLM-L6-v2` · `BAAI/bge-small-en-v1.5` · `multi-qa-MiniLM-L6-cos-v1` |
+| **Embedding Models** | `all-MiniLM-L6-v2` · `BAAI/bge-base-en-v1.5` · `multi-qa-mpnet-base-dot-v1` |
 | **Generation Models** | `Qwen2.5-7B-Instruct` · `Mistral-7B-v0.1` · `Mistral-7B-Instruct-v0.2` · `Phi-2` |
 
 ## Result Analysis
