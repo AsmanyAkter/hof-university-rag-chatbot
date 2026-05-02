@@ -13,7 +13,7 @@ This repository contains code for three main components:
 pip install -r requirements.txt
 ```
 
-> **Note:** A valid HuggingFace access token is required to run the pipelines. Open the `.env` file in the pipeline folder and replace the `HF_TOKEN` placeholder with the token provided in the thesis report appendix.
+> **Note:** A valid HuggingFace access token is required to run the pipelines. Open the `.env` file in the pipeline folder and replace the `HF_TOKEN` placeholder with the token provided in the report appendix.
 
 # Data Collection Pipeline 
 ## Step-by-Step Instructions
