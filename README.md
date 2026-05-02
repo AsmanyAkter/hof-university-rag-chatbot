@@ -6,13 +6,17 @@ This repository contains code for three main components:
 - [RAG Pipeline With Memory](#rag-pipeline-with-memory-pipelines-with-memory) — conversational multi-turn pipeline built on the best-performing Re-Ranking variant, extended with memory to handle pronoun resolution and context-dependent queries, evaluated on a 15-conversation test set.
 ---
 
-# Data Collection Pipeline — Setup & Instructions
+# Setup & Instructions
 
 ## Requirements
 ```bash
 pip install -r requirements.txt
 ```
 
+
+A valid HuggingFace access token is required to run the pipelines. Open the `.env` file in the pipeline folder and replace the `HF_TOKEN` placeholder with the token provided in the thesis report appendix.
+
+# Data Collection Pipeline 
 ## Step-by-Step Instructions
 
 > **Note:** Run notebooks in the following order, as a few steps depend on the output of the previous one.
